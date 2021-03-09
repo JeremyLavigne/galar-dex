@@ -1,8 +1,8 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-// Test
-const getPokemonList = async (url) => {
+const getPokemonList = async () => {
+    const url = 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/pokedex-galar';
     const page = await axios.get(url);
 
     if (!page) {
@@ -13,39 +13,24 @@ const getPokemonList = async (url) => {
     const $ = cheerio.load(page.data);
 
     const data = [];
-    $('td')
-        //.filter((i, el) => $(el).text() !== '\n' && !$(el).text().match('Live'))
+    $('tr')
         .each((i, el) => {
-            data.push($(el).text());
+            const helper = []; // 5 td : [number, img, name, img, talent, localisation]
+            $('td', el).each((j, elt) => {
+                helper.push($(elt).text());
+            });
+            data.push(helper);
         });
-
-    // $('td')
-    //     .filter((i, el) => typeof $(el).parent().parent().attr('class') === 'undefined')
-    //     .each((i, el) => {
-    //         const helper = []; // 2 span : [homeTeam, AwayTeam]
-    //         $('span', el).each((j, elt) => {
-    //             helper.push($(elt).text());
-    //         });
-    //         pokemonIds.push(helper);
-    //     });
-
-    // const pokemonNamesFr = [];
-    // $('.table-main--leaguefixtures .h-text-right')
-    //     .filter((i, el) => $(el).text() !== '\n' && !$(el).text().match('Live'))
-    //     .each((i, el) => {
-    //         pokemonNamesFr.push($(el).text());
-    //     });
-
-    // PokemonNamesEn
-    // Types
 
     const fullList = [];
 
-    for (let i = 0; i < data.length; i += 6) {
+    for (let i = 3; i < data.length - 6; i += 1) {
         const item = {
-            galarId: data[i],
-            nameFr: data[i + 2],
-            localisation: data[i + 5],
+            galarId: data[i][0],
+            nameFr: data[i][2],
+            nameEn: '',
+            evo: '',
+            localisation: data[i][5].split(','),
         };
         fullList.push(item);
     }
