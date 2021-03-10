@@ -1,0 +1,1184 @@
+[
+  {
+    "route": "Route 1",
+    "level": "Niveau 3-6",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "Rongourmand",
+      "Minisange",
+      "Moumouton",
+      "Goupilou",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 1",
+    "level": "Niveau 2-5",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Rongourmand",
+      "Larvadar",
+      "Chenipan",
+      "Larvibule",
+      "Hoothoot"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "15",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 5-7",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "Rongourmand",
+      "Minisange",
+      "Goupilou",
+      "Khélocrok",
+      "Voltoutou",
+      "Zigzaton"
+    ],
+    "percentages": [
+      "38",
+      "30",
+      "15",
+      "10",
+      "5",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 4-6",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Larvadar",
+      "Minisange",
+      "Grainipiot",
+      "NénupiotChacripan",
+      "Hoothoot"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "É20",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 4-6",
+    "where": "Pêche",
+    "pokemons": [
+      "Magicarpe",
+      "Khélocrok",
+      "Embrochet",
+      ""
+    ],
+    "percentages": [
+      "80",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 8M",
+    "where": "Fixe",
+    "pokemons": [
+      "Khélocrok"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 8M",
+    "where": "Fixe",
+    "pokemons": [
+      "Voltoutou"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 40-44",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "ZigzatonLarvadar",
+      "Goupilou",
+      "Voltoutou",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 37-40",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Tournicoton",
+      "Chacripan",
+      "Grainipiot",
+      "NénupiotLarvadar",
+      "Khélocrok",
+      ""
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "É20",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 38-40",
+    "where": "Surf",
+    "pokemons": [
+      "Embrochet",
+      "Hastacuda",
+      "Léviator"
+    ],
+    "percentages": [
+      "70",
+      "28",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 38-40",
+    "where": "Pêche",
+    "pokemons": [
+      "Magicarpe",
+      "Khélocrok",
+      "Barpau",
+      ""
+    ],
+    "percentages": [
+      "59",
+      "40",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 55",
+    "where": "Fixe",
+    "pokemons": [
+      "Lokhlass"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 50",
+    "where": "Fixe",
+    "pokemons": [
+      "Torgamord"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 2",
+    "level": "Niveau 50",
+    "where": "Fixe",
+    "pokemons": [
+      "Ixon"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 3",
+    "level": "Niveau 10-14",
+    "where": "Pokémon vadrouilleurs côté ville",
+    "pokemons": [
+      "ZigzatonTournicoton",
+      "Goupix",
+      "Caninos",
+      "MoufouetteMiamiasme",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "38",
+      "30",
+      "15",
+      "É15",
+      "B10",
+      "5",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Route 3",
+    "level": "Niveau 10-13",
+    "where": "Pokémon vadrouilleurs côté mine",
+    "pokemons": [
+      "Charbi",
+      "Miamiasme",
+      ""
+    ],
+    "percentages": [
+      "99",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 3",
+    "level": "Niveau 8-13",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Minisange",
+      "Machoc",
+      "Pandespiègle",
+      "Tiboudet",
+      "Tic",
+      "Grillepattes"
+    ],
+    "percentages": [
+      "35",
+      "20",
+      "20",
+      "15",
+      "9",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 3",
+    "level": "Niveau 8-13",
+    "where": "Arbre à Baies",
+    "pokemons": [
+      "Rongourmand",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "80",
+      "20",
+      ""
+    ]
+  },
+  {
+    "route": "Route 3",
+    "level": "Niveau 18",
+    "where": "Fixe",
+    "pokemons": [
+      "Bleuseille"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 4",
+    "level": "Niveau 14-16",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "Dynavolt",
+      "Miaouss",
+      "Voltoutou",
+      "PitrouillePitrouille MiniPitrouille MaxiPikachu",
+      "Évoli",
+      "Pitrouille Ultra"
+    ],
+    "percentages": [
+      "30",
+      "23",
+      "20",
+      "10",
+      "5",
+      "5",
+      "5",
+      "É1",
+      "B1",
+      "É5",
+      "B1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 4",
+    "level": "Niveau 13-15",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Miaouss",
+      "Moumouton",
+      "Crèmy",
+      "StatitikBombydouRozboutonGrindur"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "20",
+      "10",
+      "5",
+      "4",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 4",
+    "level": "Niveau 13-15",
+    "where": "Pêche",
+    "pokemons": [
+      "Magicarpe",
+      "Khélocrok",
+      "Poissirène",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Route 4",
+    "level": "Niveau 13-15",
+    "where": "Arbre à Baies",
+    "pokemons": [
+      "Rongourmand",
+      ""
+    ],
+    "percentages": [
+      "100",
+      ""
+    ]
+  },
+  {
+    "route": "Route 4",
+    "level": "Niveau 17",
+    "where": "Fixe",
+    "pokemons": [
+      "Taupiqueur (x2)"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 5",
+    "level": "Niveau 19-21",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "NounoursonSucroquin",
+      "Fluvetin",
+      "Chinchidou",
+      "Qulbutoké",
+      "BaudriveCanarticho",
+      ""
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "É30",
+      "B15",
+      "É20",
+      "B10",
+      "5",
+      "5",
+      "É"
+    ]
+  },
+  {
+    "route": "Route 5",
+    "level": "Niveau 16-18",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "ColéôdomePsystigri",
+      "PifeuilLombreSucroquin",
+      "Fluvetin",
+      "VerpomAraquaNingale"
+    ],
+    "percentages": [
+      "26",
+      "20",
+      "20",
+      "É20",
+      "B14",
+      "É14",
+      "B10",
+      "5",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 5",
+    "level": "Niveau 16-18",
+    "where": "Pêche",
+    "pokemons": [
+      "Magicarpe",
+      "Khélocrok",
+      "Poissirène",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Route 5",
+    "level": "Niveau 16-18",
+    "where": "Arbre à Baies",
+    "pokemons": [
+      "Rongourmand",
+      ""
+    ],
+    "percentages": [
+      "100",
+      ""
+    ]
+  },
+  {
+    "route": "Route 5",
+    "level": "Niveau 22",
+    "where": "Fixe",
+    "pokemons": [
+      "Blancoton"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 5",
+    "level": "n",
+    "where": "",
+    "pokemons": [
+      "JournalistesJonathan et ÉmelineTic",
+      "Niveau 18"
+    ],
+    "percentages": [
+      "GalvaranNiveau 18"
+    ]
+  },
+  {
+    "route": "Route 6",
+    "level": "Niveau 29-33",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "TutafehGalvaranTriopikeur",
+      "Maracachi",
+      "Coupenotte",
+      "Kraknoix",
+      ""
+    ],
+    "percentages": [
+      "35",
+      "29",
+      "20",
+      "10",
+      "5",
+      "É1",
+      "B1",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Route 6",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Dunaja",
+      "FermiteAflamanoir",
+      "Skelénox",
+      "RapionHippopotas",
+      "Chartor",
+      "Brutalibré"
+    ],
+    "percentages": [
+      "30",
+      "20",
+      "É5",
+      "B5",
+      "É20",
+      "B18",
+      "10",
+      "10",
+      "5",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Route 6",
+    "level": "Niveau 28-30",
+    "where": "Pêche",
+    "pokemons": [
+      "Magicarpe",
+      "TorgamordPoissirène",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Route 6",
+    "level": "Niveau 28-30",
+    "where": "Arbre à Baies",
+    "pokemons": [
+      "Rongrigou",
+      ""
+    ],
+    "percentages": [
+      "100",
+      ""
+    ]
+  },
+  {
+    "route": "Route 6",
+    "level": "n",
+    "where": "",
+    "pokemons": [
+      "MédecinsSandie & AurélienTogeticNiveau 31"
+    ],
+    "percentages": [
+      "ScalpionNiveau 31"
+    ]
+  },
+  {
+    "route": "Route 7",
+    "level": "Niveau 37-41",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "Berserkatt",
+      "Roublenard",
+      "MygavoltLéopardus",
+      "SepiatopMorpeko"
+    ],
+    "percentages": [
+      "30",
+      "20",
+      "20",
+      "15",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 7",
+    "level": "Niveau 36-40",
+    "where": "Arbre à Baies",
+    "pokemons": [
+      "Rongrigou",
+      ""
+    ],
+    "percentages": [
+      "100",
+      ""
+    ]
+  },
+  {
+    "route": "Route 7",
+    "level": "Niveau 36-40",
+    "where": "Cachés dans les herbes (météo normale)",
+    "pokemons": [
+      "ToxizapCarabing",
+      "Escargaume",
+      "CorvaillusLéopardus",
+      "Mistigrix",
+      "Mistigrix",
+      "Crapustule"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "É5",
+      "B5",
+      "É25",
+      "B20",
+      "10",
+      "10",
+      "É10",
+      "B5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 7",
+    "level": "Niveau 36-40",
+    "where": "Cachés dans les herbes (autres météos)",
+    "pokemons": [
+      "ToxizapCarabing",
+      "Escargaume",
+      "CorvaillusLéopardus",
+      "Mistigrix",
+      "Mistigrix",
+      "Crapustule"
+    ],
+    "percentages": [
+      "25",
+      "20",
+      "É5",
+      "B5",
+      "É20",
+      "B20",
+      "10",
+      "10",
+      "É10",
+      "B10",
+      ""
+    ]
+  },
+  {
+    "route": "Route 8",
+    "level": "Niveau 39-41",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "GringolemOuvrifier",
+      "Géolithe",
+      "ScalpionFuraiglonVostournoTogedemaruSolarocSéléroc"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "É10",
+      "B10",
+      "É25",
+      "B20",
+      "10",
+      "É10",
+      "B5",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Route 8",
+    "level": "Niveau 38-40",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Dunaconda",
+      "RhinocorneTéraclope",
+      "SpectrumArchéodongHippodocus",
+      "DrascoreHexadron",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "20",
+      "15",
+      "10",
+      "10",
+      "8",
+      "5",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Route 8",
+    "level": "Niveau 40",
+    "where": "Fixe",
+    "pokemons": [
+      "Crabaraque"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 8",
+    "level": "Niveau 40",
+    "where": "Fixe",
+    "pokemons": [
+      "Hexadron"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 8",
+    "level": "Niveau 39-43",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "FrissonilleStalgamin",
+      "FarfuretSorboul",
+      "Karaclée",
+      "Judokrak",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Route 8",
+    "level": "Niveau 38-41",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "FrissonilleFarfuretBlizziCadoizoDarumarond",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "10",
+      "É15",
+      "B5",
+      "É"
+    ]
+  },
+  {
+    "route": "Route 8",
+    "level": "n",
+    "where": "",
+    "pokemons": [
+      "Collègues de bureauScotty & CassandraMinotaupeNiveau 36LucarioNiveau 37"
+    ],
+    "percentages": [
+      "Hippodocus-Niveau 36Berserkatt-Niveau 37"
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 41-44",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "BekipanVorastérieMoyadeTritosorConcombaffe",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "É5",
+      "B5",
+      "É35",
+      "B15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 38-42",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "NigosierOctillery",
+      "Krabboss",
+      "Wattapik",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "25",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 39-43",
+    "where": "Surf",
+    "pokemons": [
+      "BekipanQwilfishBabimantaMoyade"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "25",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 38-42",
+    "where": "Pêche",
+    "pokemons": [
+      "Octillery",
+      "Froussardine",
+      "Concombaffe",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "30",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 55",
+    "where": "Fixe",
+    "pokemons": [
+      "Oniglali"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 39-43",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "Poulpaf",
+      "Octillery",
+      "PrédastérieGrelaçon",
+      "GolgopatheSinistrail"
+    ],
+    "percentages": [
+      "30",
+      "24",
+      "20",
+      "É5",
+      "B15",
+      "É20",
+      "B10",
+      "É20",
+      "B1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 39-43",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "NigosierTritosorSepiatopWattapik",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "25",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 39-43",
+    "where": "Surf",
+    "pokemons": [
+      "Wailmer",
+      "BabimantaRémoraid",
+      "Démanta"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "15",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 39-43",
+    "where": "Pêche",
+    "pokemons": [
+      "BabimantaWailmer",
+      "DémantaWailord",
+      "Lokhlass"
+    ],
+    "percentages": [
+      "50",
+      "34",
+      "10",
+      "5",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 39-43",
+    "where": "Arbre à Baies",
+    "pokemons": [
+      "Rongrigou",
+      ""
+    ],
+    "percentages": [
+      "100",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 50",
+    "where": "Fixe",
+    "pokemons": [
+      "Krakos"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 40-44",
+    "where": "Pokémon vadrouilleurs (météo normale)",
+    "pokemons": [
+      "Grelaçon",
+      "Poulpaf",
+      "VorastériePrédastérieSinistrail"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "24",
+      "5",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 40-44",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Berserkatt",
+      "Roublenard",
+      "Léopardus",
+      "Morpeko"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "25",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 40-44",
+    "where": "Pokémon vadrouilleurs (autres météos)",
+    "pokemons": [
+      "Grelaçon",
+      "Poulpaf",
+      "VorastérieMoyadeSinistrail"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "24",
+      "5",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "Niveau 40-44",
+    "where": "Arbre à Baies",
+    "pokemons": [
+      "Rongrigou",
+      ""
+    ],
+    "percentages": [
+      "100",
+      ""
+    ]
+  },
+  {
+    "route": "Route 9",
+    "level": "n",
+    "where": "",
+    "pokemons": [
+      "Artistes de RueLylia & JaySalarsenNiveau 41"
+    ],
+    "percentages": [
+      "Maracachi-Niveau 41"
+    ]
+  },
+  {
+    "route": "Route 10",
+    "level": "Niveau 45-48",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "M. MimePolarhume",
+      "BlizziOniglali",
+      "Sorbouboul",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Route 10",
+    "level": "Niveau 43-46 dans Épée / 44-49 dans Bouclier",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Sorboul",
+      "Clic",
+      "RhinoférosFrissonilleDarumarond",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "É35",
+      "B30",
+      "25",
+      "10",
+      "5",
+      "É"
+    ]
+  },
+  {
+    "route": "Route 10",
+    "level": "Niveau 45-48",
+    "where": "Pokémon vadrouilleurs (météo normale)",
+    "pokemons": [
+      "M. MimeBlizziPolarhume",
+      "FarfuretDuralugon"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "14",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 10",
+    "level": "Niveau 45-48",
+    "where": "Pokémon vadrouilleurs (autres météos)",
+    "pokemons": [
+      "M. MimeBlizziPolarhume",
+      "FarfuretDuralugon"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "15",
+      "14",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Route 10",
+    "level": "Niveau 44-46",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Sorboul",
+      "BlizzaroiPolagriffe",
+      "FrissonilleDarumarond",
+      "Dolman",
+      "Bekaglaçon",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "É35",
+      "B28",
+      "25",
+      "10",
+      "5",
+      "É2",
+      "É2",
+      "B"
+    ]
+  },
+  {
+    "route": "Route 10",
+    "level": "Niveau 55",
+    "where": "Fixe",
+    "pokemons": [
+      "Blizzaroi"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 10",
+    "level": "Niveau 55",
+    "where": "Fixe",
+    "pokemons": [
+      "Polagriffe"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Route 10",
+    "level": "n",
+    "where": "",
+    "pokemons": [
+      "JournalistesJonathan & ÉmelineCliticlic",
+      "Niveau 46TogedemaruNiveau 47"
+    ],
+    "percentages": [
+      "Iguolta-Niveau 46BruyverneNiveau 47"
+    ]
+  }
+]
