@@ -671,242 +671,230 @@
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 13-15",
+    "where": "Pokémon vadrouilleurs - Météo normale",
     "pokemons": [
-      "MystherbeHoothootSapereau",
-      "PifeuilLombre"
+      "Mystherbe",
+      "Hoothoot",
+      "Sapereau",
+      "Lombre"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 13-15",
+    "where": "Pokémon vadrouilleurs - Ciel couvert",
     "pokemons": [
-      "MystherbeHoothootPifeuilLombreDebugant",
-      ""
+      "Mystherbe",
+      "Hoothoot",
+      "Lombre",
+      "Debugant"
     ],
     "percentages": [
       "60",
       "28",
       "10",
-      "É10",
-      "B2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 13-15",
+    "where": "Pokémon vadrouilleurs - Pluie",
     "pokemons": [
       "Tritonde",
-      "MystherbeSapereau",
-      "PifeuilLombre"
+      "Mystherbe",
+      "Sapereau",
+      "Lombre"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 13-15",
+    "where": "Pokémon vadrouilleurs - Orage",
     "pokemons": [
       "Tritonde",
       "Dynavolt",
-      "MystherbePifeuilLombre"
+      "Mystherbe",
+      "Lombre"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 13-15",
+    "where": "Pokémon vadrouilleurs - Soleil intense",
     "pokemons": [
-      "BalbutoSapereau",
-      "PifeuilLombreGoupix",
-      "Caninos",
-      ""
+      "Balbuto",
+      "Sapereau",
+      "Lombre",
+      "Caninos"
     ],
     "percentages": [
       "60",
       "28",
       "10",
-      "É10",
-      "B2",
-      "É2",
-      "B"
+      "2"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 13-15",
+    "where": "Pokémon vadrouilleurs - Neige",
     "pokemons": [
-      "CadoizoSapereau",
-      "HoothootPifeuilLombre"
-    ],
-    "percentages": [
-      "60",
-      "25",
-      "10",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Blizzard",
-    "pokemons": [
-      "CadoizoSorbébé",
+      "Cadoizo",
       "Sapereau",
-      "PifeuilLombre"
+      "Hoothoot",
+      "Lombre"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 13-15",
+    "where": "Pokémon vadrouilleurs - Blizzard",
     "pokemons": [
-      "BalbutoSapereau",
-      "HoothootPifeuilLombre"
+      "Cadoizo",
+      "Sorbébé",
+      "Sapereau",
+      "Lombre"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 13-15",
+    "where": "Pokémon vadrouilleurs - Tempête de sable",
+    "pokemons": [
+      "Balbuto",
+      "Sapereau",
+      "Hoothoot",
+      "Lombre"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "Niveau 13-15",
+    "where": "Pokémon vadrouilleurs - Brume",
     "pokemons": [
       "Chacripan",
-      "TarsalHoothootPifeuilLombre"
+      "Tarsal",
+      "Hoothoot",
+      "Lombre"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 11-15",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
-      "Grainipiot",
-      "NénupiotRozboutonSapereau",
-      "Croquine",
-      ""
-    ],
-    "percentages": [
-      "40",
-      "É40",
-      "B35",
-      "20",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Ciel couvert",
-    "pokemons": [
-      "NounoursonMoufouetteGrainipiot",
-      "NénupiotRozbouton"
+      "Nénupiot",
+      "Rozbouton",
+      "Sapereau",
+      "Croquine"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "É20",
-      "B5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 11-15",
+    "where": "Cachés dans les herbes - Ciel couvert",
+    "pokemons": [
+      "Nounourson",
+      "Moufouette",
+      "Nénupiot",
+      "Rozbouton"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "Niveau 11-15",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
       "Tritonde",
       "Larvibule",
-      "Grainipiot",
-      "NénupiotRozbouton"
+      "Nénupiot",
+      "Rozbouton"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "É20",
-      "B5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 11-15",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
-      "StatitikLarvibule",
-      "Grainipiot",
-      "NénupiotRozbouton"
+      "Statitik",
+      "Larvibule",
+      "Nénupiot",
+      "Rozbouton"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "É20",
-      "B5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 11-15",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
-      "Goupix",
       "Caninos",
       "Tiboudet",
       "Sapereau",
@@ -914,201 +902,199 @@
     ],
     "percentages": [
       "40",
-      "É40",
-      "B35",
+      "35",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 11-15",
+    "where": "Cachés dans les herbes - Neige",
     "pokemons": [
-      "BlizziSorbébé",
+      "Blizzi",
+      "Sorbébé",
       "Stalgamin",
-      "Sapereau",
-      ""
+      "Sapereau"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 11-15",
+    "where": "Cachés dans les herbes - Blizzard",
     "pokemons": [
       "Stalgamin",
       "Sorbébé",
       "Tic",
+      "Sapereau"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "Niveau 11-15",
+    "where": "Cachés dans les herbes - Tempête de sable",
+    "pokemons": [
+      "Balbuto",
+      "Gringolem",
       "Sapereau",
-      ""
+      "Croquine"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 11-15",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
-      "BalbutoGringolemSapereau",
-      "Croquine",
-      ""
-    ],
-    "percentages": [
-      "40",
-      "35",
-      "20",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Brume",
-    "pokemons": [
-      "TarsalGrainipiot",
-      "NénupiotChacripan",
+      "Tarsal",
+      "Nénupiot",
+      "Chacripan",
       "Rozbouton"
     ],
     "percentages": [
       "40",
       "35",
-      "É35",
-      "B20",
-      "5",
-      ""
+      "20",
+      "5"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
-    "where": "Arbre à BaiesNiveau 11-15",
+    "level": "Niveau 11-15",
+    "where": "Arbre à Baies",
     "pokemons": [
       "Rongourmand",
-      "Ceribou",
-      ""
+      "Ceribou"
     ],
     "percentages": [
       "70",
-      "30",
-      ""
+      "30"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Normal, ciel couvert et brume",
     "pokemons": [
       "Rafflesia",
-      " 36Chelours",
-      " 34Tengalice",
-      " 34Ludicolo",
-      " 34"
+      "Chelours",
+      "Ludicolo"
     ],
     "percentages": [
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Pluie et orage",
     "pokemons": [
       "Crapustule",
-      " 36Chelours",
-      " 34Tengalice",
-      " 34Ludicolo",
-      " 34"
+      "Chelours",
+      "Ludicolo"
     ],
     "percentages": [
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Soleil intense et tempête de sable",
     "pokemons": [
       "Kaorine",
-      " 36Chelours",
-      " 34Pandarbare",
-      " 34"
+      "Chelours",
+      "Pandarbare"
     ],
     "percentages": [
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Bois de Clairjour",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Neige et blizzard",
     "pokemons": [
-      "Sorboul-",
-      " 36Chelours",
-      " 34Pandarbare",
-      " 34"
+      "Sorboul",
+      "Chelours",
+      "Pandarbare"
     ],
     "percentages": [
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Sud et Est) - Météo normale",
     "pokemons": [
-      "NoarfangLinéonLéopardus",
+      "Noarfang",
+      "Linéon",
+      "Léopardus",
       "Chinchidou",
-      "BaggiguaneCradopaud"
+      "Cradopaud"
     ],
     "percentages": [
       "40",
       "35",
       "10",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Sud et Est) - Ciel couvert",
     "pokemons": [
-      "LinéonBaggiguaneCradopaudOrtideChinchidou",
+      "Linéon",
+      "Cradopaud",
+      "Ortide",
+      "Chinchidou",
       "Noarfang"
     ],
     "percentages": [
       "40",
       "35",
-      "É35",
-      "B10",
       "10",
-      "5",
-      ""
+      "10",
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Sud et Est) - Pluie",
     "pokemons": [
-      "TorgamordMaraisteNoarfangChinchidou",
+      "Torgamord",
+      "Maraiste",
+      "Noarfang",
+      "Chinchidou",
       "Linéon"
     ],
     "percentages": [
@@ -1116,16 +1102,17 @@
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Sud et Est) - Orage",
     "pokemons": [
-      "MaraisteTorgamordÉlecsprint",
+      "Maraiste",
+      "Torgamord",
+      "Élecsprint",
       "Chinchidou",
       "Noarfang"
     ],
@@ -1134,16 +1121,17 @@
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Sud et Est) - Soleil intense",
     "pokemons": [
-      "WagomineExcavarenneChartor",
+      "Wagomine",
+      "Excavarenne",
+      "Chartor",
       "Chinchidou",
       "Noarfang"
     ],
@@ -1152,17 +1140,18 @@
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Sud et Est) - Neige",
     "pokemons": [
       "Sorbébé",
-      "FarfuretLinéonChinchidou",
+      "Farfuret",
+      "Linéon",
+      "Chinchidou",
       "Noarfang"
     ],
     "percentages": [
@@ -1170,35 +1159,37 @@
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Sud et Est) - Blizzard",
     "pokemons": [
-      "FarfuretSorbébé",
-      "LinéonChinchidou",
-      "Riolu",
-      ""
+      "Farfuret",
+      "Sorbébé",
+      "Linéon",
+      "Chinchidou",
+      "Riolu"
     ],
     "percentages": [
       "40",
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Sud et Est) - Tempête de sable",
     "pokemons": [
-      "WagomineExcavarenneNoarfangChinchidou",
+      "Wagomine",
+      "Excavarenne",
+      "Noarfang",
+      "Chinchidou",
       "Caratroc"
     ],
     "percentages": [
@@ -1206,252 +1197,253 @@
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Sud et Est) - Brume",
     "pokemons": [
-      "Scrutella",
       "Nucléos",
       "Mélofée",
-      "NoarfangChinchidou",
+      "Noarfang",
+      "Chinchidou",
       "Linéon"
     ],
     "percentages": [
       "40",
-      "É40",
-      "B35",
+      "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes en hauteur près du mur) - Météo normale",
     "pokemons": [
-      "ColéodômeLarvadar",
-      "HoothootBaggiguaneCradopaud"
+      "Coléodôme",
+      "Larvadar",
+      "Hoothoot",
+      "Cradopaud"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes en hauteur près du mur) - Ciel couvert",
     "pokemons": [
-      "ColéodômeBaggiguaneCradopaudOrtideHoothoot"
-    ],
-    "percentages": [
-      "50",
-      "35",
-      "É35",
-      "B10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Pluie",
-    "pokemons": [
-      "ColéodômeAxolotoHoothootKhélocrok",
-      ""
+      "Coléodôme",
+      "Cradopaud",
+      "Ortide",
+      "Hoothoot"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes en hauteur près du mur) - Pluie",
     "pokemons": [
-      "ColéodômeKhélocrok",
-      "AxolotoHoothoot"
+      "Coléodôme",
+      "Axoloto",
+      "Hoothoot",
+      "Khélocrok"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes en hauteur près du mur) - Orage",
+    "pokemons": [
+      "Coléodôme",
+      "Khélocrok",
+      "Axoloto",
+      "Hoothoot"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes en hauteur près du mur) - Soleil intense",
     "pokemons": [
       "Charbi",
-      "ColéodômeChartor",
+      "Coléodôme",
+      "Chartor",
       "Hoothoot"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes en hauteur près du mur) - Neige",
     "pokemons": [
       "Sorbébé",
-      "ColéodômeFarfuretHoothoot"
-    ],
-    "percentages": [
-      "50",
-      "35",
-      "10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Blizzard",
-    "pokemons": [
-      "FarfuretColéodômeSorbébé",
-      "Riolu",
-      ""
-    ],
-    "percentages": [
-      "50",
-      "35",
-      "10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Tempête de sable",
-    "pokemons": [
-      "Sapereau",
-      "ColéodômeHoothootCaratroc"
-    ],
-    "percentages": [
-      "50",
-      "35",
-      "10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Brume",
-    "pokemons": [
-      "Scrutella",
-      "Nucléos",
-      "ColéodômeMélofée",
+      "Coléodôme",
+      "Farfuret",
       "Hoothoot"
     ],
     "percentages": [
       "50",
-      "É50",
-      "B35",
+      "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes en hauteur près du mur) - Blizzard",
+    "pokemons": [
+      "Farfuret",
+      "Coléodôme",
+      "Sorbébé",
+      "Riolu"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes en hauteur près du mur) - Tempête de sable",
+    "pokemons": [
+      "Sapereau",
+      "Coléodôme",
+      "Hoothoot",
+      "Caratroc"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes en hauteur près du mur) - Brume",
+    "pokemons": [
+      "Nucléos",
+      "Coléodôme",
+      "Mélofée",
+      "Hoothoot"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "Niveau 29-32",
+    "where": "Pokémon vadrouilleurs (herbes Nord-Ouest) - Météo normale",
     "pokemons": [
       "Khélocrok",
       "Larvadar",
-      "ZigzatonBaggiguaneCradopaud"
+      "Zigzaton",
+      "Cradopaud"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 29-32",
+    "where": "Pokémon vadrouilleurs (herbes Nord-Ouest) - Ciel couvert",
     "pokemons": [
       "Khélocrok",
-      "BaggiguaneCradopaudOrtideZigzaton"
-    ],
-    "percentages": [
-      "50",
-      "35",
-      "É35",
-      "B10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Pluie",
-    "pokemons": [
-      "Khélocrok",
-      "AxolotoZigzatonOrtide"
+      "Cradopaud",
+      "Ortide",
+      "Zigzaton"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 29-32",
+    "where": "Pokémon vadrouilleurs (herbes Nord-Ouest) - Pluie",
     "pokemons": [
       "Khélocrok",
-      "OrtideAxolotoZigzaton"
+      "Axoloto",
+      "Zigzaton",
+      "Ortide"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 29-32",
+    "where": "Pokémon vadrouilleurs (herbes Nord-Ouest) - Orage",
+    "pokemons": [
+      "Khélocrok",
+      "Ortide",
+      "Axoloto",
+      "Zigzaton"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "Niveau 29-32",
+    "where": "Pokémon vadrouilleurs (herbes Nord-Ouest) - Soleil intense",
     "pokemons": [
       "Charbi",
       "Khélocrok",
@@ -1462,68 +1454,65 @@
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 29-32",
+    "where": "Pokémon vadrouilleurs (herbes Nord-Ouest) - Neige",
     "pokemons": [
       "Sorbébé",
       "Khélocrok",
-      "FarfuretZigzaton"
+      "Farfuret",
+      "Zigzaton"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 29-32",
+    "where": "Pokémon vadrouilleurs (herbes Nord-Ouest) - Blizzard",
     "pokemons": [
-      "FarfuretKhélocrok",
+      "Farfuret",
+      "Khélocrok",
       "Sorbébé",
-      "Riolu",
-      ""
+      "Riolu"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 29-32",
+    "where": "Pokémon vadrouilleurs (herbes Nord-Ouest) - Tempête de sable",
     "pokemons": [
       "Sapereau",
       "Khélocrok",
-      "ZigzatonCaratroc"
+      "Zigzaton",
+      "Caratroc"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 29-32",
+    "where": "Pokémon vadrouilleurs (herbes Nord-Ouest) - Brume",
     "pokemons": [
-      "Mesmérella",
       "Nucléos",
       "Khélocrok",
       "Mélofée",
@@ -1531,187 +1520,178 @@
     ],
     "percentages": [
       "50",
-      "É50",
-      "B35",
+      "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Pluie, orage, neige et blizzard",
+    "level": "Niveau 31-34",
+    "where": "Pokémon vadrouilleurs (désert) - Pluie, orage, neige et blizzard",
     "pokemons": [
-      "RhinocorneCharbi",
-      "Géolithe",
-      ""
+      "Rhinocorne",
+      "Charbi",
+      "Géolithe"
     ],
     "percentages": [
       "60",
-      "30",
-      "É10",
-      "B10",
-      "É30",
-      "B"
+      "10",
+      "30"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Autres météos",
+    "level": "Niveau 31-34",
+    "where": "Pokémon vadrouilleurs (désert) - Autres météos",
     "pokemons": [
       "Charbi",
-      "RhinocorneGéolithe",
-      ""
+      "Rhinocorne",
+      "Géolithe"
     ],
     "percentages": [
       "60",
-      "30",
-      "É10",
-      "B10",
-      "É30",
-      "B"
+      "10",
+      "30"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Toutes les météos",
+    "level": "Niveau 41-44",
+    "where": "Pokémon vadrouilleurs (désert autour du gros rocher) - Toutes les météos",
     "pokemons": [
-      "SolarocSéléroc"
+      "Séléroc"
     ],
     "percentages": [
-      "100",
-      "É100",
-      "B"
+      "100"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
-      "PifeuilLombreColéodômeBlancoton",
+      "Lombre",
+      "Coléodôme",
+      "Blancoton",
       "Moufouette"
     ],
     "percentages": [
       "40",
-      "É40",
-      "B30",
+      "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
       "Blancoton",
-      "ColéodômeMunna",
-      "Carabing",
-      "Escargaume",
-      ""
+      "Coléodôme",
+      "Munna",
+      "Escargaume"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      "É10",
-      "B"
+      "10"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "BatracnéSancoki",
-      "ColéodômeBlancoton",
-      ""
+      "Batracné",
+      "Sancoki",
+      "Coléodôme",
+      "Blancoton"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
-      "StatitikToxizapSancoki",
+      "Statitik",
+      "Toxizap",
+      "Sancoki",
       "Coléodôme"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
-      "GringolemBalbutoRototaupe",
-      "Triopikeur",
-      ""
+      "Gringolem",
+      "Balbuto",
+      "Rototaupe",
+      "Triopikeur"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Neige",
     "pokemons": [
-      "BlizziStalgamin",
-      "CadoizoColéodôme"
+      "Blizzi",
+      "Stalgamin",
+      "Cadoizo",
+      "Coléodôme"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Blizzard",
     "pokemons": [
       "Stalgamin",
-      "ScalpionCadoizoColéodôme"
+      "Scalpion",
+      "Cadoizo",
+      "Coléodôme"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Tempête de sable",
     "pokemons": [
-      "GringolemRototaupe",
+      "Gringolem",
+      "Rototaupe",
       "Tiboudet",
       "Coléodôme"
     ],
@@ -1719,32 +1699,30 @@
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
       "Munna",
-      "ColéodômeSkelénox",
-      "Blancoton",
-      ""
+      "Coléodôme",
+      "Skelénox",
+      "Blancoton"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "PêcheNiveau 26-28",
+    "level": "Niveau 26-28",
+    "where": "Pêche",
     "pokemons": [
       "Poissirène",
       "Krabby",
@@ -1755,148 +1733,180 @@
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
-    "where": "Arbres à BaiesNiveau 26-28",
+    "level": "Niveau 26-28",
+    "where": "Arbres à Baies",
     "pokemons": [
       "Rongrigou",
-      "Ceribou",
-      ""
+      "Ceribou"
     ],
     "percentages": [
       "75",
-      "25",
-      ""
+      "25"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Météo normale, nuageux",
     "pokemons": [
       "Dimoclès",
-      " 56Astronelle",
-      " 41Torgamord",
-      " 36Pashmilla-",
-      " 46Ectoplasma",
-      " 60Corvaillus",
-      " 40Monthracite",
-      " 65"
+      "Astronelle",
+      "Torgamord",
+      "Pashmilla",
+      "Ectoplasma",
+      "Corvaillus",
+      "Monthracite"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Pluie",
     "pokemons": [
       "Dimoclès",
-      " 56Astronelle",
-      " 41Torgamord",
-      " 36Crapustule",
-      " 46Sarmuraï",
-      " 60Corvaillus",
-      " 40Monthracite",
-      " 65"
+      "Astronelle",
+      "Torgamord",
+      "Crapustule",
+      "Sarmuraï",
+      "Corvaillus",
+      "Monthracite"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Orage",
     "pokemons": [
       "Dimoclès",
-      " 56Astronelle",
-      " 41Torgamord",
-      " 36Mygavolt",
-      " 46Ectoplasma",
-      " 60Corvaillus",
-      " 40Monthracite",
-      " 65"
+      "Astronelle",
+      "Torgamord",
+      "Mygavolt",
+      "Ectoplasma",
+      "Corvaillus",
+      "Monthracite"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Soleil intense et tempête de sable",
     "pokemons": [
       "Dimoclès",
-      " 56Astronelle",
-      " 41Torgamord",
-      " 36Minotaupe",
-      " 46Ectoplasma",
-      " 60Corvaillus",
-      " 40Monthracite",
-      " 65"
+      "Astronelle",
+      "Torgamord",
+      "Minotaupe",
+      "Ectoplasma",
+      "Corvaillus",
+      "Monthracite"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Neige",
     "pokemons": [
       "Dimoclès",
-      " 56Astronelle",
-      " 41Torgamord",
-      " 36Oniglali-",
-      " 46Polagriffe-",
-      " 60Corvaillus",
-      " 40Monthracite",
-      " 65"
+      "Astronelle",
+      "Torgamord",
+      "Oniglali",
+      "Polagriffe",
+      "Corvaillus",
+      "Monthracite"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Blizzard",
     "pokemons": [
       "Dimoclès",
-      " 56Astronelle",
-      " 41Torgamord",
-      " 36Oniglali-",
-      " 46Ectoplasma",
-      " 60Corvaillus",
-      " 40Monthracite",
-      " 65"
+      "Astronelle",
+      "Torgamord",
+      "Oniglali",
+      "Ectoplasma",
+      "Corvaillus",
+      "Monthracite"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Coiffe du Géant",
-    "level": "",
+    "level": "Variable",
     "where": "Fixe - Brume",
     "pokemons": [
       "Exagide",
-      " 56Astronelle",
-      " 41Torgamord",
-      " 36Pashmilla-",
-      " 46Ectoplasma",
-      " 60Corvaillus",
-      " 40Monthracite",
-      " 65"
+      "Astronelle",
+      "Torgamord",
+      "Pashmilla",
+      "Ectoplasma",
+      "Corvaillus",
+      "Monthracite"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
