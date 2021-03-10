@@ -307,7 +307,8 @@
     "localisation": [
       "Oeil du Lac",
       "Plaine Rocheuse",
-      "Plateau de KickenhamMiroir du Géant"
+      "Plateau de Kickenham",
+      "Miroir du Géant"
     ]
   },
   {
@@ -1720,7 +1721,8 @@
     "evo": "Évolution de Fantominus au niveau 25",
     "localisation": [
       "Route 8",
-      "Siège du GéantPlaine Verdoyante",
+      "Siège du Géant",
+      "Plaine Verdoyante",
       "Tour en ruines"
     ]
   },
@@ -2068,10 +2070,8 @@
     "nameEn": "",
     "evo": "Évolution de Charpenti au niveau 25",
     "localisation": [
-      "Épée : Route 8",
       "Fosse des Sables",
-      "Plaine RocheuseBouclier : Route 8",
-      "Fosse des Sables"
+      "Route 8"
     ]
   },
   {
@@ -2286,9 +2286,7 @@
     "nameFr": "Pichu",
     "nameEn": "",
     "evo": "Reproduction de Pikachu",
-    "localisation": [
-      "offert sur HOME"
-    ]
+    "localisation": []
   },
   {
     "galarId": "194",
@@ -2299,7 +2297,7 @@
       "Route 4",
       "Plaine Rocheuse",
       "Plaine Verdoyante",
-      "offert au Sentier de la Gare ; offert sur HOME"
+      "Sentier de la Gare"
     ]
   },
   {
@@ -2316,7 +2314,7 @@
     "evo": "",
     "localisation": [
       "Route 4",
-      "offert au Sentier de la Gare ; offert sur HOME"
+      "Sentier de la Gare"
     ]
   },
   {
@@ -3640,10 +3638,8 @@
     "galarId": "328",
     "nameFr": "Tutétékri",
     "nameEn": "",
-    "evo": "",
-    "localisation": [
-      "Évolution de Tutafeh (Galar) en ayant reçu 49 PV de dégâts sans être KO puis marcher sous l'arche de pierre de la Fosse des Sables (Terres Sauvages)"
-    ]
+    "evo": "Évolution de Tutafeh (Galar) en ayant reçu 49 PV de dégâts sans être KO puis marcher sous l'arche de pierre de la Fosse des Sables (Terres Sauvages)",
+    "localisation": []
   },
   {
     "galarId": "329",
@@ -3871,11 +3867,11 @@
     "galarId": "354",
     "nameFr": "Babimanta",
     "nameEn": "",
-    "evo": "",
+    "evo": "Reproduction de Démanta avec Encens Vague",
     "localisation": [
       "Route 9",
       "Berges de Motorby",
-      "Lac OuraganReproduction de Démanta avec Encens Vague"
+      "Lac Ouragan"
     ]
   },
   {
@@ -4039,8 +4035,7 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Lac Ouragan",
-      "offert sur HOME"
+      "Lac Ouragan"
     ]
   },
   {
@@ -4056,37 +4051,29 @@
     "galarId": "374",
     "nameFr": "Galvagon",
     "nameEn": "",
-    "evo": "",
-    "localisation": [
-      "Réanimation de Fossiles Dragon + Oiseau sur la Route 6"
-    ]
+    "evo": "Réanimation de Fossiles Dragon + Oiseau sur la Route 6",
+    "localisation": []
   },
   {
     "galarId": "375",
     "nameFr": "Galvagla",
     "nameEn": "",
-    "evo": "",
-    "localisation": [
-      "Réanimation de Fossiles Aileron + Oiseau sur la Route 6"
-    ]
+    "evo": "Réanimation de Fossiles Aileron + Oiseau sur la Route 6",
+    "localisation": []
   },
   {
     "galarId": "376",
     "nameFr": "Hydragon",
     "nameEn": "",
-    "evo": "",
-    "localisation": [
-      "Réanimation de Fossiles Dragon + Poisson sur la Route 6"
-    ]
+    "evo": "Réanimation de Fossiles Dragon + Poisson sur la Route 6",
+    "localisation": []
   },
   {
     "galarId": "377",
     "nameFr": "Hydragla",
     "nameEn": "",
-    "evo": "",
-    "localisation": [
-      "Réanimation de Fossiles Aileron + Poisson sur la Route 6"
-    ]
+    "evo": "Réanimation de Fossiles Aileron + Poisson sur la Route 6",
+    "localisation": []
   },
   {
     "galarId": "378",

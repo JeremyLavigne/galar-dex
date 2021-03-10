@@ -1,0 +1,350 @@
+[
+  {
+    "route": "Abords de Motorby",
+    "level": "Niveau 22-26",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "Noarfang",
+      "Simularbre",
+      "Smogo",
+      "Bibichut",
+      "Judokrak",
+      "Tritox"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "15",
+      "10",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "route": "Abords de Motorby",
+    "level": "Niveau 21-24",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Cradopaud",
+      "Nodulithe",
+      "Scalpion",
+      "Khélocrok",
+      "Grimalin"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Forêt de Lumirinth",
+    "level": "Niveau 34-36",
+    "where": "Cachés dasn les herbes",
+    "pokemons": [
+      "Fourbelin",
+      "Lampignon",
+      "Chapotus",
+      "Ponyta",
+      "Fluvetin",
+      "Brocélôme",
+      "Théffroi",
+      "Wimessir",
+      "Gouroutan"
+    ],
+    "percentages": [
+      "20",
+      "15",
+      "10",
+      "10",
+      "10",
+      "11",
+      "5",
+      "9"
+    ]
+  },
+  {
+    "route": "Forêt de Lumirinth",
+    "level": "Niveau 38",
+    "where": "Fixe",
+    "pokemons": [
+      "Fourbelin"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Forêt de Lumirinth",
+    "level": "Niveau 31",
+    "where": "Fixe",
+    "pokemons": [
+      "Grimalin"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Forêt de Sleepwood",
+    "level": "Niveau 2-3",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "Rongourmand",
+      "Minisange",
+      "Larvadar",
+      "Larvibule"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Forêt de Sleepwood",
+    "level": "Niveau 2-3",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Rongourmand",
+      "Minisange",
+      "Hoothoot",
+      "Larvadar",
+      "Larvibule"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "15",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Forêt de Sleepwood",
+    "level": "Niveau 45-47",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "Smogogo",
+      "Munna",
+      "Astronelle",
+      "Corvaillus"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Forêt de Sleepwood",
+    "level": "Niveau 45-47",
+    "where": "Cachés dans les herbes",
+    "pokemons": [
+      "Smogogo",
+      "Munna",
+      "Corvaillus",
+      "Astronelle",
+      "Papilusion",
+      "Limonde"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "15",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "route": "Forêt de Sleepwood",
+    "level": "Niveau 45-47",
+    "where": "Pêche",
+    "pokemons": [
+      "Barbicha",
+      "Barloche",
+      "Magicarpe"
+    ],
+    "percentages": [
+      "60",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "route": "Forêt de Sleepwood",
+    "level": "Niveau 48",
+    "where": "Fixe",
+    "pokemons": [
+      "Limonde de Galar"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Mine de Galar",
+    "level": "Niveau 11-14",
+    "where": "Pokémon vadrouilleurs",
+    "pokemons": [
+      "Charbi",
+      "Charpenti",
+      "Nodulithe",
+      "Chovsourir",
+      "Taupiqueur",
+      "Rototaupe"
+    ],
+    "percentages": [
+      "35",
+      "5",
+      "25",
+      "15",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "route": "Mine de Galar",
+    "level": "Niveau 11-15",
+    "where": "Pokémon cachés",
+    "pokemons": [
+      "Charbi",
+      "Charpenti",
+      "Nodulithe",
+      "Taupiqueur",
+      "Chovsourir",
+      "Rototaupe"
+    ],
+    "percentages": [
+      "30",
+      "5",
+      "30",
+      "15",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "route": "Mine de Galar",
+    "level": "Niveau 18",
+    "where": "Fixe",
+    "pokemons": [
+      "Wagomine"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Mine de Galar n°2",
+    "level": "Niveau 20-24",
+    "where": "Pokémon vadrouilleurs (météo normale)",
+    "pokemons": [
+      "Sancoki",
+      "Sovkipou",
+      "Opermine",
+      "Cradopaud",
+      "Sonistrelle",
+      "Caratroc",
+      "Khélocrok"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "15",
+      "15",
+      "10",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "route": "Mine de Galar n°2",
+    "level": "Niveau 20-24",
+    "where": "Pokémon cachés (météo normale)",
+    "pokemons": [
+      "Sovkipou",
+      "Sonistrelle",
+      "Cradopaud",
+      "Caratroc",
+      "Sancoki",
+      "Khélocrok",
+      "Limonde"
+    ],
+    "percentages": [
+      "20",
+      "20",
+      "15",
+      "10",
+      "10",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Mine de Galar n°2",
+    "level": "Niveau 20-24",
+    "where": "Pêche",
+    "pokemons": [
+      "Barloche",
+      "Khélocrok",
+      "Écrapince"
+    ],
+    "percentages": [
+      "55",
+      "30",
+      "15"
+    ]
+  },
+  {
+    "route": "Mine de Galar n°2",
+    "level": "Niveau 50",
+    "where": "Fixe",
+    "pokemons": [
+      "Tritosor"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Mine de Galar n°2",
+    "level": "Niveau 24",
+    "where": "Fixe",
+    "pokemons": [
+      "Torgamord"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Mine de Galar n°2",
+    "level": "Niveau 25",
+    "where": "Fixe",
+    "pokemons": [
+      "Limonde de Galar"
+    ],
+    "percentages": [
+      "100%"
+    ]
+  },
+  {
+    "route": "Sentier de la Gare",
+    "level": "10",
+    "where": "Offert",
+    "pokemons": [
+      "Pikachu",
+      "Evoli"
+    ],
+    "percentages": [
+      "100",
+      "100"
+    ]
+  }
+]
