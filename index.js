@@ -1,6 +1,7 @@
 // const getPokemonList = require("./src/getPokemonList");
 const fs = require('fs');
 const getRouteData = require('./src/getRouteData');
+const getWildLandData = require('./src/getWildLandData');
 
 // getPokemonList().then(list => {
 //     const toWrite = JSON.stringify(list, null, 2);
@@ -98,3 +99,79 @@ const getRouteData = require('./src/getRouteData');
 
 // fetchData();
 
+// const fetchData = async () => {
+//     let fullList = [];
+//     const rte1 = await getRouteData('Abords de Motorby', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/abords-motorby');
+//     const rte2 = await getRouteData('Forêt de Lumirinth', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/foret-lumirinth');
+//     const rte3 = await getRouteData('Forêt de Sleepwood', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/foret-sleepwood');
+//     const rte4 = await getRouteData('Mine de Galar', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/mine-galar');
+//     const rte5 = await getRouteData('Mine de Galar n°2', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/mine-galar-2');
+//     const rte6 = await getRouteData('Sentier de la Gare', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/sentier-gare');
+ 
+//     fullList = fullList.concat(rte1);
+//     fullList = fullList.concat(rte2);
+//     fullList = fullList.concat(rte3);
+//     fullList = fullList.concat(rte4);
+//     fullList = fullList.concat(rte5);
+//     fullList = fullList.concat(rte6);
+
+//     const toWrite = JSON.stringify(fullList, null, 2);
+
+//     fs.writeFile('./assets/routes/others.json', toWrite, function (err) {
+//         if (err) throw err;
+//         console.log('Saved!');
+//     });
+// }
+
+// fetchData();
+
+// const fetchData = async () => {
+//     let fullList = [];
+
+    // const rte1 = await getWildLandData('Berges de Motorby', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/berges-motorby');
+    // const rte2 = await getWildLandData('Bois de Clairjour', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/bois-clairjour');
+    // const rte3 = await getWildLandData('Coiffe du Géant', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/coiffe-geant');
+    // const rte4 = await getWildLandData('Fosse des Sables', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/fosse-sables');
+    // const rte5 = await getWildLandData('Lac Coupenotte Est', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/lac-coupenotte-est');
+    // const rte6 = await getWildLandData('Lac Coupenotte Ouest', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/lac-coupenotte-ouest');
+
+    // const rte7 = await getWildLandData('Lac Milobellus Nord', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/lac-milobellus-nord');
+    // const rte8 = await getWildLandData('Lac Milobellus Sud', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/lac-milobellus-sud');
+    // const rte9 = await getWildLandData('Lac Ouragan', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/lac-ouragan');
+    // const rte10 = await getWildLandData('Miroir du Géant', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/miroir-geant');
+    // const rte11 = await getWildLandData('Oeil du Lac', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/oeil-lac');
+    // const rte12 = await getWildLandData('Plaine Rocheuse', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/plaine-rocheuse');
+
+    // const rte13 = await getWildLandData('Plaine Verdoyante', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/plaine-verdoyante');
+    // const rte14 = await getWildLandData('Plateau de Kickenham', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/plateau-kickenham');
+    // const rte15 = await getWildLandData('Prairie Entre-Ponts', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/prairie-entre-ponts');
+    // const rte16 = await getWildLandData('Siège du Géant', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/siege-geant');
+    // const rte17 = await getWildLandData('Tour en ruines', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/tour-ruines');
+
+    // fullList = fullList.concat(rte1);
+    // fullList = fullList.concat(rte2);
+    // fullList = fullList.concat(rte3);
+    // fullList = fullList.concat(rte4);
+    // fullList = fullList.concat(rte5);
+    // fullList = fullList.concat(rte6);
+    // fullList = fullList.concat(rte7);
+    // fullList = fullList.concat(rte8);
+    // fullList = fullList.concat(rte9);
+    // fullList = fullList.concat(rte10);
+    // fullList = fullList.concat(rte11);
+    // fullList = fullList.concat(rte12);
+    // fullList = fullList.concat(rte13);
+    // fullList = fullList.concat(rte14);
+    // fullList = fullList.concat(rte15);
+    // fullList = fullList.concat(rte16);
+    // fullList = fullList.concat(rte17);
+
+//     const toWrite = JSON.stringify(fullList, null, 2);
+
+//     fs.writeFile('./assets/routes/wild-land2.json', toWrite, function (err) {
+//         if (err) throw err;
+//         console.log('Saved!');
+//     });
+// }
+
+// fetchData();

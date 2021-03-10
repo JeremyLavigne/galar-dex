@@ -1,0 +1,10661 @@
+[
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 28-30",
+    "where": "Pokemons vadrouilleurs - Météo normale",
+    "pokemons": [
+      "Rapion",
+      "Tournicoton",
+      "Chacripan",
+      "Moumouton",
+      "Goinfrex"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 28-30",
+    "where": "Pokemons vadrouilleurs - Ciel couvert",
+    "pokemons": [
+      "Smogo",
+      "Bombydou",
+      "Chacripan",
+      "Minisange",
+      "Judokrak"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 28-30",
+    "where": "Pokemons vadrouilleurs - Pluie",
+    "pokemons": [
+      "Rapion",
+      "Sovkipou",
+      "Chacripan",
+      "Khélocrok",
+      "Araqua"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 28-30",
+    "where": "Pokemons vadrouilleurs - Orage",
+    "pokemons": [
+      "Voltoutou",
+      "Chacripan",
+      "Rapion",
+      "Khélocrok",
+      "Toxizap"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "25",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 28-30",
+    "where": "Pokemons vadrouilleurs - Soleil intense",
+    "pokemons": [
+      "Rhinocorne",
+      "Rapion",
+      "Tritox",
+      "Chacripan",
+      "Chartor",
+      "Charbi"
+    ],
+    "percentages": [
+      "5",
+      "30",
+      "25",
+      "10",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 28-30",
+    "where": "Pokemons vadrouilleurs - Neige",
+    "pokemons": [
+      "Farfuret",
+      "Bombydou",
+      "Chacripan",
+      "Sorbébé",
+      "Moumouton"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 28-30",
+    "where": "Pokemons vadrouilleurs - Blizzard",
+    "pokemons": [
+      "Farfuret",
+      "Sorbébé",
+      "Chacripan",
+      "Bombydou",
+      "Scalpion"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 28-30",
+    "where": "Pokemons vadrouilleurs - Tempête de sable",
+    "pokemons": [
+      "Simularbre",
+      "Rhinocorne",
+      "Rapion",
+      "Chacripan",
+      "Charbi"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 28-30",
+    "where": "Pokemons vadrouilleurs - Brume",
+    "pokemons": [
+      "Mélofée",
+      "Qulbutoké",
+      "Chacripan",
+      "Bombydou",
+      "Skelénox"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Météo normale",
+    "pokemons": [
+      "Bleuseille",
+      "Noarfang",
+      "Blancoton",
+      "Moumouflon",
+      "Cryptéro"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Ciel couvert",
+    "pokemons": [
+      "Rapion",
+      "Bleuseille",
+      "Noarfang",
+      "Moumouflon",
+      "Cryptéro"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Pluie",
+    "pokemons": [
+      "Carabing",
+      "Escargaume",
+      "Opermine",
+      "Bleuseille",
+      "Cryptéro"
+    ],
+    "percentages": [
+      "10",
+      "35",
+      "30",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Orage",
+    "pokemons": [
+      "Sancoki",
+      "Sovkipou",
+      "Fulgudog",
+      "Bleuseille",
+      "Cryptéro"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Soleil intense",
+    "pokemons": [
+      "Rhinocorne",
+      "Funécire",
+      "Bleuseille",
+      "Noarfang",
+      "Cryptéro"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Neige",
+    "pokemons": [
+      "Farfuret",
+      "Sorbébé",
+      "Bleuseille",
+      "Noarfang",
+      "Cryptéro"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Blizzard",
+    "pokemons": [
+      "Scalpion",
+      "Farfuret",
+      "Bleuseille",
+      "Grindur",
+      "Cryptéro"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Tempête de sable",
+    "pokemons": [
+      "Rhinocorne",
+      "Onix",
+      "Noarfang",
+      "Bleuseille",
+      "Cryptéro"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Brume",
+    "pokemons": [
+      "Psystigri",
+      "Lewsor",
+      "Bleuseille",
+      "Noarfang",
+      "Cryptéro"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 40-43",
+    "where": "Surf - Météo normale",
+    "pokemons": [
+      "Bargantua",
+      "Embrochet",
+      "Babimanta"
+    ],
+    "percentages": [
+      "65",
+      "30",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 40-43",
+    "where": "Surf - Ciel couvert",
+    "pokemons": [
+      "Bargantua",
+      "Embrochet",
+      "Babimanta"
+    ],
+    "percentages": [
+      "50",
+      "45",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 40-43",
+    "where": "Surf - Pluie",
+    "pokemons": [
+      "Bargantua",
+      "Embrochet",
+      "Babimanta"
+    ],
+    "percentages": [
+      "55",
+      "40",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 40-43",
+    "where": "Surf - Orage",
+    "pokemons": [
+      "Embrochet",
+      "Bargantua",
+      "Babimanta"
+    ],
+    "percentages": [
+      "65",
+      "30",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 40-43",
+    "where": "Surf - Soleil intense",
+    "pokemons": [
+      "Bargantua",
+      "Embrochet",
+      "Babimanta"
+    ],
+    "percentages": [
+      "70",
+      "25",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 40-43",
+    "where": "Surf - Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Bargantua",
+      "Embrochet",
+      "Babimanta"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 40-43",
+    "where": "Surf - Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "Embrochet",
+      "Bargantua",
+      "Babimanta"
+    ],
+    "percentages": [
+      "65",
+      "20",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 40-43",
+    "where": "Surf - Tempête de sable",
+    "pokemons": [
+      "Embrochet",
+      "Bargantua",
+      "Babimanta"
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 40-43",
+    "where": "Surf - Brume",
+    "pokemons": [
+      "Bargantua",
+      "Embrochet",
+      "Babimanta"
+    ],
+    "percentages": [
+      "50",
+      "45",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Pêche",
+    "pokemons": [
+      "Embrochet",
+      "Bargantua",
+      "Hastacuda",
+      "Vorastérie"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Niveau 26-28",
+    "where": "Arbres à Baies",
+    "pokemons": [
+      "Rongrigou",
+      "Rongourmand",
+      "Ceribou"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Variable",
+    "where": "Fixe - Météo normale",
+    "pokemons": [
+      "Ronflex",
+      "Drascore",
+      "Cryptéro",
+      "Bétochef",
+      "Wailmer",
+      "Blancoton"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Variable",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Ronflex",
+      "Rubombelle",
+      "Cryptéro",
+      "Bétochef",
+      "Wailmer",
+      "Blancoton"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Variable",
+    "where": "Fixe - Pluie et orage",
+    "pokemons": [
+      "Ronflex",
+      "Drascore",
+      "Cryptéro",
+      "Corvaillus",
+      "Bétochef",
+      "Wailmer",
+      "Blancoton"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Variable",
+    "where": "Fixe - Soleil intense",
+    "pokemons": [
+      "Ronflex",
+      "Drascore",
+      "Cryptéro",
+      "Corvaillus",
+      "Rhinoféros",
+      "Wailmer",
+      "Blancoton"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Variable",
+    "where": "Fixe - Neige & blizzard",
+    "pokemons": [
+      "Ronflex",
+      "Rubombelle",
+      "Cryptéro",
+      "Corvaillus",
+      "Bétochef",
+      "Wailmer",
+      "Blancoton"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Variable",
+    "where": "Fixe - Tempête de sable",
+    "pokemons": [
+      "Ronflex",
+      "Rubombelle",
+      "Cryptéro",
+      "Corvaillus",
+      "Rhinoféros",
+      "Wailmer",
+      "Blancoton"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Berges de Motorby",
+    "level": "Variable",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Mélodelfe",
+      "Rubombelle",
+      "Cryptéro",
+      "Bétochef",
+      "Wailmer",
+      "Blancoton"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "MystherbeHoothootSapereau",
+      "PifeuilLombre"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "MystherbeHoothootPifeuilLombreDebugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "É10",
+      "B2",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Tritonde",
+      "MystherbeSapereau",
+      "PifeuilLombre"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Tritonde",
+      "Dynavolt",
+      "MystherbePifeuilLombre"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "BalbutoSapereau",
+      "PifeuilLombreGoupix",
+      "Caninos",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "É10",
+      "B2",
+      "É2",
+      "B"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "CadoizoSapereau",
+      "HoothootPifeuilLombre"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "CadoizoSorbébé",
+      "Sapereau",
+      "PifeuilLombre"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "BalbutoSapereau",
+      "HoothootPifeuilLombre"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Chacripan",
+      "TarsalHoothootPifeuilLombre"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Grainipiot",
+      "NénupiotRozboutonSapereau",
+      "Croquine",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "NounoursonMoufouetteGrainipiot",
+      "NénupiotRozbouton"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "É20",
+      "B5",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Tritonde",
+      "Larvibule",
+      "Grainipiot",
+      "NénupiotRozbouton"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "É20",
+      "B5",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "StatitikLarvibule",
+      "Grainipiot",
+      "NénupiotRozbouton"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "É20",
+      "B5",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Goupix",
+      "Caninos",
+      "Tiboudet",
+      "Sapereau",
+      "Rozbouton"
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "BlizziSorbébé",
+      "Stalgamin",
+      "Sapereau",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Stalgamin",
+      "Sorbébé",
+      "Tic",
+      "Sapereau",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "BalbutoGringolemSapereau",
+      "Croquine",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "TarsalGrainipiot",
+      "NénupiotChacripan",
+      "Rozbouton"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "É35",
+      "B20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Arbre à BaiesNiveau 11-15",
+    "pokemons": [
+      "Rongourmand",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "30",
+      ""
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Fixe - Normal, ciel couvert et brume",
+    "pokemons": [
+      "Rafflesia",
+      " 36Chelours",
+      " 34Tengalice",
+      " 34Ludicolo",
+      " 34"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Fixe - Pluie et orage",
+    "pokemons": [
+      "Crapustule",
+      " 36Chelours",
+      " 34Tengalice",
+      " 34Ludicolo",
+      " 34"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Fixe - Soleil intense et tempête de sable",
+    "pokemons": [
+      "Kaorine",
+      " 36Chelours",
+      " 34Pandarbare",
+      " 34"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Bois de Clairjour",
+    "level": "",
+    "where": "Fixe - Neige et blizzard",
+    "pokemons": [
+      "Sorboul-",
+      " 36Chelours",
+      " 34Pandarbare",
+      " 34"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "NoarfangLinéonLéopardus",
+      "Chinchidou",
+      "BaggiguaneCradopaud"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "LinéonBaggiguaneCradopaudOrtideChinchidou",
+      "Noarfang"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "É35",
+      "B10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "TorgamordMaraisteNoarfangChinchidou",
+      "Linéon"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "MaraisteTorgamordÉlecsprint",
+      "Chinchidou",
+      "Noarfang"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "WagomineExcavarenneChartor",
+      "Chinchidou",
+      "Noarfang"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "FarfuretLinéonChinchidou",
+      "Noarfang"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretSorbébé",
+      "LinéonChinchidou",
+      "Riolu",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "WagomineExcavarenneNoarfangChinchidou",
+      "Caratroc"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Scrutella",
+      "Nucléos",
+      "Mélofée",
+      "NoarfangChinchidou",
+      "Linéon"
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "ColéodômeLarvadar",
+      "HoothootBaggiguaneCradopaud"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "ColéodômeBaggiguaneCradopaudOrtideHoothoot"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "É35",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "ColéodômeAxolotoHoothootKhélocrok",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "ColéodômeKhélocrok",
+      "AxolotoHoothoot"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Charbi",
+      "ColéodômeChartor",
+      "Hoothoot"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "ColéodômeFarfuretHoothoot"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretColéodômeSorbébé",
+      "Riolu",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Sapereau",
+      "ColéodômeHoothootCaratroc"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Scrutella",
+      "Nucléos",
+      "ColéodômeMélofée",
+      "Hoothoot"
+    ],
+    "percentages": [
+      "50",
+      "É50",
+      "B35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Khélocrok",
+      "Larvadar",
+      "ZigzatonBaggiguaneCradopaud"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Khélocrok",
+      "BaggiguaneCradopaudOrtideZigzaton"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "É35",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Khélocrok",
+      "AxolotoZigzatonOrtide"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Khélocrok",
+      "OrtideAxolotoZigzaton"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Charbi",
+      "Khélocrok",
+      "Chartor",
+      "Zigzaton"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Khélocrok",
+      "FarfuretZigzaton"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretKhélocrok",
+      "Sorbébé",
+      "Riolu",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Sapereau",
+      "Khélocrok",
+      "ZigzatonCaratroc"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Mesmérella",
+      "Nucléos",
+      "Khélocrok",
+      "Mélofée",
+      "Zigzaton"
+    ],
+    "percentages": [
+      "50",
+      "É50",
+      "B35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Pluie, orage, neige et blizzard",
+    "pokemons": [
+      "RhinocorneCharbi",
+      "Géolithe",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "30",
+      "É10",
+      "B10",
+      "É30",
+      "B"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Autres météos",
+    "pokemons": [
+      "Charbi",
+      "RhinocorneGéolithe",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "30",
+      "É10",
+      "B10",
+      "É30",
+      "B"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Toutes les météos",
+    "pokemons": [
+      "SolarocSéléroc"
+    ],
+    "percentages": [
+      "100",
+      "É100",
+      "B"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "PifeuilLombreColéodômeBlancoton",
+      "Moufouette"
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Blancoton",
+      "ColéodômeMunna",
+      "Carabing",
+      "Escargaume",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      "É10",
+      "B"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BatracnéSancoki",
+      "ColéodômeBlancoton",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "StatitikToxizapSancoki",
+      "Coléodôme"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "GringolemBalbutoRototaupe",
+      "Triopikeur",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "BlizziStalgamin",
+      "CadoizoColéodôme"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Stalgamin",
+      "ScalpionCadoizoColéodôme"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "GringolemRototaupe",
+      "Tiboudet",
+      "Coléodôme"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Munna",
+      "ColéodômeSkelénox",
+      "Blancoton",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "PêcheNiveau 26-28",
+    "pokemons": [
+      "Poissirène",
+      "Krabby",
+      "Écrapince",
+      "Léviator"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Arbres à BaiesNiveau 26-28",
+    "pokemons": [
+      "Rongrigou",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "75",
+      "25",
+      ""
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Fixe - Météo normale, nuageux",
+    "pokemons": [
+      "Dimoclès",
+      " 56Astronelle",
+      " 41Torgamord",
+      " 36Pashmilla-",
+      " 46Ectoplasma",
+      " 60Corvaillus",
+      " 40Monthracite",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Fixe - Pluie",
+    "pokemons": [
+      "Dimoclès",
+      " 56Astronelle",
+      " 41Torgamord",
+      " 36Crapustule",
+      " 46Sarmuraï",
+      " 60Corvaillus",
+      " 40Monthracite",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Fixe - Orage",
+    "pokemons": [
+      "Dimoclès",
+      " 56Astronelle",
+      " 41Torgamord",
+      " 36Mygavolt",
+      " 46Ectoplasma",
+      " 60Corvaillus",
+      " 40Monthracite",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Fixe - Soleil intense et tempête de sable",
+    "pokemons": [
+      "Dimoclès",
+      " 56Astronelle",
+      " 41Torgamord",
+      " 36Minotaupe",
+      " 46Ectoplasma",
+      " 60Corvaillus",
+      " 40Monthracite",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Fixe - Neige",
+    "pokemons": [
+      "Dimoclès",
+      " 56Astronelle",
+      " 41Torgamord",
+      " 36Oniglali-",
+      " 46Polagriffe-",
+      " 60Corvaillus",
+      " 40Monthracite",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Fixe - Blizzard",
+    "pokemons": [
+      "Dimoclès",
+      " 56Astronelle",
+      " 41Torgamord",
+      " 36Oniglali-",
+      " 46Ectoplasma",
+      " 60Corvaillus",
+      " 40Monthracite",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Coiffe du Géant",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Exagide",
+      " 56Astronelle",
+      " 41Torgamord",
+      " 36Pashmilla-",
+      " 46Ectoplasma",
+      " 60Corvaillus",
+      " 40Monthracite",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Goupilou",
+      "Smogo",
+      "BaggiguaneCradopaud"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      "É15",
+      "B"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "BaggiguaneCradopaudGoupilou",
+      "Kicklee",
+      "Tygnon",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "É60",
+      "B35",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Dynavolt",
+      "BatracnéGoupilou",
+      "Smogo",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Dynavolt",
+      "Goupilou",
+      "Batracné"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Hippopotas",
+      "Caninos",
+      "Goupix",
+      "Rototaupe",
+      "Goupilou",
+      ""
+    ],
+    "percentages": [
+      "55",
+      "30",
+      "É30",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Polarhume",
+      "FarfuretSorboul",
+      "Cadoizo"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "BlizziMysdibuleMarcacrinPolarhume",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "É35",
+      "B15",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Hippopotas",
+      "Rototaupe",
+      "Caratroc"
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Qulbutoké",
+      "Skelénox",
+      "TénéfixMesmérella",
+      "Méios",
+      ""
+    ],
+    "percentages": [
+      "55",
+      "35",
+      "É35",
+      "B10",
+      "É10",
+      "B"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Blancoton",
+      "Moumouflon",
+      "Chapotus",
+      "Verpom"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "MoufflairBlancoton",
+      "Chapotus",
+      "Rosélia"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BekipanGolgopatheBlancoton",
+      "Chapotus",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "TorgamordFulgudog",
+      "ChrysapileBlancoton",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "RhinoférosLimondeBourrinos",
+      "Monthracite"
+    ],
+    "percentages": [
+      "58",
+      "30",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "CochignonBlizzaroiCorvaillusOuvrifier",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "ArchéodongClic",
+      "Chapotus",
+      "Noacier"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Triopikeur",
+      "Simularbre",
+      "Blancoton",
+      "Chapotus",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Mistigrix",
+      "Mistigrix",
+      "Chapotus",
+      "Blancoton",
+      "Gardevoir"
+    ],
+    "percentages": [
+      "45",
+      "É45",
+      "B30",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Toutes les météos sauf Brume",
+    "pokemons": [
+      "GueriaigleVaututrice"
+    ],
+    "percentages": [
+      "100",
+      "É100",
+      "B"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "GueriaigleVaututriceTogekiss"
+    ],
+    "percentages": [
+      "98",
+      "É98",
+      "B2",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Normal",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "65",
+      "35",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "50",
+      "50",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "55",
+      "45",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "65",
+      "35",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "70",
+      "30",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Sancoki",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "20",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "65",
+      "20",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "60",
+      "40",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "50",
+      "50",
+      ""
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Simularbre",
+      "Niveau 41ArchéodongNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34LibégonNiveau 51"
+    ],
+    "percentages": [
+      "Bourrinos-Niveau 41Gigalithe-Niveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Simularbre",
+      "Niveau 41KaorineNiveau 41CaratrocNiveau 34GolgopatheNiveau 60CryptéroNiveau 51"
+    ],
+    "percentages": [
+      "MoufflairNiveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Pluie & Orage",
+    "pokemons": [
+      "RhinoférosNiveau 41ArchéodongNiveau 41CaratrocNiveau 34GolgopatheNiveau 60CryptéroNiveau 51"
+    ],
+    "percentages": [
+      "CrapustuleNiveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Simularbre",
+      "Niveau 41KaorineNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34CryptéroNiveau 51"
+    ],
+    "percentages": [
+      "Bourrinos-Niveau 41Gigalithe-Niveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "RhinoférosNiveau 41ArchéodongNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34CryptéroNiveau 51"
+    ],
+    "percentages": [
+      "CochignonNiveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Simularbre",
+      "Niveau 41ArchéodongNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34CryptéroNiveau 51"
+    ],
+    "percentages": [
+      "CochignonNiveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Simularbre",
+      "Niveau 41KaorineNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34LibégonNiveau 51"
+    ],
+    "percentages": [
+      "Bourrinos-Niveau 41Gigalithe-Niveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Simularbre",
+      "Niveau 41KaorineNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34CryptéroNiveau 51"
+    ],
+    "percentages": [
+      "Bourrinos-Niveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "",
+    "where": "PêcheNiveau 40-45",
+    "pokemons": [
+      "Hastacuda",
+      "LanturnQwilfishLéviator"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "NounoursonMystherbeCroquine",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "NounoursonPandespiègle",
+      "Mystherbe"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "GoéliseNounoursonLarvibule",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Dynavolt",
+      "NounoursonMystherbePandespiègle",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Tiboudet",
+      "Goupix",
+      "Caninos",
+      "NounoursonPandespiègle",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "É25",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "BlizziNounoursonPandespiègle",
+      "Stalgamin",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Stalgamin",
+      "NounoursonPandespiègle",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "BalbutoTiboudet",
+      "NounoursonPandespiègle",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Munna",
+      "NounoursonMystherbe"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "MystherbeSapereau",
+      "PoichigeonNounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "RozboutonMystherbeChinchidou",
+      "Nounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "GoéliseLarvibule",
+      "MystherbeNounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "StatitikDynavolt",
+      "MystherbeNounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Tiboudet",
+      "Goupix",
+      "Caninos",
+      "Chinchidou",
+      "OnixNounourson"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "É30",
+      "B15",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Stalgamin",
+      "BlizziChinchidou",
+      "Nounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "BlizziChinchidou",
+      "Nounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "CrabicoqueBalbutoChinchidou",
+      "OnixNounourson"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "15",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Chacripan",
+      "Munna",
+      "Chinchidou",
+      "Nounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "GoéliseViskuseKokiyas",
+      "Poissirène",
+      ""
+    ],
+    "percentages": [
+      "55",
+      "25",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "ViskusePoissirène",
+      "Kokiyas",
+      "Goélise"
+    ],
+    "percentages": [
+      "55",
+      "25",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Kokiyas",
+      "ViskusePoissirène",
+      "Goélise"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "LoupioGoéliseKokiyas",
+      "Poissirène",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "15",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "GoéliseViskuseKokiyas",
+      "Poissirène",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "15",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "ViskuseKokiyas",
+      "Goélise"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "Poissirène",
+      "Kokiyas",
+      "Goélise"
+    ],
+    "percentages": [
+      "75",
+      "15",
+      "5",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Poissirène",
+      "Kokiyas",
+      "ViskuseGoélise"
+    ],
+    "percentages": [
+      "55",
+      "30",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "ViskuseGoélisePoissirène",
+      "Kokiyas",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Toutes les météos",
+    "pokemons": [
+      "PoichigeonPapilusion"
+    ],
+    "percentages": [
+      "70",
+      "30",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Ciel couvert et brume",
+    "pokemons": [
+      "PoichigeonPapilusion"
+    ],
+    "percentages": [
+      "75",
+      "25",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Autres météos",
+    "pokemons": [
+      "PapilusionPoichigeon"
+    ],
+    "percentages": [
+      "75",
+      "25",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "PêcheNiveau 8-12",
+    "pokemons": [
+      "Magicarpe",
+      "Poissirène",
+      "Kokiyas",
+      "Froussardine",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "25",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Fixe - Météo normal",
+    "pokemons": [
+      "Smogogo",
+      " 65Miasmax-",
+      " 36Xatu",
+      " 26Bekipan",
+      " 46Léviator",
+      " 56Poissoroy-",
+      " 46Crustabri",
+      " 46Lanturn",
+      " 46Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Smogogo",
+      " 65Miasmax-",
+      " 36Xatu",
+      " 26Bekipan",
+      " 46Léviator",
+      " 56Poissoroy-",
+      " 46Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Fixe - Pluie",
+    "pokemons": [
+      "Smogogo",
+      " 65Miasmax-",
+      " 36Bekipan",
+      " 26/46Léviator",
+      " 56Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Fixe - Orage",
+    "pokemons": [
+      "Smogogo",
+      " 65Miasmax-",
+      " 36Bekipan",
+      " 26/46Léviator",
+      " 56Lanturn",
+      " 46Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Fixe - Soleil intense",
+    "pokemons": [
+      "Bourrinos-",
+      " 36Smogogo",
+      " 65Xatu",
+      " 26Bekipan",
+      " 46Léviator",
+      " 56Poissoroy-",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Fixe - Neige et blizzard",
+    "pokemons": [
+      "Cochignon",
+      " 36Smogogo",
+      " 65Xatu",
+      " 26Léviator",
+      " 56Sorbouboul-",
+      " 47"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Fixe - Tempête de sable",
+    "pokemons": [
+      "Bourrinos-",
+      " 36Smogogo",
+      " 65Xatu",
+      " 26Léviator",
+      " 56Poissoroy-",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Archéodong",
+      " 36Smogogo",
+      " 65Xatu",
+      " 26Léviator",
+      " 56Crustabri",
+      " 46Lanturn",
+      " 46Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Tritonde",
+      "AxolotoKrabby",
+      "Chacripan",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Grainipiot",
+      "NénupiotTritonde",
+      "Chacripan",
+      "Rozbouton"
+    ],
+    "percentages": [
+      "60",
+      "É60",
+      "B25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "AxolotoGoéliseKrabby",
+      "Tritonde",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "AxolotoGoéliseDynavolt",
+      "Tritonde",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "CrabicoqueGoupix",
+      "Caninos",
+      "Sapereau",
+      "Chacripan",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "É35",
+      "B20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Stalgamin",
+      "Tritonde",
+      "Sorbébé",
+      "Chacripan",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "Tic",
+      "Tritonde",
+      "Krabby",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "CrabicoqueSapereau",
+      "Chacripan",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Chacripan",
+      "Tritonde",
+      "NatuAxoloto"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "AxolotoKrabby",
+      "GoéliseCroquine",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Krabby",
+      "AxolotoPandespiègle",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "25",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "AxolotoTritonde",
+      "Krabby",
+      "Goélise"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Dynavolt",
+      "Tritonde",
+      "Krabby",
+      "Statitik"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Goupix",
+      "Caninos",
+      "BalbutoSapereau",
+      "Pandespiègle",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Stalgamin",
+      "GoéliseCadoizo"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Tic",
+      "CadoizoSorbébé",
+      "Sapereau",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "AxolotoNingaleBalbutoTiboudet",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "NatuKrabby",
+      "GoéliseTarsal"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "ViskusePoissirène",
+      "Rémoraid",
+      "Magicarpe",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Poissirène",
+      "Rémoraid",
+      "Magicarpe",
+      "Viskuse"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "ViskusePoissirène",
+      "Rémoraid",
+      "Magicarpe",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "LoupioMagicarpe",
+      "Poissirène",
+      "Rémoraid",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Magicarpe",
+      "ViskusePoissirène",
+      "Rémoraid",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Kokiyas",
+      "Magicarpe",
+      "Viskuse"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "Magicarpe",
+      "ViskusePoissirène",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "15",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Magicarpe",
+      "Poissirène",
+      "Rémoraid",
+      "Viskuse"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Magicarpe",
+      "Poissirène",
+      "ViskuseRémoraid",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "PêcheNiveau 7-11",
+    "pokemons": [
+      "Magicarpe",
+      "Poissirène",
+      "Rémoraid",
+      "Froussardine",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Fixe - Météo normale",
+    "pokemons": [
+      "Maraiste",
+      " 15Krabboss-",
+      " 28Torgamord",
+      " 65Léviator",
+      " 56Poissory-",
+      " 46Crustabri",
+      " 46Krakos",
+      " 56Lokhlass",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Maraiste",
+      " 15Batracné",
+      " 28Torgamord",
+      " 65Léviator",
+      " 56Poissory-",
+      " 46Moyade",
+      " 46Krakos",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Fixe - Pluie",
+    "pokemons": [
+      "Maraiste",
+      " 15Bekipan",
+      " 28Torgamord",
+      " 65Léviator",
+      " 56Moyade",
+      " 46Lokhlass",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Fixe - Orage",
+    "pokemons": [
+      "Maraiste",
+      " 15Bekipan",
+      " 28Torgamord",
+      " 65Léviator",
+      " 56Lanturn",
+      " 46Lokhlass",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Fixe - Soleil intense",
+    "pokemons": [
+      "Excavarenne",
+      " 15/28Torgamord",
+      " 65Léviator",
+      " 56Krakos",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Fixe - Neige et blizzard",
+    "pokemons": [
+      "Excavarenne",
+      " 15Batracné",
+      " 28Torgamord",
+      " 65Sorbouboul-",
+      " 46Léviator",
+      " 56Krakos",
+      " 56Lokhlass",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Fixe - Tempête de sable",
+    "pokemons": [
+      "Excavarenne",
+      " 15Batracné",
+      " 28Torgamord",
+      " 65Léviator",
+      " 56Poissory-",
+      " 46Krakos",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Maraiste",
+      " 15Batracné",
+      " 28Torgamord",
+      " 65Léviator",
+      " 56Crustabri",
+      " 46Moyade",
+      " 46Krakos",
+      " 56Lokhlass",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "MoufouetteSapereau",
+      "Ortide"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "20",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "MoufouetteChacripan",
+      "Ortide"
+    ],
+    "percentages": [
+      "55",
+      "35",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BatracnéChacripan",
+      "Ortide"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "20",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "BatracnéOrtideChacripan",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "30",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "MoufouetteSapereau",
+      "CrabicoqueGoupix",
+      "Caninos",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Chacripan",
+      "Stalgamin",
+      "Cadoizo"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "Tic",
+      "Stalgamin",
+      "Chacripan",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "GringolemMoufouetteSapereau",
+      "Crabicoque"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "BaudriveMoufouetteChacripan",
+      "Tarsal"
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "MoufouetteNounoursonPoichigeonExcavarenne"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "MoufouetteMachoc",
+      "NounoursonFantominus"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Tritonde",
+      "Larvibule",
+      "MoufouetteNounourson"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Larvibule",
+      "StatitikMoufouetteNounourson"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Tiboudet",
+      "MoufouetteBalbutoNounourson"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Stalgamin",
+      "BlizziMoufouetteNounourson"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "CadoizoBlizziMoufouetteStalgamin",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "CrabicoqueBalbutoMoufouetteTiboudet",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "NatuNounoursonMoufouetteTarsal"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "ViskuseGoéliseBaudriveBarloche"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "GoéliseViskuseBarlocheBaudrive"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BarlochePoissirène",
+      "GoéliseViskuse"
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Poissirène",
+      "BaudriveViskuseBarloche"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "BarlocheBaudriveViskuseGoélise"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "ViskuseGoéliseBaudrive"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "BaudriveViskuseBarloche"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "BarlochePoissirène",
+      "ViskuseBaudrive"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "ViskuseBarlocheBaudriveGoélise"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "PêcheNiveau 14-16",
+    "pokemons": [
+      "Magicarpe",
+      "BarlocheBargantua",
+      "Bargantua",
+      ""
+    ],
+    "percentages": [
+      "58",
+      "40",
+      "2",
+      "É2",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Arbre à BaiesNiveau 26-28",
+    "pokemons": [
+      "Rongourmand",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "50",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Fixe - Météo normal",
+    "pokemons": [
+      "Corvaillus",
+      " 50Lucario",
+      " 36Xatu",
+      " 26Léopardus-",
+      " 28Fulgudog-",
+      " 65Barbicha",
+      " 46Lokhlass",
+      " 56Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Corvaillus",
+      " 50Crapustule",
+      " 36Xatu",
+      " 26Léopardus-",
+      " 28Fulgudog-",
+      " 65Barbicha",
+      " 46Léviator",
+      " 56Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Fixe - Pluie",
+    "pokemons": [
+      "Corvaillus",
+      " 50Moufflair",
+      " 36Bekipan",
+      " 26/36Léopardus-",
+      " 28Fulgudog-",
+      " 65Poissoroy-",
+      " 46Lokhlass",
+      " 56Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Fixe - Orage",
+    "pokemons": [
+      "Corvaillus",
+      " 50Crapustule",
+      " 36Bekipan",
+      " 26Léopardus-",
+      " 28Fulgudog-",
+      " 65Poissoroy-",
+      " 46Lokhlass",
+      " 56Barbicha",
+      " 46Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Fixe - Neige & blizzard",
+    "pokemons": [
+      "Corvaillus",
+      " 50Sorboul-",
+      " 36Xatu",
+      " 26Léopardus-",
+      " 28Fulgudog-",
+      " 65Lokhlass",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Fixe - Soleil intense",
+    "pokemons": [
+      "Corvaillus",
+      " 50Moufflair",
+      " 36Xatu",
+      " 26Léopardus-",
+      " 28Fulgudog-",
+      " 65Bekipan",
+      " 36/56Barbicha",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Fixe - Tempête de sable",
+    "pokemons": [
+      "Corvaillus",
+      " 50Moufflair",
+      " 36Xatu",
+      " 26Léopardus-",
+      " 28Fulgudog-",
+      " 65Poissoroy-",
+      " 46Barbicha",
+      " 46Léviator",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Nord",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Corvaillus",
+      " 50Grodrive",
+      " 36Xatu",
+      " 26Léopardus-",
+      " 28Fulgudog-",
+      " 65Lokhlass",
+      " 56Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Écrapince",
+      "Krabby",
+      "MoufouetteMachoc",
+      "PifeuilLombre"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Machoc",
+      "MoufouetteÉcrapince",
+      "Krabby",
+      "PifeuilLombre"
+    ],
+    "percentages": [
+      "50",
+      "25",
+      "10",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Tritonde",
+      "Magicarpe",
+      "Machoc",
+      "Écrapince",
+      "Krabby",
+      ""
+    ],
+    "percentages": [
+      "45",
+      "25",
+      "10",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Écrapince",
+      "Krabby",
+      "Tritonde",
+      "StatitikConcombaffe",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "28",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Machoc",
+      "Goupix",
+      "Caninos",
+      "Tiboudet",
+      "Moufouette"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "É25",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "BlizziMachoc",
+      "Écrapince",
+      "Krabby",
+      ""
+    ],
+    "percentages": [
+      "45",
+      "25",
+      "10",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "Tic",
+      "Machoc",
+      "Cadoizo"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Tiboudet",
+      "CrabicoqueMachoc",
+      "Moufouette"
+    ],
+    "percentages": [
+      "55",
+      "25",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "BaudriveArchéomireÉcrapince",
+      "Tarsal"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Machoc",
+      "MoufouetteDebugant",
+      ""
+    ],
+    "percentages": [
+      "80",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Ciel couvert et orage",
+    "pokemons": [
+      "Machoc",
+      "MoufouetteDebugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Machoc",
+      "MoufouetteDebugant",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "25",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Machoc",
+      "Goupix",
+      "Caninos",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "80",
+      "15",
+      "É15",
+      "B5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Machoc",
+      "BlizziDebugant",
+      ""
+    ],
+    "percentages": [
+      "80",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "BlizziMachoc",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Machoc",
+      "CrabicoqueDebugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Machoc",
+      "ArchéomireDebugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Machoc",
+      "GoéliseTritonde",
+      "Écrapince",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Écrapince",
+      "RoséliaMachoc",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Tritonde",
+      "Écrapince",
+      "Machoc",
+      "Goélise"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Dynavolt",
+      "StatitikÉcrapince",
+      "Machoc",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "BalbutoGoupix",
+      "Caninos",
+      "RoséliaNingale"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "É30",
+      "B20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Stalgamin",
+      "Sorbébé",
+      "Écrapince",
+      "Machoc",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Tic",
+      "BlizziÉcrapince",
+      "Machoc",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "NingaleAxolotoBalbutoTritonde",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "NatuÉcrapince",
+      "Machoc",
+      "Tarsal"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Poissirène",
+      "GoéliseBaudriveBarloche"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "BaudriveBarlocheGoélisePoissirène",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Poissirène",
+      "BaudriveBarlocheGoélise"
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "BarlochePoissirène",
+      "BaudriveGoélise"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "BarlocheBaudrivePoissirène",
+      "Goélise"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Poissirène",
+      "BarlocheBaudrive"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "BaudrivePoissirène",
+      "Barloche"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "BarlocheGoélisePoissirène",
+      "Baudrive"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "BaudriveBarlocheGoélisePoissirène",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Dans les airsNiveau 14-16",
+    "pokemons": [
+      "GoéliseBaudrive"
+    ],
+    "percentages": [
+      "85",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "PêcheNiveau 11-13",
+    "pokemons": [
+      "Magicarpe",
+      "Rémoraid",
+      "BarlocheConcombaffe",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "40",
+      "9",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Météo normal",
+    "pokemons": [
+      "MygavoltNiveau 46Machopeur",
+      "Niveau 26MoufflairNiveau 34Krabboss",
+      "Niveau 31ColhomardNiveau 31Roublenard",
+      "Niveau 65"
+    ],
+    "percentages": [
+      "GrodriveNiveau 46LéviatorNiveau 56Poissoroy-Niveau 46Octillery-Niveau 46BarbichaNiveau 46-"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Mygavolt",
+      " 46Machopeur-",
+      " 26Moufflair",
+      " 34Roublenard-",
+      " 65Grodrive",
+      " 46Léviator",
+      " 56Poissoroy-",
+      " 46Bekipan",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Fixe - Pluie",
+    "pokemons": [
+      "Mygavolt",
+      " 46Machopeur-",
+      " 26Batracné",
+      " 34Roublenard-",
+      " 65Moyade",
+      " 46Léviator",
+      " 56Poissoroy-",
+      " 46Bekipan",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "MygavoltNiveau 46Machopeur",
+      "Niveau 26BatracnéNiveau 34Krabboss",
+      "Niveau 31ColhomardNiveau 31Roublenard",
+      "Niveau 65"
+    ],
+    "percentages": [
+      "LanturnNiveau 46LéviatorNiveau 56Poissoroy-Niveau 46BekipanNiveau 46BarbichaNiveau 46-"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Fixe - Neige",
+    "pokemons": [
+      "Mygavolt",
+      " 46Machopeur-",
+      " 26Moufflair",
+      " 34Roublenard-",
+      " 65Léviator",
+      " 56Sorbouboul-",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Fixe - Blizzard",
+    "pokemons": [
+      "Mygavolt",
+      " 46Machopeur-",
+      " 26Moufflair",
+      " 34Roublenard-",
+      " 65Grodrive",
+      " 46Léviator",
+      " 56Sorbouboul-",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Fixe - Soleil intense",
+    "pokemons": [
+      "Mygavolt",
+      " 46Machopeur-",
+      " 26Crabaraque",
+      " 34Roublenard-",
+      " 65Léviator",
+      " 56Octillery-",
+      " 46Bekipan",
+      " 46Barbicha",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Fixe - Tempête de sable",
+    "pokemons": [
+      "Mygavolt",
+      " 46Machopeur-",
+      " 26Moufflair",
+      " 34Roublenard-",
+      " 65Léviator",
+      " 56Octillery-",
+      " 46Poissoroy-",
+      " 46Barbicha",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Milobellus Sud",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Mygavolt",
+      " 46Machopeur-",
+      " 26Moufflair",
+      " 34Grodrive",
+      " 31/46Roublenard-",
+      " 65Milobellus-",
+      " 56Octillery-",
+      " 46Moyade",
+      " 46"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Neitram",
+      "GueriaigleVaututriceGolemastocCryptéroMétamorph",
+      ""
+    ],
+    "percentages": [
+      "32",
+      "25",
+      "É25",
+      "B20",
+      "13",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Miasmax",
+      "DrascoreGolemastocSmogogoMétamorph",
+      "Kapoera",
+      "Dispareptil"
+    ],
+    "percentages": [
+      "30",
+      "24",
+      "20",
+      "13",
+      "10",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "CrapustuleTarenbulleGolemastocSarmuraÏMétamorph",
+      "MotismaDispareptil"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "12",
+      "10",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "MygavoltBruyverneGolemastocMétamorph",
+      "Tranchodon",
+      "MorpekoDispareptilMotisma"
+    ],
+    "percentages": [
+      "30",
+      "É32",
+      "B27",
+      "É29",
+      "B20",
+      "10",
+      "5",
+      "É1",
+      "B4",
+      "2",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Feunard",
+      "Arcanin",
+      "FermiteAflamanoir",
+      "GolemastocMélancoluxMétamorph",
+      "Libégon"
+    ],
+    "percentages": [
+      "25",
+      "É25",
+      "B25",
+      "É5",
+      "B5",
+      "É25",
+      "B20",
+      "14",
+      "10",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Oniglali",
+      "Sorbouboul",
+      "GolemastocBlizzaroiMétamorph",
+      "Grelaçon",
+      ""
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "15",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Cliticlic",
+      "ScalproieSorbouboul",
+      "GolemastocMétamorph",
+      "Pachyradjah",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "13",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "MinotaupeGéolithe",
+      "GolemastocMétamorph",
+      "DiamatYmphect"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "23",
+      "10",
+      "2",
+      "É2",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Qulbutoké",
+      "SorcilenceGolemastocSidérella",
+      "Symbios",
+      "Métamorph",
+      "Dispareptil"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "13",
+      "É13",
+      "B10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "CorvaillusIxonCheloursAstronelleMétamorph",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "13",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "MoufflairAngoliathCorvaillusPandarbareHexadron",
+      "Bébécaille",
+      "EmbrylexFantyrm"
+    ],
+    "percentages": [
+      "33",
+      "É30",
+      "B25",
+      "20",
+      "10",
+      "É13",
+      "B6",
+      "5",
+      "É5",
+      "B1",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BekipanNigosierCorvaillusMaraisteGolgopatheSolochiMucuscule",
+      ""
+    ],
+    "percentages": [
+      "38",
+      "25",
+      "20",
+      "13",
+      "2",
+      "2",
+      "É2",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Fulgudog",
+      "TorgamordCorvaillusMoyadeFantyrmDiamatColimucus",
+      "ÉcaïdDraïeul"
+    ],
+    "percentages": [
+      "35",
+      "É38",
+      "B23",
+      "É25",
+      "B20",
+      "É15",
+      "B16",
+      "2",
+      "2",
+      "É2",
+      "B2",
+      "É2",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "RhinoférosMonthraciteCorvaillusDunaconda",
+      "BébécailleBoumataDolman",
+      "Embrylex"
+    ],
+    "percentages": [
+      "33",
+      "É35",
+      "B25",
+      "20",
+      "13",
+      "É15",
+      "B5",
+      "É2",
+      "É2",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "FrissonilleCochignonCorvaillusM. MimeIxonBekaglaçon",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "13",
+      "2",
+      "É2",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Berserkatt",
+      "DimoclèsCorvaillusTogedemaruBekaglaçon",
+      "Duralugon"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "É15",
+      "B13",
+      "5",
+      "B2",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Triopikeur",
+      "Hippodocus",
+      "CorvaillusLimondeDolman",
+      "IxonYmphect"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "20",
+      "É21",
+      "B10",
+      "5",
+      "É2",
+      "B2",
+      "B"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "KaorineArchéodongCorvaillusWimessirFantyrmGardevoir"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "23",
+      "♂ 14",
+      "♀ 14",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "BabimantaDémantaHastacuda",
+      ""
+    ],
+    "percentages": [
+      "65",
+      "30",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "BabimantaDémantaHastacuda",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "45",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BabimantaDémantaHastacuda",
+      ""
+    ],
+    "percentages": [
+      "55",
+      "40",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "BabimantaDémantaHastacuda",
+      ""
+    ],
+    "percentages": [
+      "65",
+      "30",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "BabimantaDémantaHastacuda",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "25",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "BabimantaDémantaHastacuda",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "BabimantaDémantaHastacuda",
+      ""
+    ],
+    "percentages": [
+      "65",
+      "20",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "BabimantaDémantaHastacuda",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "BabimantaDémantaHastacuda",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "45",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Arbre à BaiesNiveau 50-52",
+    "pokemons": [
+      "Rongrigou",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "95",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "PêcheNiveau 50-52",
+    "pokemons": [
+      "Hastacuda",
+      "LanturnQwilfishLéviator"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Fixe - Météo normale",
+    "pokemons": [
+      "Phyllali-",
+      " 56Gardevoir",
+      " 56Sorcilence",
+      " 65Poissoroy-",
+      " 46Léviator",
+      " 60Lokhlass",
+      " 56Lanturn",
+      " 46Moyade",
+      " 46Krakos-",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Mentali-",
+      " 56Lampignon",
+      " 56Sorcilence",
+      " 65Poissoroy-",
+      " 46Léviator",
+      " 60Moyade",
+      " 46Krakos-",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Fixe - Pluie",
+    "pokemons": [
+      "Aquali-",
+      " 56Lampignon",
+      " 56Sorcilence",
+      " 65Léviator",
+      " 60Lokhlass",
+      " 56Moyade",
+      " 46Krakos-",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Fixe - Orage",
+    "pokemons": [
+      "Voltali-",
+      " 56Gardevoir",
+      " 56Sorcilence",
+      " 65Lampignon",
+      " 56Poissoroy-",
+      " 46Léviator",
+      " 60Lokhlass",
+      " 56Lanturn",
+      " 46Moyade",
+      " 46Krakos-",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Fixe - Soleil intense",
+    "pokemons": [
+      "Pyroli-",
+      " 56Lugulabre",
+      " 56Sorcilence",
+      " 65Poissoroy-",
+      " 46Léviator",
+      " 60Bekipan",
+      " 56Moyade",
+      " 46Krakos-",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Fixe - Neige, blizzard",
+    "pokemons": [
+      "Givrali-",
+      " 56Séracrawl-",
+      " 56Sorcilence",
+      " 65Léviator",
+      " 60Lokhlass",
+      " 56Sorbouboul-",
+      " 56Krakos-",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Fixe - Tempête de sable",
+    "pokemons": [
+      "Noctali-",
+      " 56Rhinoféros",
+      " 56Sorcilence",
+      " 65Poissoroy-",
+      " 46Léviator",
+      " 60Krakos-",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Lac Ouragan",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Nymphali-",
+      " 56Gardevoir",
+      " 56Sorcilence",
+      " 65Poissoroy-",
+      " 46Milobellus-",
+      " 60Lokhlass",
+      " 56Krakos-",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "ChovsourirPitrouilleColombeauPitrouille MiniOrtidePitrouille MaxiGoupilou",
+      "Pitrouille Ultra"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "10",
+      "10",
+      "10",
+      "5",
+      "4",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "PapilusionColombeauOrtideKaraclée",
+      "Judokrak",
+      "Canarticho",
+      "Corayon",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "É10",
+      "B5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "SovkipouBatracnéNatuOrtideKhélocrok",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "GalvaranStatitikVoltoutou",
+      "OrtideNatu"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "ColombeauFermiteAflamanoir",
+      "Ortide"
+    ],
+    "percentages": [
+      "45",
+      "40",
+      "É5",
+      "B5",
+      "É45",
+      "B10",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Polarhume",
+      "NatuCadoizo"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "ScalpionSorbébé",
+      "Polarhume",
+      "Natu"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "RhinocorneRototaupe",
+      "Colombeau"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Sucroquin",
+      "Fluvetin",
+      "SpododoNatuOrtideBombydou"
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Goupilou",
+      "Smogo",
+      "BaggiguaneCradopaud"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      "É15",
+      "B"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "BaggiguaneCradopaudGoupilou",
+      "Kicklee",
+      "Tygnon",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "É60",
+      "B35",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Dynavolt",
+      "BatracnéGoupilou",
+      "Smogo",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Dynavolt",
+      "Goupilou",
+      "Batracné"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Hippopotas",
+      "Caninos",
+      "Goupix",
+      "Rototaupe",
+      "Goupilou",
+      ""
+    ],
+    "percentages": [
+      "55",
+      "30",
+      "É30",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Polarhume",
+      "FarfuretSorboul",
+      "Cadoizo"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "BlizziMysdibuleMarcacrinPolarhume",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "É35",
+      "B15",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Hippopotas",
+      "Rototaupe",
+      "Caratroc"
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Qulbutoké",
+      "Skelénox",
+      "TénéfixMesmérella",
+      "Méios",
+      ""
+    ],
+    "percentages": [
+      "55",
+      "35",
+      "É35",
+      "B10",
+      "É10",
+      "B"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Normal, ciel couvert, pluie,orage et brume",
+    "pokemons": [
+      "Triopikeur",
+      "MinotaupeGéolithe",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "É50",
+      "B30",
+      "É20",
+      "B10",
+      "É30",
+      "B"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Soleil intense, neige,blizzard et tempête de sable",
+    "pokemons": [
+      "MinotaupeTriopikeur",
+      "Géolithe",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "É50",
+      "B30",
+      "É20",
+      "B10",
+      "É30",
+      "B"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Smogo",
+      "RapionColéodômeRozboutonMachoc",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "RapionSmogo",
+      "RoséliaColéodômeMachoc",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Sancoki",
+      "RapionSmogo",
+      "ColéodômeMachoc",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "StatitikVerpomRapionSmogo",
+      "Machoc",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Taupiqueur",
+      "RapionSmogo",
+      "Chartor",
+      "Machoc",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Neige et blizzard",
+    "pokemons": [
+      "MarcacrinPolarhume",
+      "BlizziSmogo",
+      "Machoc",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Hippodocus",
+      "ExcavarenneColéodômeSmogo",
+      "Machoc",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "GrimalinCrèmy",
+      "Smogo",
+      "Machoc",
+      "Mimiqui"
+    ],
+    "percentages": [
+      "35",
+      "32",
+      "20",
+      "10",
+      "3",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Normal",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "65",
+      "35",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "50",
+      "50",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "55",
+      "45",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "65",
+      "35",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "70",
+      "30",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Sancoki",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "20",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "65",
+      "20",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "60",
+      "40",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Sancoki",
+      "Viskuse"
+    ],
+    "percentages": [
+      "50",
+      "50",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Dans les airsNiveau 28-30",
+    "pokemons": [
+      "ColombeauBleuseille",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "40",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "PêcheNiveau 26-28",
+    "pokemons": [
+      "TorgamordVorastérieLoupioLéviator"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Arbres à BaiesNiveau 26-28",
+    "pokemons": [
+      "Rongrigou",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "75",
+      "25",
+      ""
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Fixe - Météo normale",
+    "pokemons": [
+      "Steelix",
+      " 50Mackogneur-",
+      " 60Joliflor-",
+      " 41Déflaisan",
+      " 41Berserkatt-",
+      " 65Tritosor",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Steelix",
+      " 50Mackogneur-",
+      " 60Rafflesia",
+      " 41Déflaisan",
+      " 41Berserkatt-",
+      " 65Tritosor",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Fixe - Pluie",
+    "pokemons": [
+      "Steelix",
+      " 50Crapustule",
+      " 60Rafflesia",
+      " 41Xatu",
+      " 41Berserkatt-",
+      " 65Tritosor",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Fixe - Orage",
+    "pokemons": [
+      "Steelix",
+      " 50Mackogneur-",
+      " 60Rafflesia",
+      " 41Xatu",
+      " 41Berserkatt-",
+      " 65Tritosor",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Fixe - Soleil intense",
+    "pokemons": [
+      "Steelix",
+      " 50Mackogneur-",
+      " 60Simularbre-",
+      " 41Déflaisan",
+      " 41Lucanon",
+      " 41Berserkatt-",
+      " 65Tritosor",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Fixe - Neige",
+    "pokemons": [
+      "Steelix",
+      " 50Blizzaroi",
+      " 60Rafflesia",
+      " 41Xatu",
+      " 41Lucanon",
+      " 41Berserkatt-",
+      " 65Tritosor",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Fixe - Blizzard, tempête de sable",
+    "pokemons": [
+      "Steelix",
+      " 50Mackogneur-",
+      " 60Rafflesia",
+      " 41Xatu",
+      " 41Lucanon",
+      " 41Berserkatt-",
+      " 65Tritosor",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Miroir du Géant",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Steelix",
+      " 50Mackogneur-",
+      " 60Simularbre-",
+      " 41Xatu",
+      " 41Lucanon",
+      " 41Berserkatt-",
+      " 65Tritosor",
+      " 56"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "CheloursKrabboss",
+      "Coupenotte",
+      "Machopeur",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "CheloursMachopeur",
+      "Coupenotte",
+      "Krabboss",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "ColhomardCheloursCoupenotte",
+      "Crapustule"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "CrapustuleColhomardKrabboss",
+      "Chelours"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "CrabaraqueCheloursBourrinos",
+      "Goupix",
+      "Caninos",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "BlizziSorboul",
+      "CheloursCadoizo"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "BlizziArchéodongCheloursSorboul",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Bourrinos",
+      "CheloursCrabaraqueKaorine"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "GrodriveKaorineCoupenotte",
+      "Chelours"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "DéflaisanExcavarenneCheloursCandine",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "RoséliaOrtideExcavarenneDéflaisan"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BekipanChrysapileExcavarenneDéflaisan"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "ColhomardÉlecsprint",
+      "ExcavarenneDéflaisan"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Goupix",
+      "Caninos",
+      "DéflaisanExcavarenneBourrinos",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "BlizziSorboul",
+      "ExcavarenneDéflaisan"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Tic",
+      "BlizziCadoizoExcavarenne"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "BalbutoCrabaraqueBourrinos",
+      "Excavarenne"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Munna",
+      "Léopardus",
+      "ExcavarenneDéflaisan"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "PêcheNiveau 35-40",
+    "pokemons": [
+      "Magicarpe",
+      "Octillery",
+      "Froussardine",
+      "Léviator"
+    ],
+    "percentages": [
+      "50",
+      "25",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Arbre à BaiesNiveau 35-40",
+    "pokemons": [
+      "Rongrigou",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "75",
+      "25",
+      ""
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Fixe - Orage",
+    "pokemons": [
+      "Crapustule",
+      " 60Nigosier",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Fixe - Neige et blizzard",
+    "pokemons": [
+      "Blizzaroi",
+      " 60Nigosier",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "",
+    "where": "Fixe - Autres météos",
+    "pokemons": [
+      "Tranchodon-",
+      " 60Nigosier",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "ZigzatonNinjaskDebugant",
+      "BalbutoGringolem"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Machopeur",
+      "BaggiguaneCradopaudZigzatonBalbutoGringolem"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "É30",
+      "B15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "NinjaskAraquaZigzatonBalbutoArchéomireGringolemNigosier"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "10",
+      "10",
+      "É10",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Voltoutou",
+      "AraquaToxizapBalbutoArchéomireGringolemPikachu",
+      ""
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "10",
+      "10",
+      "É10",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Maracachi",
+      "ZigzatonTritoxBalbutoGringolem"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Polarhume",
+      "ZigzatonFarfuretBalbutoArchéomireGringolem"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "15",
+      "10",
+      "É10",
+      "B10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretPolarhume",
+      "ZigzatonBalbutoArchéomireGringolemGrindur"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "10",
+      "10",
+      "É10",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Manzaï",
+      "ZigzatonCrabicoqueBalbutoGringolem"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Bibichut",
+      "Munna",
+      "ZigzatonBalbutoArchéomireGringolemGoupilou",
+      ""
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "10",
+      "10",
+      "É10",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "CrabicoqueNinjaskDebugant",
+      "FuraiglonVostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Machopeur",
+      "BaggiguaneCoatoxCrabicoqueFuraiglonVostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "É35",
+      "B15",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "AraquaCrabicoqueNinjaskFuraiglonVostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Voltoutou",
+      "AraquaToxizapPikachu",
+      "FuraiglonVostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "10",
+      "5",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Maracachi",
+      "CrabicoqueNodulithe",
+      "FuraiglonVostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Polarhume",
+      "CrabicoqueFarfuretFuraiglonVostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretPolarhume",
+      "CrabicoqueGrindurFuraiglonVostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "10",
+      "5",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Manzaï",
+      "CrabicoqueNodulithe",
+      "FuraiglonVostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Bibichut",
+      "Munna",
+      "CrabicoqueGoupilou",
+      "FuraiglonVostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "10",
+      "5",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Croquine",
+      "Machoc",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Croquine",
+      "Machoc",
+      "BaggiguaneCradopaud"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      "É15",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Croquine",
+      "AraquaNigosier"
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "AraquaCroquine",
+      "ToxizapPikachu",
+      ""
+    ],
+    "percentages": [
+      "45",
+      "É50",
+      "B35",
+      "10",
+      "10",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Maracachi",
+      "Croquine",
+      "Tritox"
+    ],
+    "percentages": [
+      "50",
+      "45",
+      "É35",
+      "B5",
+      "É15",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Polarhume",
+      "Croquine",
+      "Farfuret"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretCroquine",
+      "Polarhume",
+      "Grindur"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Manzaï",
+      "Croquine",
+      "Crabicoque"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Bibichut",
+      "Croquine",
+      "Munna",
+      "Goupilou",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Ouvrifier",
+      "Géolithe",
+      "RubombelleGrimalinBlancoton",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "DoudouvetSucroquin",
+      "Fluvetin",
+      "RubombelleGrimalin"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "É30",
+      "B20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BarlocheSancoki",
+      "GrimalinPikachu",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "ToxizapOuvrifier",
+      "Géolithe",
+      "GrimalinVerpom"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "É30",
+      "B20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "WagomineOuvrifier",
+      "Géolithe",
+      "GrimalinRototaupe",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "É30",
+      "B20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Polarhume",
+      "FarfuretGrimalinOuvrifier",
+      "Géolithe",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      "É10",
+      "B"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretScalpionPolarhume",
+      "Grimalin"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "RhinocorneGéolithe",
+      "Rototaupe",
+      "Caratroc"
+    ],
+    "percentages": [
+      "40",
+      "É20",
+      "B20",
+      "É40",
+      "B30",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Roublenard",
+      "ColéodômeGrimalinTogetic"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Soleil, tempête de sable, brume",
+    "pokemons": [
+      "CryptéroColombeau"
+    ],
+    "percentages": [
+      "60",
+      "40",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Autres météos",
+    "pokemons": [
+      "ColombeauCryptéro"
+    ],
+    "percentages": [
+      "60",
+      "40",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Fixe - Météo normale, soleil intense, tempête de sable",
+    "pokemons": [
+      "Kaorine",
+      " 42Sucreine-",
+      " 36Rhinoféros",
+      " 41Noctunoir-",
+      " 60Golemastoc",
+      " 43Crabaraque",
+      " 34Cryptéro",
+      " 40Angoliath",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Kaorine",
+      " 42Sucreine-",
+      " 36Rhinoféros",
+      " 41Noctunoir-",
+      " 60Golemastoc",
+      " 43Crabaraque",
+      " 34Déflaisan",
+      " 40Angoliath",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Fixe - Pluie et orage",
+    "pokemons": [
+      "Archéodong",
+      " 42Tarenbulle",
+      " 36/34Rhinoféros",
+      " 41Noctunoir-",
+      " 60Golemastoc",
+      " 43Cryptéro",
+      " 40Angoliath",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "",
+    "where": "Fixe - Neige, blizzard et brume",
+    "pokemons": [
+      "Archéodong",
+      " 42Sucreine-",
+      " 36Rhinoféros",
+      " 41Noctunoir-",
+      " 60Golemastoc",
+      " 43Crabaraque",
+      " 34Cryptéro",
+      " 40Angoliath",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "ApitriniSapereau",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Sapereau",
+      "Debugant",
+      "Chrysacier",
+      "Tarsal"
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "GoéliseSapereau",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Dynavolt",
+      "GoéliseChrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Goupix",
+      "Caninos",
+      "Sapereau",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "É60",
+      "B25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Sapereau",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "CadoizoSorbébé",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "BalbutoSapereau",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "TarsalSapereau",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Pandespiègle",
+      "ApitriniChrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Pandespiègle",
+      "Debugant",
+      "Chrysacier",
+      "Tarsal"
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Pandespiègle",
+      "GoéliseChrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Pandespiègle",
+      "Dynavolt",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Pandespiègle",
+      "Goupix",
+      "Caninos",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "É25",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Pandespiègle",
+      "Sorbébé",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Pandespiègle",
+      "Sorbébé",
+      "Chrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Pandespiègle",
+      "BalbutoChrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Pandespiègle",
+      "TarsalChrysacier",
+      "Debugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Sapereau",
+      "Chinchidou",
+      "Croquine",
+      "Chrysacier",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "É40",
+      "B20",
+      "5",
+      "É"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "MystherbeRozboutonSapereau",
+      "Chrysacier",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "PifeuilNénupiotGéoliseSapereau",
+      "Chrysacier",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "StatitikDynavolt",
+      "Sapereau",
+      "Chrysacier",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "BalbutoTiboudet",
+      "Goupix",
+      "Caninos",
+      "Sapereau",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "É20",
+      "B5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "MarcacrinSapereau",
+      "Chinchidou",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "MarcacrinCadoizoStalgamin",
+      "Sapereau",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "CrabicoqueBalbutoGringolemSapereau",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Munna",
+      "NatuSapereau",
+      "Chrysacier",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Normal, ciel couvert, brume",
+    "pokemons": [
+      "PapilusionPoichigeon"
+    ],
+    "percentages": [
+      "75",
+      "25",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Autres météos",
+    "pokemons": [
+      "PoichigeonPapilusion"
+    ],
+    "percentages": [
+      "75",
+      "25",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Ciel couvert, soleil, tempête de sable",
+    "pokemons": [
+      "Nodulithe",
+      "Taupiqueur",
+      ""
+    ],
+    "percentages": [
+      "80",
+      "20",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Autres météos",
+    "pokemons": [
+      "Taupiqueur",
+      "Nodulithe",
+      ""
+    ],
+    "percentages": [
+      "80",
+      "20",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Arbre à BaiesNiveau 7-10",
+    "pokemons": [
+      "Rongourmand",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "80",
+      "20",
+      ""
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Fixe - Météo normale",
+    "pokemons": [
+      "Onix",
+      " 26Rosélia",
+      " 15Pandarbare",
+      " 32Apireine",
+      " 26Ninjask",
+      " 15Excavarenne",
+      " 15Bourrinos-",
+      " 31Moumouflon-",
+      " 36"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Fixe - Ciel couvert et soleil intense",
+    "pokemons": [
+      "Onix",
+      " 26Rosélia",
+      " 15Pandarbare",
+      " 32Ninjask",
+      " 15Excavarenne",
+      " 15/26Bourrinos-",
+      " 31Moumouflon-",
+      " 36"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Fixe - Pluie",
+    "pokemons": [
+      "Onix",
+      " 26Rosélia",
+      " 15Pandarbare",
+      " 32Bekipan",
+      " 26Ninjask",
+      " 15Excavarenne",
+      " 15Spectrum",
+      " 31Moumouflon-",
+      " 36"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Fixe - Orage",
+    "pokemons": [
+      "Onix",
+      " 26Pikachu-",
+      " 15Pandarbare",
+      " 32Élecsprint-",
+      " 26Ninjask",
+      " 15Excavarenne",
+      " 15Spectrum",
+      " 31Moumouflon-",
+      " 36"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Fixe - Neige",
+    "pokemons": [
+      "Onix",
+      " 26Rosélia",
+      " 15Cochignon",
+      " 32Ninjask",
+      " 15Excavarenne",
+      " 26Moumouflon-",
+      " 36"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Fixe - Blizzard",
+    "pokemons": [
+      "Onix",
+      " 26Mime Jr.",
+      " 15Cochignon",
+      " 32Ninjask",
+      " 15Excavarenne",
+      " 26Moumouflon-",
+      " 36"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Fixe - Tempête de sable",
+    "pokemons": [
+      "Onix",
+      " 26Rosélia",
+      " 15Crabaraque",
+      " 34Excavarenne",
+      " 26Ninjask",
+      " 15Excavarenne",
+      " 15Bourrinos-",
+      " 31Moumouflon-",
+      " 36"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Onix",
+      " 26Rosélia",
+      " 15Gardevoir",
+      " 32Kirlia",
+      " 26Ninjask",
+      " 15Excavarenne",
+      " 15Bourrinos-",
+      " 31Moumouflon-",
+      " 36"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Qulbutoké",
+      "NounoursonSimularbre",
+      "Machopeur",
+      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+    ],
+    "percentages": [
+      "45",
+      "29",
+      "10",
+      "5",
+      "5",
+      "3",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "NounoursonQulbutoké",
+      "Machopeur",
+      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+    ],
+    "percentages": [
+      "45",
+      "29",
+      "15",
+      "5",
+      "3",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BatracnéQulbutoké",
+      "Machopeur",
+      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+    ],
+    "percentages": [
+      "45",
+      "29",
+      "15",
+      "5",
+      "3",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "SovkipouQulbutoké",
+      "PitrouillePitrouille MiniMachopeur",
+      "Pitrouille MaxiPitrouille Ultra"
+    ],
+    "percentages": [
+      "35",
+      "24",
+      "20",
+      "10",
+      "5",
+      "5",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Simularbre",
+      "Maracachi",
+      "Machopeur",
+      "Qulbutoké",
+      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+    ],
+    "percentages": [
+      "40",
+      "34",
+      "10",
+      "5",
+      "5",
+      "3",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Polarhume",
+      "Stalgamin",
+      "FarfuretQulbutoké",
+      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+    ],
+    "percentages": [
+      "40",
+      "34",
+      "10",
+      "5",
+      "5",
+      "3",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretStalgamin",
+      "Qulbutoké",
+      "Machopeur",
+      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+    ],
+    "percentages": [
+      "40",
+      "34",
+      "10",
+      "5",
+      "5",
+      "3",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Simularbre",
+      "Machopeur",
+      "Qulbutoké",
+      "PitrouillePitrouille MiniCoupenotte",
+      "Kraknoix",
+      "Pitrouille MaxiPitrouille Ultra"
+    ],
+    "percentages": [
+      "40",
+      "34",
+      "13",
+      "5",
+      "3",
+      "2",
+      "É2",
+      "B2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "MonorpaleSpododoFantominusPitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+    ],
+    "percentages": [
+      "44",
+      "35",
+      "10",
+      "5",
+      "3",
+      "2",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Psystigri",
+      "SepiatopBleuseille",
+      "Moumouflon",
+      "Tic",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "SepiatopMachopeur",
+      "Roublenard",
+      "Psystigri",
+      "Tic",
+      "Brutalibré"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "15",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "BekipanCarabing",
+      "Escargaume",
+      "SepiatopTic",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "É5",
+      "B5",
+      "É30",
+      "B15",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "ToxizapChrysapileCarabing",
+      "Escargaume",
+      "Psystigri",
+      "Tic",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "15",
+      "É15",
+      "B10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Caninos",
+      "Goupix",
+      "BalbutoSepiatopPsystigri",
+      "Tic",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "É40",
+      "B25",
+      "15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "MarcacrinSepiatopCadoizoPsystigri",
+      "Tic",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Stalgamin",
+      "Sorbébé",
+      "MonorpaleSepiatopTic",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Triopikeur",
+      "CrabicoqueRototaupe",
+      "Psystigri",
+      "Tic",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Psystigri",
+      "Bibichut",
+      "SepiatopGrimalinTic",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "15",
+      "10",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Dans les airsNiveau 36-39",
+    "pokemons": [
+      "DéflaisanBleuseille",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "40",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Arbres à BaiesNiveau 28-30",
+    "pokemons": [
+      "Rongrigou",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "75",
+      "25",
+      ""
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Fixe - Normal et pluie",
+    "pokemons": [
+      "Brutalibré",
+      " 36Corvaillus",
+      " 38Clic-",
+      " 46Banshitrouye",
+      " 41Pachyradjah-",
+      " 65Rafflesia",
+      " 41"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Brutalibré",
+      " 36Corvaillus",
+      " 38Clic-",
+      " 46Banshitrouye",
+      " 41Pachyradjah-",
+      " 65Roserade",
+      " 41"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Fixe - Neige",
+    "pokemons": [
+      "Brutalibré",
+      " 36Corvaillus",
+      " 38Clic-",
+      " 46Banshitrouye",
+      " 41Pachyradjah-",
+      " 65Blizzaroi",
+      " 41"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Fixe - Blizzard",
+    "pokemons": [
+      "Brutalibré",
+      " 36Corvaillus",
+      " 38Cliticlic-",
+      " 46Banshitrouye",
+      " 41Pachyradjah-",
+      " 65Blizzaroi",
+      " 41"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Fixe - Orage, soleil intense et tempête de sable",
+    "pokemons": [
+      "Brutalibré",
+      " 36Corvaillus",
+      " 38Cliticlic-",
+      " 46Banshitrouye",
+      " 41Pachyradjah-",
+      " 65Rafflesia",
+      " 41"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Brutalibré",
+      " 36Corvaillus",
+      " 38Cliticlic-",
+      " 46Banshitrouye",
+      " 41Pachyradjah-",
+      " 65Roserade",
+      " 41"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "ZigzatonBombydouQulbutoké",
+      "SonistrelleLewsor",
+      "ToxizapCharibari",
+      ""
+    ],
+    "percentages": [
+      "34",
+      "30",
+      "10",
+      "10",
+      "10",
+      "5",
+      "1",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "ZigzatonBombydouBaggiguaneCradopaudSonistrelleLewsor",
+      "Karaclée",
+      "Judokrak",
+      "Charibari",
+      ""
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "10",
+      "É10",
+      "B10",
+      "10",
+      "5",
+      "É5",
+      "B5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "ZigzatonNounoursonToxizapSonistrelleArchéomireNigosier"
+    ],
+    "percentages": [
+      "33",
+      "30",
+      "15",
+      "10",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "NounoursonZigzatonViskuseSonistrelleArchéomireToxizap"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "10",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Maractus",
+      "BombydouQulbutoké",
+      "SonistrelleBalbutoZigzatonCharibari",
+      ""
+    ],
+    "percentages": [
+      "35",
+      "20",
+      "15",
+      "10",
+      "10",
+      "5",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Polarhume",
+      "ZigzatonFarfuretSonistrelleNounourson"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretPolarhume",
+      "ZigzatonCharibari",
+      "Sonistrelle"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "ManzaÏZigzatonNounoursonSonistrelleBalbutoBaggiguaneCradopaud"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "10",
+      "10",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "BombydouMunna",
+      "Lewsor",
+      "ZigzatonSonistrelleNounourson"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Roublenard",
+      "Qulbutoké",
+      "SepiatopLéopardus",
+      "BatracnéGrindurTogepi",
+      ""
+    ],
+    "percentages": [
+      "28",
+      "25",
+      "20",
+      "10",
+      "10",
+      "5",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Carabing",
+      "Roublenard",
+      "ExcavarenneEscargaume",
+      "BatracnéGrindurTogepi",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "23",
+      "20",
+      "10",
+      "10",
+      "5",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "OpermineSancoki",
+      "BatracnéSepiatopSovkipouGrindur"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "OpermineSonistrelleSancoki",
+      "BatracnéSepiatopGrindur"
+    ],
+    "percentages": [
+      "25",
+      "20",
+      "20",
+      "20",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "SepiatopFunécireRoublenard",
+      "WagomineBatracnéGrindur"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "FarfuretRoublenard",
+      "Sorbébé",
+      "Polarhume",
+      "SepiatopBatracnéGrindur"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "É20",
+      "B10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "FarfuretPolarhume",
+      "SepiatopMysdibuleSorbébé",
+      "BatracnéGrindur"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "10",
+      "É10",
+      "B10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Rhinocorne",
+      "FuraiglonVostournoSimularbre",
+      "SepiatopBatracnéGrindur"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "É25",
+      "B20",
+      "10",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Crèmy",
+      "FunécireLewsor",
+      "BatracnéRoublenard",
+      "GrindurTogepi",
+      ""
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "20",
+      "10",
+      "5",
+      "5",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "SonistrelleChovsourirColombeau"
+    ],
+    "percentages": [
+      "60",
+      "35",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "SonistrelleChovsourirColombeau"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "SonistrelleColombeauChovsourir"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "20",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "SonistrelleChovsourirColombeau"
+    ],
+    "percentages": [
+      "70",
+      "25",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "ColombeauSonistrelleChovsourir"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "ChovsourirColombeauSonistrelle"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "ColombeauSonistrelleChovsourir"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "ColombeauChovsourirSonistrelle"
+    ],
+    "percentages": [
+      "55",
+      "35",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "ChovsourirSonistrelleColombeau"
+    ],
+    "percentages": [
+      "65",
+      "25",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Normal",
+    "pokemons": [
+      "Poissirène",
+      "QwilfishSepiatop"
+    ],
+    "percentages": [
+      "55",
+      "30",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "QwilfishPoissirène",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "45",
+      "40",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Poissirène",
+      "QwilfishSepiatop"
+    ],
+    "percentages": [
+      "45",
+      "40",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "QwilfishPoissirène",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "55",
+      "30",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "QwilfishPoissirène",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Sorbébé",
+      "Poissirène",
+      "QwilfishSepiatop"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "15",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "QwilfishSepiatopPoissirène",
+      ""
+    ],
+    "percentages": [
+      "55",
+      "20",
+      "15",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "QwilfishPoissirène",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "QwilfishPoissirène",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "45",
+      "40",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "PêcheNiveau 26-28",
+    "pokemons": [
+      "TorgamordMagicarpe",
+      "LanturnQwilfishLéviator"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Arbres à BaiesNiveau 26-28",
+    "pokemons": [
+      "Rongrigou",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "75",
+      "25",
+      ""
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "Miasmax",
+      "Niveau 40 RubombelleNiveau 40SarmuraïNiveau 50LinéonNiveau 40CheloursNiveau 42CrapustuleNiveau 46NoacierNiveau 40"
+    ],
+    "percentages": [
+      "Rongrigou-Niveau 42Neitram-Niveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65Poissoroy-Niveau 46LéviatorNiveau 56"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Miasmax",
+      "Niveau 40 RubombelleNiveau 40DrascoreNiveau 50LinéonNiveau 40PandarbareNiveau 42CrapustuleNiveau 46NoacierNiveau 40"
+    ],
+    "percentages": [
+      "Rongrigou-Niveau 42Neitram-Niveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65Poissoroy-Niveau 46LéviatorNiveau 56"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Miasmax",
+      "Niveau 40SarmuraïNiveau 50LinéonNiveau 40CheloursNiveau 42CrapustuleNiveau 46NoacierNiveau 40Rongrigou",
+      "Niveau 42"
+    ],
+    "percentages": [
+      "ArchéodongNiveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65MoyadeNiveau 46LéviatorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Miasmax",
+      "Niveau 40SarmuraïNiveau 50LinéonNiveau 40CheloursNiveau 40CrapustuleNiveau 46NoacierNiveau 40Rongrigou",
+      "Niveau 42"
+    ],
+    "percentages": [
+      "ArchéodongNiveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65LanturnNiveau 46LéviatorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Miasmax",
+      "Niveau 40 RubombelleNiveau 40RhinoférosNiveau 50LinéonNiveau 40PandarbareNiveau 42CheloursNiveau 46NoacierNiveau 40"
+    ],
+    "percentages": [
+      "Rongrigou-Niveau 42Neitram-Niveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65BekipanNiveau 46LéviatorNiveau 56"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Miasmax",
+      "Niveau 40Sorbouboul",
+      "Niveau 46/50LinéonNiveau 40CheloursNiveau 42NoacierNiveau 40Rongrigou",
+      "Niveau 42"
+    ],
+    "percentages": [
+      "Neitram-Niveau 42NoarfangNiveau 50Polagriffe-Niveau 60IxonNiveau 65LéviatorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "Miasmax",
+      "Niveau 40Sorbouboul",
+      "Niveau 46/50LinéonNiveau 40CheloursNiveau 42NoacierNiveau 40Rongrigou",
+      "Niveau 42"
+    ],
+    "percentages": [
+      "Neitram-Niveau 42BruyverneNiveau 50DimoretNiveau 60IxonNiveau 65LéviatorNiveau 56-"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Miasmax",
+      "Niveau 40LinéonNiveau 40CheloursNiveau 50RhinoférosNiveau 46NoacierNiveau 40Rongrigou",
+      "Niveau 42"
+    ],
+    "percentages": [
+      "KaorineNiveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65Poissoroy-Niveau 46LéviatorNiveau 56"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Miasmax",
+      "Niveau 40 RubombelleNiveau 40MimiquiNiveau 50LinéonNiveau 40CheloursNiveau 42CrapustuleNiveau 46NoacierNiveau 40"
+    ],
+    "percentages": [
+      "Rongrigou-Niveau 42Neitram-Niveau 42BruyverneNiveau 50Mushana-Niveau 60IxonNiveau 65MoyadeNiveau 46LéviatorNiveau 56"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "ArchéomirePifeuilLombreMachopeur",
+      "Machoc",
+      "Nounourson"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "É25",
+      "B10",
+      "É10",
+      "B5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Machoc",
+      "FantominusArchéomireDebugant",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "PifeuilLombreArchéomireFantominusAxoloto"
+    ],
+    "percentages": [
+      "60",
+      "É60",
+      "B25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Dynavolt",
+      "ArchéomireBatracné"
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "12",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "Tiboudet",
+      "FantominusArchéomireGoupix",
+      "Caninos",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      "É5",
+      "B"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "BlizziStalgamin",
+      "Machoc",
+      "Archéomire"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "BlizziStalgamin",
+      "ArchéomireCadoizo"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "GringolemArchéomireMachoc",
+      "Nounourson"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Skelénox",
+      "NatuFantominusMunna",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "2",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "CheloursExcavarenneOnixColombeauArchéomire"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Machopeur",
+      "CheloursOnixSpectrumArchéomire"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "MaraisteCheloursPifeuilLombreArchéomire"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "É15",
+      "B5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Élecsprint",
+      "CheloursColhomardArchéomire"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "CrabicoqueCheloursOnixBourrinos",
+      "Archéomire"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "CadoizoCheloursMarcacrinArchéomire"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "CadoizoArchéomireMarcacrinChelours"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "Bourrinos",
+      "CheloursOnixCrabicoqueArchéomire"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "15",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "XatuCheloursArchéomireLéopardus",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "É5",
+      "B5",
+      "É30",
+      "B15",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "PêcheNiveau 30-35",
+    "pokemons": [
+      "Kokiyas",
+      "Concombaffe",
+      "LéviatorCrustabri"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Arbre à BaiesNiveau 30-35",
+    "pokemons": [
+      "Rongrigou",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "70",
+      "30",
+      ""
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Fixe - Météo normale",
+    "pokemons": [
+      "Steelix",
+      " 50Rhinoféros",
+      " 46Scalproie",
+      " 52Lucanon",
+      " 46Duralugon",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Fixe - Ciel couvert",
+    "pokemons": [
+      "Steelix",
+      " 50Archéodong",
+      " 46Scalproie",
+      " 52Lucanon",
+      " 46Duralugon",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Fixe - Pluie, orage",
+    "pokemons": [
+      "Steelix",
+      " 50Archéodong",
+      " 46Scalproie",
+      " 52Mygavolt",
+      " 46Duralugon",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Fixe - Soleil intense",
+    "pokemons": [
+      "Steelix",
+      " 50Bourrinos-",
+      " 46Scalproie",
+      " 52Lucanon",
+      " 46Duralugon",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Fixe - Neige et blizzard",
+    "pokemons": [
+      "Steelix",
+      " 50Blizzaroi",
+      " 46Scalproie",
+      " 52Oniglali-",
+      " 46Duralugon",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Fixe - Tempête de sable",
+    "pokemons": [
+      "Steelix",
+      " 50Golemastoc",
+      " 46Scalproie",
+      " 52Lucanon",
+      " 46Duralugon",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Steelix",
+      " 50Téraclope-",
+      " 46Scalproie",
+      " 52Mushana-",
+      " 46Duralugon",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "GringolemSkelénox",
+      "Baudrive"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Skelénox",
+      "FantominusMystherbeBaudrive"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Skelénox",
+      "FantominusGoéliseChacripan",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "FantominusSkelénox",
+      "BaudriveChacripan",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "BaudriveSkelénox",
+      "Goupix",
+      "Caninos",
+      "Caratroc"
+    ],
+    "percentages": [
+      "60",
+      "28",
+      "10",
+      "É10",
+      "B2",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "BaudriveCadoizoSkelénox",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "CadoizoFantominusChacripan",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "FantominusCaratrocChacripan",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "15",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "FantominusSkelénox",
+      "TarsalChacripan",
+      ""
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Météo normale",
+    "pokemons": [
+      "GringolemBaudriveCroquine",
+      "Poichigeon"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Ciel couvert",
+    "pokemons": [
+      "Skelénox",
+      "Machoc",
+      "FantominusCroquine",
+      ""
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "É10",
+      "B10",
+      "É30",
+      "B20",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Pluie",
+    "pokemons": [
+      "Skelénox",
+      "Tritonde",
+      "GoélisePoichigeon"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Orage",
+    "pokemons": [
+      "Dynavolt",
+      "Larvibule",
+      "Skelénox",
+      "Poichigeon"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Soleil intense",
+    "pokemons": [
+      "GringolemSkelénox",
+      "Goupix",
+      "Caninos",
+      "Baudrive"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "É20",
+      "B10",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Neige",
+    "pokemons": [
+      "Stalgamin",
+      "Skelénox",
+      "BlizziBaudrive"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Blizzard",
+    "pokemons": [
+      "BlizziStalgamin",
+      "Skelénox",
+      "Baudrive"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Tempête de sable",
+    "pokemons": [
+      "GringolemCrabicoqueSkelénox",
+      "Poichigeon"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Brume",
+    "pokemons": [
+      "Skelénox",
+      "Chacripan",
+      "Poichigeon"
+    ],
+    "percentages": [
+      "60",
+      "30",
+      "10",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Ciel couvert, orage",
+    "pokemons": [
+      "SonistrelleChovsourir"
+    ],
+    "percentages": [
+      "60",
+      "40",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Autres météos",
+    "pokemons": [
+      "ChovsourirSonistrelle"
+    ],
+    "percentages": [
+      "60",
+      "40",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Arbre à BaiesNiveau 11-14",
+    "pokemons": [
+      "Rongourmand",
+      "Ceribou",
+      ""
+    ],
+    "percentages": [
+      "50",
+      "50",
+      ""
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Fixe - Normale, soleil",
+    "pokemons": [
+      "Grodrive",
+      " 34Golemastoc",
+      " 40Corvaillus",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Fixe - Ciel couvert, pluie, orage, tempête de sable",
+    "pokemons": [
+      "Spectrum",
+      " 34Téraclope-",
+      " 40Corvaillus",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Fixe - Neige",
+    "pokemons": [
+      "Grodrive",
+      " 34Oniglali-",
+      " 40Corvaillus",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Fixe - Blizzard",
+    "pokemons": [
+      "Spectrum",
+      " 34Oniglali-",
+      " 40Corvaillus",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  },
+  {
+    "route": "Tour en ruines",
+    "level": "",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Spectrum",
+      " 34Golemastoc",
+      " 40Corvaillus",
+      " 65"
+    ],
+    "percentages": [
+      "100"
+    ]
+  }
+]
