@@ -1,0 +1,267 @@
+[
+    {
+      "route": "Brasswick",
+      "level": "12",
+      "where": "Gare de Brasswick",
+      "pokemons": [
+        "Ramoloss"
+      ],
+      "percentages": [
+          "100"
+      ]
+    },
+    {
+        "route": "Corrifey",
+        "level": "35",
+        "where": "Echange vs Tutafeh",
+        "pokemons": [
+          "Tutafeh"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "GreenBury",
+        "level": "50",
+        "where": "Fixe",
+        "pokemons": [
+          "Colhomard"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "GreenBury",
+        "level": "18",
+        "where": "Echange vs Miaouss",
+        "pokemons": [
+          "Miaouss"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Kickenham",
+        "level": "60",
+        "where": "Fixe",
+        "pokemons": [
+          "Éthernatos"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Kickenham",
+        "level": "70",
+        "where": "Fixe",
+        "pokemons": [
+          "Zamazenta"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Kickenham",
+        "level": "25",
+        "where": "Echange vs Toxizap",
+        "pokemons": [
+          "Togepi"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Ludester",
+        "level": "37",
+        "where": "Echange vs Sorboul",
+        "pokemons": [
+          "Karaclée"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Motorby",
+        "level": "25",
+        "where": "Mission Arene",
+        "pokemons": [
+          "Grillepattes"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Motorby",
+        "level": "25",
+        "where": "Mission Arene",
+        "pokemons": [
+          "Goupix"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Motorby",
+        "level": "25",
+        "where": "Mission Arene",
+        "pokemons": [
+          "Funécire"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Motorby",
+        "level": "Niveau 7-11",
+        "where": "Peche",
+        "pokemons": [
+          "Magicarpe",
+          "Khélocrok",
+          "Barloche"
+        ],
+        "percentages": [
+            "50",
+            "40",
+            "10"
+        ]
+    },
+    {
+        "route": "Motorby",
+        "level": "10",
+        "where": "Echange vs Sapereau",
+        "pokemons": [
+          "Rongourmand"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Old Chister",
+        "level": "30",
+        "where": "Echange vs Marachi",
+        "pokemons": [
+          "Grimalin"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Paddoxton",
+        "level": "5",
+        "where": "Starter",
+        "pokemons": [
+          "Ouistempo"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Paddoxton",
+        "level": "5",
+        "where": "Starter",
+        "pokemons": [
+          "Flambino"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Paddoxton",
+        "level": "5",
+        "where": "Starter",
+        "pokemons": [
+          "Larméléon"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Paddoxton",
+        "level": "5",
+        "where": "Donné post-ligue",
+        "pokemons": [
+          "Salamèche"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Skifford",
+        "level": "Niveau 7-11",
+        "where": "Peche",
+        "pokemons": [
+          "Embrochet",
+          "Loupio",
+          "Khélocrok",
+          "Bargantua",
+          "Foussardine"
+        ],
+        "percentages": [
+            "50",
+            "20",
+            "15",
+            "10",
+            "5"
+        ]
+    },
+    {
+        "route": "Skifford",
+        "level": "23",
+        "where": "Echange vs Chinchidou",
+        "pokemons": [
+          "Doudouvet"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Smashings",
+        "level": "40",
+        "where": "Echange vs Ixon",
+        "pokemons": [
+          "M. Mime"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Winscor",
+        "level": "50",
+        "where": "Echange vs Beldeneige",
+        "pokemons": [
+          "Duralugon"
+        ],
+        "percentages": [
+            "100"
+        ]
+    },
+    {
+        "route": "Winscor",
+        "level": "50",
+        "where": "Offert post-ligue",
+        "pokemons": [
+          "Type:0"
+        ],
+        "percentages": [
+            "100"
+        ]
+    }
+]

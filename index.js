@@ -64,36 +64,37 @@ const getRouteData = require('./src/getRouteData');
 //     console.log('Saved!');
 // });
 
-const fetchData = async () => {
-    let fullList = [];
-    const rte1 = await getRouteData('Route 1', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-1');
-    const rte2 = await getRouteData('Route 2', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-2');
-    const rte3 = await getRouteData('Route 3', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-3');
-    const rte4 = await getRouteData('Route 4', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-4');
-    const rte5 = await getRouteData('Route 5', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-5');
-    const rte6 = await getRouteData('Route 6', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-6');
-    const rte7 = await getRouteData('Route 7', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-7');
-    const rte8 = await getRouteData('Route 8', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-8');
-    const rte9 = await getRouteData('Route 9', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-9');
-    const rte10 = await getRouteData('Route 10', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-10');
+// const fetchData = async () => {
+//     let fullList = [];
+//     const rte1 = await getRouteData('Route 1', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-1');
+//     const rte2 = await getRouteData('Route 2', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-2');
+//     const rte3 = await getRouteData('Route 3', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-3');
+//     const rte4 = await getRouteData('Route 4', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-4');
+//     const rte5 = await getRouteData('Route 5', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-5');
+//     const rte6 = await getRouteData('Route 6', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-6');
+//     const rte7 = await getRouteData('Route 7', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-7');
+//     const rte8 = await getRouteData('Route 8', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-8');
+//     const rte9 = await getRouteData('Route 9', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-9');
+//     const rte10 = await getRouteData('Route 10', 'https://www.pokebip.com/page/jeuxvideo/pokemon-epee-bouclier/guide-des-lieux/route-10');
 
-    fullList = fullList.concat(rte1);
-    fullList = fullList.concat(rte2);
-    fullList = fullList.concat(rte3);
-    fullList = fullList.concat(rte4);
-    fullList = fullList.concat(rte5);
-    fullList = fullList.concat(rte6);
-    fullList = fullList.concat(rte7);
-    fullList = fullList.concat(rte8);
-    fullList = fullList.concat(rte9);
-    fullList = fullList.concat(rte10);
+//     fullList = fullList.concat(rte1);
+//     fullList = fullList.concat(rte2);
+//     fullList = fullList.concat(rte3);
+//     fullList = fullList.concat(rte4);
+//     fullList = fullList.concat(rte5);
+//     fullList = fullList.concat(rte6);
+//     fullList = fullList.concat(rte7);
+//     fullList = fullList.concat(rte8);
+//     fullList = fullList.concat(rte9);
+//     fullList = fullList.concat(rte10);
 
-    const toWrite = JSON.stringify(fullList, null, 2);
+//     const toWrite = JSON.stringify(fullList, null, 2);
 
-    fs.writeFile('./assets/routes/routes.json', toWrite, function (err) {
-        if (err) throw err;
-        console.log('Saved!');
-    });
-}
+//     fs.writeFile('./assets/routes/routes.json', toWrite, function (err) {
+//         if (err) throw err;
+//         console.log('Saved!');
+//     });
+// }
 
-fetchData();
+// fetchData();
+

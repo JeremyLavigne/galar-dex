@@ -5,7 +5,7 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Paddoxton (starter) ; offert sur HOME"
+      "Paddoxton"
     ]
   },
   {
@@ -28,7 +28,7 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Paddoxton (starter) ; offert sur HOME"
+      "Paddoxton"
     ]
   },
   {
@@ -51,7 +51,7 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Paddoxton (starter) ; offert sur HOME"
+      "Paddoxton"
     ]
   },
   {
@@ -252,7 +252,8 @@
       "Berges de Motorby",
       "Bois de Clairjour",
       "Lac Milobellus Nord",
-      "Tour en ruines"
+      "Tour en ruines",
+      "Motorby"
     ]
   },
   {
@@ -795,7 +796,8 @@
     "localisation": [
       "Fosse des Sables",
       "Miroir du Géant",
-      "Plateau de Kickenham"
+      "Plateau de Kickenham",
+      "Motorby"
     ]
   },
   {
@@ -1920,7 +1922,8 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Route 3"
+      "Route 3",
+      "Motorby"
     ]
   },
   {
@@ -2172,7 +2175,8 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Route 4"
+      "Route 4",
+      "Greenbury"
     ]
   },
   {
@@ -2734,7 +2738,8 @@
       "Forêt de Lumirinth",
       "Miroir du Géant",
       "Plaine Rocheuse",
-      "Plateau de Kickenham"
+      "Plateau de Kickenham",
+      "Old Chister"
     ]
   },
   {
@@ -2847,7 +2852,7 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Échange interne"
+      "Ludester"
     ]
   },
   {
@@ -2931,7 +2936,7 @@
     "evo": "",
     "localisation": [
       "Prairie Entre-Ponts",
-      "Échange interne"
+      "Kickenham"
     ]
   },
   {
@@ -2977,7 +2982,7 @@
     "evo": "",
     "localisation": [
       "Plaine Rocheuse",
-      "Échange interne"
+      "Skifford"
     ]
   },
   {
@@ -3218,7 +3223,8 @@
     "evo": "",
     "localisation": [
       "Berges de Motorby",
-      "Prairie Entre-Ponts"
+      "Prairie Entre-Ponts",
+      "Motorby"
     ]
   },
   {
@@ -3626,7 +3632,8 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Route 6"
+      "Route 6",
+      "Corrifey"
     ]
   },
   {
@@ -3972,7 +3979,8 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Route 10"
+      "Route 10",
+      "Smashings"
     ]
   },
   {
@@ -4022,7 +4030,7 @@
       "Route 10",
       "Lac Ouragan",
       "Siège du Géant",
-      "Échange interne"
+      "Winscor"
     ]
   },
   {
@@ -4086,7 +4094,7 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Offert dans la maison de Nabil (post-ligue) ; offert sur HOME"
+      "Paddoxton"
     ]
   },
   {
@@ -4109,7 +4117,7 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Offert à la Tour de Combat"
+      "Winscor"
     ]
   },
   {
@@ -4251,7 +4259,7 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Kickenham (sommet de la tour)"
+      "Kickenham"
     ]
   },
   {
@@ -4260,7 +4268,7 @@
     "nameEn": "",
     "evo": "",
     "localisation": [
-      "Kickenham (sommet de la tour)"
+      "Kickenham"
     ]
   }
 ]
