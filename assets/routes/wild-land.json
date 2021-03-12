@@ -7400,402 +7400,408 @@
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes au Centre et à l'Est) - Météo normale",
     "pokemons": [
-      "ZigzatonNinjaskDebugant",
-      "BalbutoGringolem"
-    ],
-    "percentages": [
-      "35",
-      "30",
-      "15",
-      "10",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Ciel couvert",
-    "pokemons": [
-      "Machopeur",
-      "BaggiguaneCradopaudZigzatonBalbutoGringolem"
-    ],
-    "percentages": [
-      "35",
-      "30",
-      "É30",
-      "B15",
-      "10",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Pluie",
-    "pokemons": [
-      "NinjaskAraquaZigzatonBalbutoArchéomireGringolemNigosier"
-    ],
-    "percentages": [
-      "35",
-      "30",
-      "10",
-      "10",
-      "É10",
-      "B10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Orage",
-    "pokemons": [
-      "Voltoutou",
-      "AraquaToxizapBalbutoArchéomireGringolemPikachu",
-      ""
-    ],
-    "percentages": [
-      "35",
-      "30",
-      "10",
-      "10",
-      "É10",
-      "B10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Soleil intense",
-    "pokemons": [
-      "Maracachi",
-      "ZigzatonTritoxBalbutoGringolem"
-    ],
-    "percentages": [
-      "35",
-      "30",
-      "15",
-      "10",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Neige",
-    "pokemons": [
-      "Polarhume",
-      "ZigzatonFarfuretBalbutoArchéomireGringolem"
-    ],
-    "percentages": [
-      "35",
-      "30",
-      "15",
-      "10",
-      "É10",
-      "B10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Blizzard",
-    "pokemons": [
-      "FarfuretPolarhume",
-      "ZigzatonBalbutoArchéomireGringolemGrindur"
-    ],
-    "percentages": [
-      "35",
-      "30",
-      "10",
-      "10",
-      "É10",
-      "B10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Tempête de sable",
-    "pokemons": [
-      "Manzaï",
-      "ZigzatonCrabicoqueBalbutoGringolem"
-    ],
-    "percentages": [
-      "35",
-      "30",
-      "15",
-      "10",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Brume",
-    "pokemons": [
-      "Bibichut",
-      "Munna",
-      "ZigzatonBalbutoArchéomireGringolemGoupilou",
-      ""
-    ],
-    "percentages": [
-      "35",
-      "30",
-      "10",
-      "10",
-      "É10",
-      "B10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Météo normale",
-    "pokemons": [
-      "CrabicoqueNinjaskDebugant",
-      "FuraiglonVostourno"
-    ],
-    "percentages": [
-      "45",
-      "35",
-      "15",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Ciel couvert",
-    "pokemons": [
-      "Machopeur",
-      "BaggiguaneCoatoxCrabicoqueFuraiglonVostourno"
-    ],
-    "percentages": [
-      "45",
-      "35",
-      "É35",
-      "B15",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Pluie",
-    "pokemons": [
-      "AraquaCrabicoqueNinjaskFuraiglonVostourno"
-    ],
-    "percentages": [
-      "45",
-      "35",
-      "15",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Orage",
-    "pokemons": [
-      "Voltoutou",
-      "AraquaToxizapPikachu",
-      "FuraiglonVostourno"
-    ],
-    "percentages": [
-      "45",
-      "35",
-      "10",
-      "5",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Soleil intense",
-    "pokemons": [
-      "Maracachi",
-      "CrabicoqueNodulithe",
-      "FuraiglonVostourno"
-    ],
-    "percentages": [
-      "45",
-      "35",
-      "15",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Neige",
-    "pokemons": [
-      "Polarhume",
-      "CrabicoqueFarfuretFuraiglonVostourno"
-    ],
-    "percentages": [
-      "45",
-      "35",
-      "15",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Blizzard",
-    "pokemons": [
-      "FarfuretPolarhume",
-      "CrabicoqueGrindurFuraiglonVostourno"
-    ],
-    "percentages": [
-      "45",
-      "35",
-      "10",
-      "5",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Tempête de sable",
-    "pokemons": [
-      "Manzaï",
-      "CrabicoqueNodulithe",
-      "FuraiglonVostourno"
-    ],
-    "percentages": [
-      "45",
-      "35",
-      "15",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Brume",
-    "pokemons": [
-      "Bibichut",
-      "Munna",
-      "CrabicoqueGoupilou",
-      "FuraiglonVostourno"
-    ],
-    "percentages": [
-      "45",
-      "35",
-      "10",
-      "5",
-      "5",
-      "É5",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Météo normale",
-    "pokemons": [
-      "Croquine",
-      "Machoc",
+      "Zigzaton",
+      "Ninjask",
       "Debugant",
-      ""
+      "Balbuto",
+      "Gringolem"
     ],
     "percentages": [
-      "50",
       "35",
+      "30",
       "15",
-      ""
+      "10",
+      "10"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes au Centre et à l'Est) - Ciel couvert",
+    "pokemons": [
+      "Machopeur",
+      "Cradopaud",
+      "Zigzaton",
+      "Balbuto",
+      "Gringolem"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "15",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes au Centre et à l'Est) - Pluie",
+    "pokemons": [
+      "Ninjask",
+      "Araqua",
+      "Zigzaton",
+      "Archéomire",
+      "Gringolem",
+      "Nigosier"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "10",
+      "10",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes au Centre et à l'Est) - Orage",
+    "pokemons": [
+      "Voltoutou",
+      "Araqua",
+      "Toxizap",
+      "Archéomire",
+      "Gringolem",
+      "Pikachu"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "10",
+      "10",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes au Centre et à l'Est) - Soleil intense",
+    "pokemons": [
+      "Maracachi",
+      "Zigzaton",
+      "Tritox",
+      "Balbuto",
+      "Gringolem"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "15",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes au Centre et à l'Est) - Neige",
+    "pokemons": [
+      "Polarhume",
+      "Zigzaton",
+      "Farfuret",
+      "Archéomire",
+      "Gringolem"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "15",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes au Centre et à l'Est) - Blizzard",
+    "pokemons": [
+      "Farfuret",
+      "Polarhume",
+      "Zigzaton",
+      "Archéomire",
+      "Gringolem",
+      "Grindur"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "10",
+      "10",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes au Centre et à l'Est) - Tempête de sable",
+    "pokemons": [
+      "Manzaï",
+      "Zigzaton",
+      "Crabicoque",
+      "Balbuto",
+      "Gringolem"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "15",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes au Centre et à l'Est) - Brume",
+    "pokemons": [
+      "Bibichut",
+      "Munna",
+      "Zigzaton",
+      "Archéomire",
+      "Gringolem",
+      "Goupilou"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "10",
+      "10",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes du désert à l'Est) - Météo normale",
+    "pokemons": [
+      "Crabicoque",
+      "Ninjask",
+      "Debugant",
+      "Vostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes du désert à l'Est) - Ciel couvert",
+    "pokemons": [
+      "Machopeur",
+      "Coatox",
+      "Crabicoque",
+      "Vostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes du désert à l'Est) - Pluie",
+    "pokemons": [
+      "Araqua",
+      "Crabicoque",
+      "Ninjask",
+      "Vostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes du désert à l'Est) - Orage",
+    "pokemons": [
+      "Voltoutou",
+      "Araqua",
+      "Toxizap",
+      "Pikachu",
+      "Vostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "10",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes du désert à l'Est) - Soleil intense",
+    "pokemons": [
+      "Maracachi",
+      "Crabicoque",
+      "Nodulithe",
+      "Vostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes du désert à l'Est) - Neige",
+    "pokemons": [
+      "Polarhume",
+      "Crabicoque",
+      "Farfuret",
+      "Vostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes du désert à l'Est) - Blizzard",
+    "pokemons": [
+      "Farfuret",
+      "Polarhume",
+      "Crabicoque",
+      "Grindur",
+      "Vostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "10",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes du désert à l'Est) - Tempête de sable",
+    "pokemons": [
+      "Manzaï",
+      "Crabicoque",
+      "Nodulithe",
+      "Vostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes du désert à l'Est) - Brume",
+    "pokemons": [
+      "Bibichut",
+      "Munna",
+      "Crabicoque",
+      "Goupilou",
+      "Vostourno"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "10",
+      "5",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Ouest) - Météo normale",
     "pokemons": [
       "Croquine",
       "Machoc",
-      "BaggiguaneCradopaud"
+      "Debugant"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      "É15",
-      "B"
+      "15"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Ouest) - Ciel couvert",
     "pokemons": [
       "Croquine",
-      "AraquaNigosier"
+      "Machoc",
+      "Cradopaud"
+    ],
+    "percentages": [
+      "50",
+      "35",
+      "15"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Ouest) - Pluie",
+    "pokemons": [
+      "Croquine",
+      "Araqua",
+      "Nigosier"
     ],
     "percentages": [
       "60",
       "35",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Ouest) - Orage",
     "pokemons": [
-      "AraquaCroquine",
-      "ToxizapPikachu",
-      ""
+      "Araqua",
+      "Croquine",
+      "Toxizap",
+      "Pikachu"
     ],
     "percentages": [
-      "45",
-      "É50",
-      "B35",
+      "50",
+      "35",
       "10",
-      "10",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Ouest) - Soleil intense",
     "pokemons": [
       "Maracachi",
       "Croquine",
@@ -7803,17 +7809,14 @@
     ],
     "percentages": [
       "50",
-      "45",
-      "É35",
-      "B5",
-      "É15",
-      "B"
+      "35",
+      "15"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Ouest) - Neige",
     "pokemons": [
       "Polarhume",
       "Croquine",
@@ -7822,16 +7825,16 @@
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Ouest) - Blizzard",
     "pokemons": [
-      "FarfuretCroquine",
+      "Farfuret",
+      "Croquine",
       "Polarhume",
       "Grindur"
     ],
@@ -7839,14 +7842,13 @@
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Ouest) - Tempête de sable",
     "pokemons": [
       "Manzaï",
       "Croquine",
@@ -7855,313 +7857,324 @@
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes Ouest) - Brume",
     "pokemons": [
       "Bibichut",
       "Croquine",
       "Munna",
-      "Goupilou",
-      ""
+      "Goupilou"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
-      "Ouvrifier",
       "Géolithe",
-      "RubombelleGrimalinBlancoton",
-      ""
+      "Rubombelle",
+      "Grimalin",
+      "Blancoton"
     ],
     "percentages": [
       "40",
-      "É40",
-      "B30",
+      "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
-      "DoudouvetSucroquin",
+      "Doudouvet",
       "Fluvetin",
-      "RubombelleGrimalin"
-    ],
-    "percentages": [
-      "40",
-      "30",
-      "É30",
-      "B20",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Pluie",
-    "pokemons": [
-      "BarlocheSancoki",
-      "GrimalinPikachu",
-      ""
-    ],
-    "percentages": [
-      "40",
-      "30",
-      "20",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Orage",
-    "pokemons": [
-      "ToxizapOuvrifier",
-      "Géolithe",
-      "GrimalinVerpom"
-    ],
-    "percentages": [
-      "40",
-      "30",
-      "É30",
-      "B20",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Soleil intense",
-    "pokemons": [
-      "WagomineOuvrifier",
-      "Géolithe",
-      "GrimalinRototaupe",
-      ""
-    ],
-    "percentages": [
-      "40",
-      "30",
-      "É30",
-      "B20",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Neige",
-    "pokemons": [
-      "Polarhume",
-      "FarfuretGrimalinOuvrifier",
-      "Géolithe",
-      ""
-    ],
-    "percentages": [
-      "40",
-      "30",
-      "20",
-      "10",
-      "É10",
-      "B"
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Blizzard",
-    "pokemons": [
-      "FarfuretScalpionPolarhume",
+      "Rubombelle",
       "Grimalin"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "RhinocorneGéolithe",
-      "Rototaupe",
-      "Caratroc"
-    ],
-    "percentages": [
-      "40",
-      "É20",
-      "B20",
-      "É40",
-      "B30",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Brume",
-    "pokemons": [
-      "Roublenard",
-      "ColéodômeGrimalinTogetic"
+      "Barloche",
+      "Sancoki",
+      "Grimalin",
+      "Pikachu"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Soleil, tempête de sable, brume",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
-      "CryptéroColombeau"
+      "Toxizap",
+      "Géolithe",
+      "Grimalin",
+      "Verpom"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Soleil intense",
+    "pokemons": [
+      "Wagomine",
+      "Géolithe",
+      "Grimalin",
+      "Rototaupe"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Neige",
+    "pokemons": [
+      "Polarhume",
+      "Farfuret",
+      "Grimalin",
+      "Géolithe"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Blizzard",
+    "pokemons": [
+      "Farfuret",
+      "Scalpion",
+      "Polarhume",
+      "Grimalin"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Tempête de sable",
+    "pokemons": [
+      "Rhinocorne",
+      "Géolithe",
+      "Rototaupe",
+      "Caratroc"
+    ],
+    "percentages": [
+      "20",
+      "40",
+      "30",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 27-29",
+    "where": "Cachés dans les herbes - Brume",
+    "pokemons": [
+      "Roublenard",
+      "Coléodôme",
+      "Grimalin",
+      "Togetic"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Plaine Rocheuse",
+    "level": "Niveau 28-30",
+    "where": "Dans les airs - Soleil, tempête de sable, brume",
+    "pokemons": [
+      "Cryptéro",
+      "Colombeau"
     ],
     "percentages": [
       "60",
-      "40",
-      ""
+      "40"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
-    "where": "Autres météos",
+    "level": "Niveau 28-30",
+    "where": "Dans les airs - Autres météos",
     "pokemons": [
-      "ColombeauCryptéro"
+      "Colombeau",
+      "Cryptéro"
     ],
     "percentages": [
       "60",
-      "40",
-      ""
+      "40"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Météo normale, soleil intense, tempête de sable",
     "pokemons": [
       "Kaorine",
-      " 42Sucreine-",
-      " 36Rhinoféros",
-      " 41Noctunoir-",
-      " 60Golemastoc",
-      " 43Crabaraque",
-      " 34Cryptéro",
-      " 40Angoliath",
-      " 65"
+      "Sucreine",
+      "Rhinoféros",
+      "Noctunoir",
+      "Golemastoc",
+      "Crabaraque",
+      "Cryptéro",
+      "Angoliath"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Ciel couvert",
     "pokemons": [
       "Kaorine",
-      " 42Sucreine-",
-      " 36Rhinoféros",
-      " 41Noctunoir-",
-      " 60Golemastoc",
-      " 43Crabaraque",
-      " 34Déflaisan",
-      " 40Angoliath",
-      " 65"
+      "Sucreine",
+      "Rhinoféros",
+      "Noctunoir",
+      "Golemastoc",
+      "Crabaraque",
+      "Déflaisan",
+      "Angoliath"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Pluie et orage",
     "pokemons": [
       "Archéodong",
-      " 42Tarenbulle",
-      " 36/34Rhinoféros",
-      " 41Noctunoir-",
-      " 60Golemastoc",
-      " 43Cryptéro",
-      " 40Angoliath",
-      " 65"
+      "Tarenbulle",
+      "Rhinoféros",
+      "Noctunoir",
+      "Golemastoc",
+      "Cryptéro",
+      "Angoliath"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Rocheuse",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Neige, blizzard et brume",
     "pokemons": [
       "Archéodong",
-      " 42Sucreine-",
-      " 36Rhinoféros",
-      " 41Noctunoir-",
-      " 60Golemastoc",
-      " 43Crabaraque",
-      " 34Cryptéro",
-      " 40Angoliath",
-      " 65"
+      "Sucreine",
+      "Rhinoféros",
+      "Noctunoir",
+      "Golemastoc",
+      "Crabaraque",
+      "Cryptéro",
+      "Angoliath"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes) - Météo normale",
     "pokemons": [
-      "ApitriniSapereau",
+      "Apitrini",
+      "Sapereau",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes) - Ciel couvert",
     "pokemons": [
       "Sapereau",
       "Debugant",
@@ -8172,162 +8185,149 @@
       "60",
       "28",
       "10",
-      "2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes) - Pluie",
     "pokemons": [
-      "GoéliseSapereau",
+      "Goélise",
+      "Sapereau",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes) - Orage",
     "pokemons": [
       "Dynavolt",
-      "GoéliseChrysacier",
-      "Debugant",
-      ""
+      "Goélise",
+      "Chrysacier",
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes) - Soleil intense",
     "pokemons": [
-      "Goupix",
       "Caninos",
       "Sapereau",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
-      "É60",
-      "B25",
+      "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes) - Neige",
     "pokemons": [
       "Sorbébé",
       "Sapereau",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes) - Blizzard",
     "pokemons": [
-      "CadoizoSorbébé",
+      "Cadoizo",
+      "Sorbébé",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes) - Tempête de sable",
     "pokemons": [
-      "BalbutoSapereau",
+      "Balbuto",
+      "Sapereau",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes) - Brume",
     "pokemons": [
-      "TarsalSapereau",
+      "Tarsal",
+      "Sapereau",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes 2) - Météo normale",
     "pokemons": [
       "Pandespiègle",
-      "ApitriniChrysacier",
-      "Debugant",
-      ""
+      "Apitrini",
+      "Chrysacier",
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes 2) - Ciel couvert",
     "pokemons": [
       "Pandespiègle",
       "Debugant",
@@ -8338,519 +8338,533 @@
       "60",
       "28",
       "10",
-      "2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes 2) - Pluie",
     "pokemons": [
       "Pandespiègle",
-      "GoéliseChrysacier",
-      "Debugant",
-      ""
+      "Goélise",
+      "Chrysacier",
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes 2) - Orage",
     "pokemons": [
       "Pandespiègle",
       "Dynavolt",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes 2) - Soleil intense",
     "pokemons": [
       "Pandespiègle",
-      "Goupix",
       "Caninos",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
-      "É25",
-      "B10",
-      "5",
-      ""
+      "10",
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes 2) - Neige",
     "pokemons": [
       "Pandespiègle",
       "Sorbébé",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes 2) - Blizzard",
     "pokemons": [
       "Pandespiègle",
       "Sorbébé",
       "Chrysacier",
-      "Debugant",
-      ""
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes 2) - Tempête de sable",
     "pokemons": [
       "Pandespiègle",
-      "BalbutoChrysacier",
-      "Debugant",
-      ""
+      "Balbuto",
+      "Chrysacier",
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 7-10",
+    "where": "Pokémon vadrouilleurs (herbes 2) - Brume",
     "pokemons": [
       "Pandespiègle",
-      "TarsalChrysacier",
-      "Debugant",
-      ""
+      "Tarsal",
+      "Chrysacier",
+      "Debugant"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 7-10",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
       "Sapereau",
       "Chinchidou",
       "Croquine",
-      "Chrysacier",
-      ""
+      "Chrysacier"
     ],
     "percentages": [
       "40",
-      "35",
-      "É40",
-      "B20",
-      "5",
-      "É"
-    ]
-  },
-  {
-    "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Ciel couvert",
-    "pokemons": [
-      "MystherbeRozboutonSapereau",
-      "Chrysacier",
-      ""
-    ],
-    "percentages": [
       "40",
-      "35",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 7-10",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
-      "PifeuilNénupiotGéoliseSapereau",
-      "Chrysacier",
-      ""
-    ],
-    "percentages": [
-      "40",
-      "É40",
-      "B35",
-      "20",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Orage",
-    "pokemons": [
-      "StatitikDynavolt",
+      "Mystherbe",
+      "Rozbouton",
       "Sapereau",
-      "Chrysacier",
-      ""
+      "Chrysacier"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 7-10",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "BalbutoTiboudet",
-      "Goupix",
+      "Nénupiot",
+      "Géolise",
+      "Sapereau",
+      "Chrysacier"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "Niveau 7-10",
+    "where": "Cachés dans les herbes - Orage",
+    "pokemons": [
+      "Statitik",
+      "Dynavolt",
+      "Sapereau",
+      "Chrysacier"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "Niveau 7-10",
+    "where": "Cachés dans les herbes - Soleil intense",
+    "pokemons": [
+      "Balbuto",
+      "Tiboudet",
       "Caninos",
-      "Sapereau",
-      ""
+      "Sapereau"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "É20",
-      "B5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 7-10",
+    "where": "Cachés dans les herbes - Neige",
     "pokemons": [
       "Sorbébé",
-      "MarcacrinSapereau",
-      "Chinchidou",
-      ""
-    ],
-    "percentages": [
-      "40",
-      "35",
-      "20",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Blizzard",
-    "pokemons": [
-      "MarcacrinCadoizoStalgamin",
+      "Marcacrin",
       "Sapereau",
-      ""
+      "Chinchidou"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 7-10",
+    "where": "Cachés dans les herbes - Blizzard",
     "pokemons": [
-      "CrabicoqueBalbutoGringolemSapereau",
-      ""
+      "Marcacrin",
+      "Cadoizo",
+      "Stalgamin",
+      "Sapereau"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 7-10",
+    "where": "Cachés dans les herbes - Tempête de sable",
+    "pokemons": [
+      "Crabicoque",
+      "Balbuto",
+      "Gringolem",
+      "Sapereau"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Plaine Verdoyante",
+    "level": "Niveau 7-10",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
       "Munna",
-      "NatuSapereau",
-      "Chrysacier",
-      ""
+      "Natu",
+      "Sapereau",
+      "Chrysacier"
     ],
     "percentages": [
       "40",
       "35",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Normal, ciel couvert, brume",
+    "level": "Niveau 7-10",
+    "where": "Dans les airs - Normal, ciel couvert, brume",
     "pokemons": [
-      "PapilusionPoichigeon"
+      "Papilusion",
+      "Poichigeon"
     ],
     "percentages": [
       "75",
-      "25",
-      ""
+      "25"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Autres météos",
+    "level": "Niveau 7-10",
+    "where": "Dans les airs - Autres météos",
     "pokemons": [
-      "PoichigeonPapilusion"
+      "Poichigeon",
+      "Papilusion"
     ],
     "percentages": [
       "75",
-      "25",
-      ""
+      "25"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Ciel couvert, soleil, tempête de sable",
+    "level": "Niveau 7-10",
+    "where": "Dans le désert - Ciel couvert, soleil, tempête de sable",
     "pokemons": [
       "Nodulithe",
-      "Taupiqueur",
-      ""
+      "Taupiqueur"
     ],
     "percentages": [
       "80",
-      "20",
-      ""
+      "20"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Autres météos",
+    "level": "Niveau 7-10",
+    "where": "Dans le désert -Autres météos",
     "pokemons": [
       "Taupiqueur",
-      "Nodulithe",
-      ""
+      "Nodulithe"
     ],
     "percentages": [
       "80",
-      "20",
-      ""
+      "20"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
-    "where": "Arbre à BaiesNiveau 7-10",
+    "level": "Niveau 7-10",
+    "where": "Arbre à Baies",
     "pokemons": [
       "Rongourmand",
-      "Ceribou",
-      ""
+      "Ceribou"
     ],
     "percentages": [
       "80",
-      "20",
-      ""
+      "20"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Météo normale",
     "pokemons": [
       "Onix",
-      " 26Rosélia",
-      " 15Pandarbare",
-      " 32Apireine",
-      " 26Ninjask",
-      " 15Excavarenne",
-      " 15Bourrinos-",
-      " 31Moumouflon-",
-      " 36"
+      "Rosélia",
+      "Pandarbare",
+      "Apireine",
+      "Ninjask",
+      "Excavarenne",
+      "Bourrinos",
+      "Moumouflon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Ciel couvert et soleil intense",
     "pokemons": [
       "Onix",
-      " 26Rosélia",
-      " 15Pandarbare",
-      " 32Ninjask",
-      " 15Excavarenne",
-      " 15/26Bourrinos-",
-      " 31Moumouflon-",
-      " 36"
+      "Rosélia",
+      "Pandarbare",
+      "Ninjask",
+      "Excavarenne",
+      "Bourrinos",
+      "Moumouflon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Pluie",
     "pokemons": [
       "Onix",
-      " 26Rosélia",
-      " 15Pandarbare",
-      " 32Bekipan",
-      " 26Ninjask",
-      " 15Excavarenne",
-      " 15Spectrum",
-      " 31Moumouflon-",
-      " 36"
+      "Rosélia",
+      "Pandarbare",
+      "Bekipan",
+      "Ninjask",
+      "Excavarenne",
+      "Spectrum",
+      "Moumouflon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Orage",
     "pokemons": [
       "Onix",
-      " 26Pikachu-",
-      " 15Pandarbare",
-      " 32Élecsprint-",
-      " 26Ninjask",
-      " 15Excavarenne",
-      " 15Spectrum",
-      " 31Moumouflon-",
-      " 36"
+      "Pikachu",
+      "Pandarbare",
+      "Élecsprint",
+      "Ninjask",
+      "Excavarenne",
+      "Spectrum",
+      "Moumouflon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Neige",
     "pokemons": [
       "Onix",
-      " 26Rosélia",
-      " 15Cochignon",
-      " 32Ninjask",
-      " 15Excavarenne",
-      " 26Moumouflon-",
-      " 36"
+      "Rosélia",
+      "Cochignon",
+      "Ninjask",
+      "Excavarenne",
+      "Moumouflon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Blizzard",
     "pokemons": [
       "Onix",
-      " 26Mime Jr.",
-      " 15Cochignon",
-      " 32Ninjask",
-      " 15Excavarenne",
-      " 26Moumouflon-",
-      " 36"
+      "Mime Jr.",
+      "Cochignon",
+      "Ninjask",
+      "Excavarenne",
+      "Moumouflon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Tempête de sable",
     "pokemons": [
       "Onix",
-      " 26Rosélia",
-      " 15Crabaraque",
-      " 34Excavarenne",
-      " 26Ninjask",
-      " 15Excavarenne",
-      " 15Bourrinos-",
-      " 31Moumouflon-",
-      " 36"
+      "Rosélia",
+      "Crabaraque",
+      "Excavarenne",
+      "Ninjask",
+      "Excavarenne",
+      "Bourrinos",
+      "Moumouflon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plaine Verdoyante",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Brume",
     "pokemons": [
       "Onix",
-      " 26Rosélia",
-      " 15Gardevoir",
-      " 32Kirlia",
-      " 26Ninjask",
-      " 15Excavarenne",
-      " 15Bourrinos-",
-      " 31Moumouflon-",
-      " 36"
+      "Rosélia",
+      "Gardevoir",
+      "Kirlia",
+      "Ninjask",
+      "Excavarenne",
+      "Bourrinos",
+      "Moumouflon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
