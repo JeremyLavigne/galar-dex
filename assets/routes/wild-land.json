@@ -1912,62 +1912,55 @@
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs - Météo normale",
     "pokemons": [
       "Goupilou",
       "Smogo",
-      "BaggiguaneCradopaud"
+      "Cradopaud"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      "É15",
-      "B"
+      "15"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs - Ciel couvert",
     "pokemons": [
-      "BaggiguaneCradopaudGoupilou",
-      "Kicklee",
-      "Tygnon",
-      ""
+      "Cradopaud",
+      "Goupilou",
+      "Tygnon"
     ],
     "percentages": [
       "60",
-      "É60",
-      "B35",
-      "5",
-      "É5",
-      "B"
+      "35",
+      "5"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs - Pluie",
     "pokemons": [
       "Dynavolt",
-      "BatracnéGoupilou",
-      "Smogo",
-      ""
+      "Batracné",
+      "Goupilou",
+      "Smogo"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs - Orage",
     "pokemons": [
       "Dynavolt",
       "Goupilou",
@@ -1976,68 +1969,62 @@
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs - Soleil intense",
     "pokemons": [
       "Hippopotas",
-      "Caninos",
       "Goupix",
       "Rototaupe",
-      "Goupilou",
-      ""
+      "Goupilou"
     ],
     "percentages": [
       "55",
       "30",
-      "É30",
-      "B10",
-      "5",
-      ""
+      "10",
+      "5"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs - Neige",
     "pokemons": [
       "Polarhume",
-      "FarfuretSorboul",
+      "Farfuret",
+      "Sorboul",
       "Cadoizo"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs - Blizzard",
     "pokemons": [
-      "BlizziMysdibuleMarcacrinPolarhume",
-      ""
+      "Blizzi",
+      "Marcacrin",
+      "Polarhume"
     ],
     "percentages": [
       "50",
       "35",
-      "É35",
-      "B15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs - Tempête de sable",
     "pokemons": [
       "Hippopotas",
       "Rototaupe",
@@ -2046,34 +2033,28 @@
     "percentages": [
       "60",
       "35",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs - Brume",
     "pokemons": [
       "Qulbutoké",
-      "Skelénox",
-      "TénéfixMesmérella",
-      "Méios",
-      ""
+      "Ténéfix",
+      "Méios"
     ],
     "percentages": [
       "55",
       "35",
-      "É35",
-      "B10",
-      "É10",
-      "B"
+      "10"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 40-45",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
       "Blancoton",
       "Moumouflon",
@@ -2084,16 +2065,16 @@
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 40-45",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
-      "MoufflairBlancoton",
+      "Moufflair",
+      "Blancoton",
       "Chapotus",
       "Rosélia"
     ],
@@ -2101,82 +2082,84 @@
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 40-45",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "BekipanGolgopatheBlancoton",
-      "Chapotus",
-      ""
+      "Bekipan",
+      "Golgopathe",
+      "Blancoton",
+      "Chapotus"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 40-45",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
-      "TorgamordFulgudog",
-      "ChrysapileBlancoton",
-      ""
+      "Torgamord",
+      "Fulgudog",
+      "Chrysapile",
+      "Blancoton"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 40-45",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
-      "RhinoférosLimondeBourrinos",
+      "Rhinoféros",
+      "Limonde",
+      "Bourrinos",
       "Monthracite"
     ],
     "percentages": [
       "58",
       "30",
       "10",
-      "2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 40-45",
+    "where": "Cachés dans les herbes - Neige",
     "pokemons": [
-      "CochignonBlizzaroiCorvaillusOuvrifier",
-      ""
+      "Cochignon",
+      "Blizzaroi",
+      "Corvaillus",
+      "Ouvrifier"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 40-45",
+    "where": "Cachés dans les herbes - Blizzard",
     "pokemons": [
-      "ArchéodongClic",
+      "Archéodong",
+      "Clic",
       "Chapotus",
       "Noacier"
     ],
@@ -2184,35 +2167,31 @@
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 40-45",
+    "where": "Cachés dans les herbes - Tempête de sable",
     "pokemons": [
       "Triopikeur",
       "Simularbre",
       "Blancoton",
-      "Chapotus",
-      ""
+      "Chapotus"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 40-45",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
-      "Mistigrix",
       "Mistigrix",
       "Chapotus",
       "Blancoton",
@@ -2220,114 +2199,104 @@
     ],
     "percentages": [
       "45",
-      "É45",
-      "B30",
+      "30",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Toutes les météos sauf Brume",
+    "level": "Niveau 50-52",
+    "where": "Dans les airs - Toutes les météos sauf Brume",
     "pokemons": [
-      "GueriaigleVaututrice"
+      "Vaututrice"
     ],
     "percentages": [
-      "100",
-      "É100",
-      "B"
+      "100"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 50-52",
+    "where": "Dans les airs - Brume",
     "pokemons": [
-      "GueriaigleVaututriceTogekiss"
+      "Vaututrice",
+      "Togekiss"
     ],
     "percentages": [
       "98",
-      "É98",
-      "B2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Normal",
+    "level": "Niveau 41-45",
+    "where": "Surf - Normal",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "65",
-      "35",
-      ""
+      "35"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 41-45",
+    "where": "Surf - Ciel couvert",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "50",
-      "50",
-      ""
+      "50"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 41-45",
+    "where": "Surf - Pluie",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "55",
-      "45",
-      ""
+      "45"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 41-45",
+    "where": "Surf - Orage",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "65",
-      "35",
-      ""
+      "35"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 41-45",
+    "where": "Surf - Soleil intense",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "70",
-      "30",
-      ""
+      "30"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 41-45",
+    "where": "Surf - Neige",
     "pokemons": [
       "Sorbébé",
       "Sancoki",
@@ -2336,14 +2305,13 @@
     "percentages": [
       "50",
       "30",
-      "20",
-      ""
+      "20"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 41-45",
+    "where": "Surf - Blizzard",
     "pokemons": [
       "Sorbébé",
       "Sancoki",
@@ -2352,435 +2320,573 @@
     "percentages": [
       "65",
       "20",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 41-45",
+    "where": "Surf - Tempête de sable",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "60",
-      "40",
-      ""
+      "40"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 41-45",
+    "where": "Surf - Brume",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "50",
-      "50",
-      ""
+      "50"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Variables",
+    "where": "Fixe - Météo normale",
     "pokemons": [
       "Simularbre",
-      "Niveau 41ArchéodongNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34LibégonNiveau 51"
+      "Archéodong",
+      "Ékaïser",
+      "Tyranocif",
+      "Caratroc",
+      "Libégon",
+      "Bourrinos",
+      "Gigalithe",
+      "Dunaconda",
+      "Leviator",
+      "Tritosor"
     ],
     "percentages": [
-      "Bourrinos-Niveau 41Gigalithe-Niveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Variables",
+    "where": "Fixe - Ciel couvert",
     "pokemons": [
       "Simularbre",
-      "Niveau 41KaorineNiveau 41CaratrocNiveau 34GolgopatheNiveau 60CryptéroNiveau 51"
+      "Kaorine",
+      "Caratroc",
+      "Golgopathe",
+      "Cryptéro",
+      "Moufflair",
+      "Golemastoc",
+      "Dunaconda",
+      "Léviator",
+      "Tritosor"
     ],
     "percentages": [
-      "MoufflairNiveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Pluie & Orage",
+    "level": "Variables",
+    "where": "Fixe - Pluie & Orage",
     "pokemons": [
-      "RhinoférosNiveau 41ArchéodongNiveau 41CaratrocNiveau 34GolgopatheNiveau 60CryptéroNiveau 51"
+      "Rhinoféros",
+      "Archéodong",
+      "Caratroc",
+      "Golgopathe",
+      "Cryptéro",
+      "Crapustule",
+      "Golemastoc",
+      "Dunaconda",
+      "Léviator",
+      "Tritosor"
     ],
     "percentages": [
-      "CrapustuleNiveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "Soleil intense",
-    "pokemons": [
-      "Simularbre",
-      "Niveau 41KaorineNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34CryptéroNiveau 51"
-    ],
-    "percentages": [
-      "Bourrinos-Niveau 41Gigalithe-Niveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
-    ]
-  },
-  {
-    "route": "Fosse des Sables",
-    "level": "",
-    "where": "Neige",
-    "pokemons": [
-      "RhinoférosNiveau 41ArchéodongNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34CryptéroNiveau 51"
-    ],
-    "percentages": [
-      "CochignonNiveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
-    ]
-  },
-  {
-    "route": "Fosse des Sables",
-    "level": "",
-    "where": "Blizzard",
-    "pokemons": [
-      "Simularbre",
-      "Niveau 41ArchéodongNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34CryptéroNiveau 51"
-    ],
-    "percentages": [
-      "CochignonNiveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
-    ]
-  },
-  {
-    "route": "Fosse des Sables",
-    "level": "",
-    "where": "Tempête de sable",
-    "pokemons": [
-      "Simularbre",
-      "Niveau 41KaorineNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34LibégonNiveau 51"
-    ],
-    "percentages": [
-      "Bourrinos-Niveau 41Gigalithe-Niveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
-    ]
-  },
-  {
-    "route": "Fosse des Sables",
-    "level": "",
-    "where": "Brume",
+    "level": "Variables",
+    "where": "Fixe - Soleil intense",
     "pokemons": [
       "Simularbre",
-      "Niveau 41KaorineNiveau 41ÉkaïserNiveau 60TyranocifNiveau 60CaratrocNiveau 34CryptéroNiveau 51"
+      "Kaorine",
+      "Tyranocif",
+      "Caratroc",
+      "Cryptéro",
+      "Bourrinos",
+      "Gigalithe",
+      "Dunaconda",
+      "Léviator",
+      "Tritosor"
     ],
     "percentages": [
-      "Bourrinos-Niveau 41GolemastocNiveau 51Dunaconda-Niveau 65LéviatorNiveau 46TritosorNiveau 56-"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Fosse des Sables",
-    "level": "",
-    "where": "PêcheNiveau 40-45",
+    "level": "Variables",
+    "where": "Fixe - Neige",
+    "pokemons": [
+      "Rhinoféros",
+      "Archéodong",
+      "Tyranocif",
+      "Caratroc",
+      "Cryptéro",
+      "Cochignon",
+      "Golemastoc",
+      "Dunaconda",
+      "Léviator",
+      "Tritosor"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "Variables",
+    "where": "Fixe - Blizzard",
+    "pokemons": [
+      "Simularbre",
+      "Archéodong",
+      "Tyranocif",
+      "Caratroc",
+      "Cryptéro",
+      "Cochignon",
+      "Golemastoc",
+      "Dunaconda",
+      "Léviator",
+      "Tritosor"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "Variables",
+    "where": "Fixe - Tempête de sable",
+    "pokemons": [
+      "Simularbre",
+      "Kaorine",
+      "Tyranocif",
+      "Caratroc",
+      "Libégon",
+      "Bourrinos",
+      "Gigalithe",
+      "Dunaconda",
+      "Léviator",
+      "Tritosor"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "Variables",
+    "where": "Fixe - Brume",
+    "pokemons": [
+      "Simularbre",
+      "Kaorine",
+      "Tyranocif",
+      "Caratroc",
+      "Cryptéro",
+      "Bourrinos",
+      "Golemastoc",
+      "Dunaconda",
+      "Léviator",
+      "Tritosor"
+    ],
+    "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
+    ]
+  },
+  {
+    "route": "Fosse des Sables",
+    "level": "Niveau 40-45",
+    "where": "Pêche",
     "pokemons": [
       "Hastacuda",
-      "LanturnQwilfishLéviator"
+      "Lanturn",
+      "Qwilfish",
+      "Léviator"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 10-15",
+    "where": "Pokémon vadrouilleurs - Météo normale",
     "pokemons": [
-      "NounoursonMystherbeCroquine",
-      ""
+      "Nounourson",
+      "Mystherbe",
+      "Croquine"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 10-15",
+    "where": "Pokémon vadrouilleurs - Ciel couvert",
     "pokemons": [
-      "NounoursonPandespiègle",
+      "Nounourson",
+      "Pandespiègle",
       "Mystherbe"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 10-15",
+    "where": "Pokémon vadrouilleurs - Pluie",
     "pokemons": [
-      "GoéliseNounoursonLarvibule",
-      ""
+      "Goélise",
+      "Nounourson",
+      "Larvibule"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 10-15",
+    "where": "Pokémon vadrouilleurs - Orage",
     "pokemons": [
       "Dynavolt",
-      "NounoursonMystherbePandespiègle",
-      ""
+      "Nounourson",
+      "Mystherbe",
+      "Pandespiègle"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 10-15",
+    "where": "Pokémon vadrouilleurs - Soleil intense",
     "pokemons": [
       "Tiboudet",
-      "Goupix",
       "Caninos",
-      "NounoursonPandespiègle",
-      ""
-    ],
-    "percentages": [
-      "60",
-      "25",
-      "É25",
-      "B10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Neige",
-    "pokemons": [
-      "BlizziNounoursonPandespiègle",
-      "Stalgamin",
-      ""
+      "Nounourson",
+      "Pandespiègle"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 10-15",
+    "where": "Pokémon vadrouilleurs - Neige",
     "pokemons": [
-      "Stalgamin",
-      "NounoursonPandespiègle",
-      ""
-    ],
-    "percentages": [
-      "60",
-      "25",
-      "15",
-      ""
-    ]
-  },
-  {
-    "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Tempête de sable",
-    "pokemons": [
-      "BalbutoTiboudet",
-      "NounoursonPandespiègle",
-      ""
+      "Blizzi",
+      "Nounourson",
+      "Pandespiègle",
+      "Stalgamin"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 10-15",
+    "where": "Pokémon vadrouilleurs - Blizzard",
+    "pokemons": [
+      "Stalgamin",
+      "Nounourson",
+      "Pandespiègle"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "Niveau 10-15",
+    "where": "Pokémon vadrouilleurs - Tempête de sable",
+    "pokemons": [
+      "Balbuto",
+      "Tiboudet",
+      "Nounourson",
+      "Pandespiègle"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "Niveau 10-15",
+    "where": "Pokémon vadrouilleurs - Brume",
     "pokemons": [
       "Munna",
-      "NounoursonMystherbe"
+      "Nounourson",
+      "Mystherbe"
     ],
     "percentages": [
       "60",
       "25",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 8-12",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
-      "MystherbeSapereau",
-      "PoichigeonNounourson"
-    ],
-    "percentages": [
-      "45",
-      "30",
-      "20",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Ciel couvert",
-    "pokemons": [
-      "RozboutonMystherbeChinchidou",
+      "Mystherbe",
+      "Sapereau",
+      "Poichigeon",
       "Nounourson"
     ],
     "percentages": [
       "45",
       "30",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 8-12",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
-      "GoéliseLarvibule",
-      "MystherbeNounourson"
+      "Rozbouton",
+      "Mystherbe",
+      "Chinchidou",
+      "Nounourson"
     ],
     "percentages": [
       "45",
       "30",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 8-12",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "StatitikDynavolt",
-      "MystherbeNounourson"
+      "Goélise",
+      "Larvibule",
+      "Mystherbe",
+      "Nounourson"
     ],
     "percentages": [
       "45",
       "30",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 8-12",
+    "where": "Cachés dans les herbes - Orage",
+    "pokemons": [
+      "Statitik",
+      "Dynavolt",
+      "Mystherbe",
+      "Nounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "Niveau 8-12",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
       "Tiboudet",
-      "Goupix",
       "Caninos",
       "Chinchidou",
-      "OnixNounourson"
-    ],
-    "percentages": [
-      "40",
-      "30",
-      "É30",
-      "B15",
-      "10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Neige",
-    "pokemons": [
-      "Stalgamin",
-      "BlizziChinchidou",
+      "Onix",
       "Nounourson"
-    ],
-    "percentages": [
-      "45",
-      "30",
-      "20",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Blizzard",
-    "pokemons": [
-      "Sorbébé",
-      "BlizziChinchidou",
-      "Nounourson"
-    ],
-    "percentages": [
-      "45",
-      "30",
-      "20",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Tempête de sable",
-    "pokemons": [
-      "CrabicoqueBalbutoChinchidou",
-      "OnixNounourson"
     ],
     "percentages": [
       "40",
       "30",
       "15",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 8-12",
+    "where": "Cachés dans les herbes - Neige",
+    "pokemons": [
+      "Stalgamin",
+      "Blizzi",
+      "Chinchidou",
+      "Nounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "Niveau 8-12",
+    "where": "Cachés dans les herbes - Blizzard",
+    "pokemons": [
+      "Sorbébé",
+      "Blizzi",
+      "Chinchidou",
+      "Nounourson"
+    ],
+    "percentages": [
+      "45",
+      "30",
+      "20",
+      "5"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "Niveau 8-12",
+    "where": "Cachés dans les herbes - Tempête de sable",
+    "pokemons": [
+      "Crabicoque",
+      "Balbuto",
+      "Chinchidou",
+      "Onix",
+      "Nounourson"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "15",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Est",
+    "level": "Niveau 8-12",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
       "Chacripan",
       "Munna",
@@ -2791,33 +2897,33 @@
       "45",
       "30",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 26-29",
+    "where": "Surf - Météo normale",
     "pokemons": [
-      "GoéliseViskuseKokiyas",
-      "Poissirène",
-      ""
+      "Goélise",
+      "Viskuse",
+      "Kokiyas",
+      "Poissirène"
     ],
     "percentages": [
       "55",
       "25",
       "15",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 26-29",
+    "where": "Surf - Ciel couvert",
     "pokemons": [
-      "ViskusePoissirène",
+      "Viskuse",
+      "Poissirène",
       "Kokiyas",
       "Goélise"
     ],
@@ -2825,82 +2931,81 @@
       "55",
       "25",
       "15",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 26-29",
+    "where": "Surf - Pluie",
     "pokemons": [
       "Kokiyas",
-      "ViskusePoissirène",
+      "Viskuse",
+      "Poissirène",
       "Goélise"
     ],
     "percentages": [
       "45",
       "35",
       "15",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 26-29",
+    "where": "Surf - Orage",
     "pokemons": [
-      "LoupioGoéliseKokiyas",
-      "Poissirène",
-      ""
+      "Loupio",
+      "Goélise",
+      "Kokiyas",
+      "Poissirène"
     ],
     "percentages": [
       "70",
       "15",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 26-29",
+    "where": "Surf - Soleil intense",
     "pokemons": [
-      "GoéliseViskuseKokiyas",
-      "Poissirène",
-      ""
+      "Goélise",
+      "Viskuse",
+      "Kokiyas",
+      "Poissirène"
     ],
     "percentages": [
       "70",
       "15",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 26-29",
+    "where": "Surf - Neige",
     "pokemons": [
       "Sorbébé",
-      "ViskuseKokiyas",
+      "Viskuse",
+      "Kokiyas",
       "Goélise"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 26-29",
+    "where": "Surf - Blizzard",
     "pokemons": [
       "Sorbébé",
       "Poissirène",
@@ -2911,443 +3016,464 @@
       "75",
       "15",
       "5",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 26-29",
+    "where": "Surf - Tempête de sable",
     "pokemons": [
       "Poissirène",
       "Kokiyas",
-      "ViskuseGoélise"
+      "Viskuse",
+      "Goélise"
     ],
     "percentages": [
       "55",
       "30",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 26-29",
+    "where": "Surf - Brume",
     "pokemons": [
-      "ViskuseGoélisePoissirène",
-      "Kokiyas",
-      ""
+      "Viskuse",
+      "Goélise",
+      "Poissirène",
+      "Kokiyas"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Toutes les météos",
+    "level": "Niveau 12-15",
+    "where": "Dans les airs - Toutes les météos",
     "pokemons": [
-      "PoichigeonPapilusion"
+      "Poichigeon",
+      "Papilusion"
     ],
     "percentages": [
       "70",
-      "30",
-      ""
+      "30"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Ciel couvert et brume",
+    "level": "Niveau 8-11",
+    "where": "Dans les airs - Ciel couvert et brume",
     "pokemons": [
-      "PoichigeonPapilusion"
+      "Poichigeon",
+      "Papilusion"
     ],
     "percentages": [
       "75",
-      "25",
-      ""
+      "25"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "Autres météos",
+    "level": "Niveau 8-11",
+    "where": "Dans les airs - Autres météos",
     "pokemons": [
-      "PapilusionPoichigeon"
+      "Papilusion",
+      "Poichigeon"
     ],
     "percentages": [
       "75",
-      "25",
-      ""
+      "25"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
-    "where": "PêcheNiveau 8-12",
+    "level": "Niveau 8-12",
+    "where": "Pêche",
     "pokemons": [
       "Magicarpe",
       "Poissirène",
       "Kokiyas",
-      "Froussardine",
-      ""
+      "Froussardine"
     ],
     "percentages": [
       "50",
       "25",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Météo normal",
     "pokemons": [
       "Smogogo",
-      " 65Miasmax-",
-      " 36Xatu",
-      " 26Bekipan",
-      " 46Léviator",
-      " 56Poissoroy-",
-      " 46Crustabri",
-      " 46Lanturn",
-      " 46Moyade",
-      " 46"
+      "Miasmax",
+      "Xatu",
+      "Bekipan",
+      "Léviator",
+      "Poissoroy",
+      "Crustabri",
+      "Lanturn",
+      "Moyade"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Ciel couvert",
     "pokemons": [
       "Smogogo",
-      " 65Miasmax-",
-      " 36Xatu",
-      " 26Bekipan",
-      " 46Léviator",
-      " 56Poissoroy-",
-      " 46Moyade",
-      " 46"
+      "Miasmax",
+      "Xatu",
+      "Bekipan",
+      "Léviator",
+      "Poissoroy",
+      "Moyade"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Pluie",
     "pokemons": [
       "Smogogo",
-      " 65Miasmax-",
-      " 36Bekipan",
-      " 26/46Léviator",
-      " 56Moyade",
-      " 46"
+      "Miasmax",
+      "Bekipan",
+      "Léviator",
+      "Moyade"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Orage",
     "pokemons": [
       "Smogogo",
-      " 65Miasmax-",
-      " 36Bekipan",
-      " 26/46Léviator",
-      " 56Lanturn",
-      " 46Moyade",
-      " 46"
+      "Miasmax",
+      "Bekipan",
+      "Léviator",
+      "Lanturn",
+      "Moyade"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Soleil intense",
     "pokemons": [
-      "Bourrinos-",
-      " 36Smogogo",
-      " 65Xatu",
-      " 26Bekipan",
-      " 46Léviator",
-      " 56Poissoroy-",
-      " 46"
+      "Bourrinos",
+      "Smogogo",
+      "Xatu",
+      "Bekipan",
+      "Léviator",
+      "Poissoroy"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Neige et blizzard",
     "pokemons": [
       "Cochignon",
-      " 36Smogogo",
-      " 65Xatu",
-      " 26Léviator",
-      " 56Sorbouboul-",
-      " 47"
+      "Smogogo",
+      "Xatu",
+      "Léviator",
+      "Sorbouboul"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Tempête de sable",
     "pokemons": [
-      "Bourrinos-",
-      " 36Smogogo",
-      " 65Xatu",
-      " 26Léviator",
-      " 56Poissoroy-",
-      " 46"
+      "Bourrinos",
+      "Smogogo",
+      "Xatu",
+      "Léviator",
+      "Poissoroy"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Est",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Brume",
     "pokemons": [
       "Archéodong",
-      " 36Smogogo",
-      " 65Xatu",
-      " 26Léviator",
-      " 56Crustabri",
-      " 46Lanturn",
-      " 46Moyade",
-      " 46"
+      "Smogogo",
+      "Xatu",
+      "Léviator",
+      "Crustabri",
+      "Lanturn",
+      "Moyade"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 8-14",
+    "where": "Pokémon vadrouilleurs - Météo normale",
     "pokemons": [
       "Tritonde",
-      "AxolotoKrabby",
-      "Chacripan",
-      ""
+      "Axoloto",
+      "Krabby",
+      "Chacripan"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 8-14",
+    "where": "Pokémon vadrouilleurs - Ciel couvert",
     "pokemons": [
-      "Grainipiot",
-      "NénupiotTritonde",
+      "Nénupiot",
+      "Tritonde",
       "Chacripan",
       "Rozbouton"
     ],
     "percentages": [
       "60",
-      "É60",
-      "B25",
+      "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 8-14",
+    "where": "Pokémon vadrouilleurs - Pluie",
     "pokemons": [
-      "AxolotoGoéliseKrabby",
-      "Tritonde",
-      ""
+      "Axoloto",
+      "Goélise",
+      "Krabby",
+      "Tritonde"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 8-14",
+    "where": "Pokémon vadrouilleurs - Orage",
     "pokemons": [
-      "AxolotoGoéliseDynavolt",
-      "Tritonde",
-      ""
+      "Axoloto",
+      "Goélise",
+      "Dynavolt",
+      "Tritonde"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 8-14",
+    "where": "Pokémon vadrouilleurs - Soleil intense",
     "pokemons": [
-      "CrabicoqueGoupix",
+      "Crabicoque",
       "Caninos",
       "Sapereau",
-      "Chacripan",
-      ""
+      "Chacripan"
     ],
     "percentages": [
       "40",
       "35",
-      "É35",
-      "B20",
-      "5",
-      ""
+      "20",
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 8-14",
+    "where": "Pokémon vadrouilleurs - Neige",
     "pokemons": [
       "Stalgamin",
       "Tritonde",
       "Sorbébé",
-      "Chacripan",
-      ""
+      "Chacripan"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 8-14",
+    "where": "Pokémon vadrouilleurs - Blizzard",
     "pokemons": [
       "Sorbébé",
       "Tic",
       "Tritonde",
-      "Krabby",
-      ""
+      "Krabby"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 8-14",
+    "where": "Pokémon vadrouilleurs - Tempête de sable",
     "pokemons": [
-      "CrabicoqueSapereau",
-      "Chacripan",
-      ""
+      "Crabicoque",
+      "Sapereau",
+      "Chacripan"
     ],
     "percentages": [
       "60",
       "25",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 8-14",
+    "where": "Pokémon vadrouilleurs - Brume",
     "pokemons": [
       "Chacripan",
       "Tritonde",
-      "NatuAxoloto"
+      "Natu",
+      "Axoloto"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 7-11",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
-      "AxolotoKrabby",
-      "GoéliseCroquine",
+      "Axoloto",
+      "Krabby",
+      "Goélise",
+      "Croquine",
       ""
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 7-11",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
       "Krabby",
-      "AxolotoPandespiègle",
-      "Debugant",
-      ""
+      "Axoloto",
+      "Pandespiègle",
+      "Debugant"
     ],
     "percentages": [
       "40",
       "30",
       "25",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 7-11",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "AxolotoTritonde",
+      "Axoloto",
+      "Tritonde",
       "Krabby",
       "Goélise"
     ],
@@ -3355,14 +3481,13 @@
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 7-11",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
       "Dynavolt",
       "Tritonde",
@@ -3373,119 +3498,115 @@
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 7-11",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
-      "Goupix",
       "Caninos",
-      "BalbutoSapereau",
-      "Pandespiègle",
-      ""
+      "Balbuto",
+      "Sapereau",
+      "Pandespiègle"
     ],
     "percentages": [
       "40",
-      "É40",
-      "B30",
+      "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 7-11",
+    "where": "Cachés dans les herbes - Neige",
     "pokemons": [
       "Sorbébé",
       "Stalgamin",
-      "GoéliseCadoizo"
+      "Goélise",
+      "Cadoizo"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 7-11",
+    "where": "Cachés dans les herbes - Blizzard",
     "pokemons": [
       "Tic",
-      "CadoizoSorbébé",
-      "Sapereau",
-      ""
+      "Cadoizo",
+      "Sorbébé",
+      "Sapereau"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 7-11",
+    "where": "Cachés dans les herbes - Tempête de sable",
     "pokemons": [
-      "AxolotoNingaleBalbutoTiboudet",
-      ""
+      "Axoloto",
+      "Ningale",
+      "Balbuto",
+      "Tiboudet"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 7-11",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
-      "NatuKrabby",
-      "GoéliseTarsal"
+      "Natu",
+      "Krabby",
+      "Goélise",
+      "Tarsal"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 38-40",
+    "where": "Surf - Météo normale",
     "pokemons": [
-      "ViskusePoissirène",
+      "Viskuse",
+      "Poissirène",
       "Rémoraid",
-      "Magicarpe",
-      ""
+      "Magicarpe"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 38-40",
+    "where": "Surf - Ciel couvert",
     "pokemons": [
       "Poissirène",
       "Rémoraid",
@@ -3496,68 +3617,64 @@
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 38-40",
+    "where": "Surf - Pluie",
     "pokemons": [
-      "ViskusePoissirène",
-      "Rémoraid",
-      "Magicarpe",
-      ""
-    ],
-    "percentages": [
-      "60",
-      "25",
-      "10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Orage",
-    "pokemons": [
-      "LoupioMagicarpe",
+      "Viskuse",
       "Poissirène",
       "Rémoraid",
-      ""
+      "Magicarpe"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 38-40",
+    "where": "Surf - Orage",
+    "pokemons": [
+      "Loupio",
+      "Magicarpe",
+      "Poissirène",
+      "Rémoraid"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Lac Coupenotte Ouest",
+    "level": "Niveau 38-40",
+    "where": "Surf - Soleil intense",
     "pokemons": [
       "Magicarpe",
-      "ViskusePoissirène",
-      "Rémoraid",
-      ""
+      "Viskuse",
+      "Poissirène",
+      "Rémoraid"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 38-40",
+    "where": "Surf - Neige",
     "pokemons": [
       "Sorbébé",
       "Kokiyas",
@@ -3568,32 +3685,30 @@
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 38-40",
+    "where": "Surf - Blizzard",
     "pokemons": [
       "Sorbébé",
       "Magicarpe",
-      "ViskusePoissirène",
-      ""
+      "Viskuse",
+      "Poissirène"
     ],
     "percentages": [
       "70",
       "15",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 38-40",
+    "where": "Surf - Tempête de sable",
     "pokemons": [
       "Magicarpe",
       "Poissirène",
@@ -3604,184 +3719,215 @@
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 38-40",
+    "where": "Surf - Brume",
     "pokemons": [
       "Magicarpe",
       "Poissirène",
-      "ViskuseRémoraid",
-      ""
+      "Viskuse",
+      "Rémoraid"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
-    "where": "PêcheNiveau 7-11",
+    "level": "Niveau 7-11",
+    "where": "Pêche",
     "pokemons": [
       "Magicarpe",
       "Poissirène",
       "Rémoraid",
-      "Froussardine",
-      ""
+      "Froussardine"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Météo normale",
     "pokemons": [
       "Maraiste",
-      " 15Krabboss-",
-      " 28Torgamord",
-      " 65Léviator",
-      " 56Poissory-",
-      " 46Crustabri",
-      " 46Krakos",
-      " 56Lokhlass",
-      " 56"
+      "Krabboss",
+      "Torgamord",
+      "Léviator",
+      "Poissory",
+      "Crustabri",
+      "Krakos",
+      "Lokhlass"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Ciel couvert",
     "pokemons": [
       "Maraiste",
-      " 15Batracné",
-      " 28Torgamord",
-      " 65Léviator",
-      " 56Poissory-",
-      " 46Moyade",
-      " 46Krakos",
-      " 56"
+      "Batracné",
+      "Torgamord",
+      "Léviator",
+      "Poissory",
+      "Moyade",
+      "Krakos"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Pluie",
     "pokemons": [
       "Maraiste",
-      " 15Bekipan",
-      " 28Torgamord",
-      " 65Léviator",
-      " 56Moyade",
-      " 46Lokhlass",
-      " 56"
+      "Bekipan",
+      "Torgamord",
+      "Léviator",
+      "Moyade",
+      "Lokhlass"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Orage",
     "pokemons": [
       "Maraiste",
-      " 15Bekipan",
-      " 28Torgamord",
-      " 65Léviator",
-      " 56Lanturn",
-      " 46Lokhlass",
-      " 56"
+      "Bekipan",
+      "Torgamord",
+      "Léviator",
+      "Lanturn",
+      "Lokhlass"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Soleil intense",
     "pokemons": [
       "Excavarenne",
-      " 15/28Torgamord",
-      " 65Léviator",
-      " 56Krakos",
-      " 56"
+      "Torgamord",
+      "Léviator",
+      "Krakos"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Neige et blizzard",
     "pokemons": [
       "Excavarenne",
-      " 15Batracné",
-      " 28Torgamord",
-      " 65Sorbouboul-",
-      " 46Léviator",
-      " 56Krakos",
-      " 56Lokhlass",
-      " 56"
+      "Batracné",
+      "Torgamord",
+      "Sorbouboul",
+      "Léviator",
+      "Krakos",
+      "Lokhlass"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Tempête de sable",
     "pokemons": [
       "Excavarenne",
-      " 15Batracné",
-      " 28Torgamord",
-      " 65Léviator",
-      " 56Poissory-",
-      " 46Krakos",
-      " 56"
+      "Batracné",
+      "Torgamord",
+      "Léviator",
+      "Poissory",
+      "Krakos"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Lac Coupenotte Ouest",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Brume",
     "pokemons": [
       "Maraiste",
-      " 15Batracné",
-      " 28Torgamord",
-      " 65Léviator",
-      " 56Crustabri",
-      " 46Moyade",
-      " 46Krakos",
-      " 56Lokhlass",
-      " 56"
+      "Batracné",
+      "Torgamord",
+      "Léviator",
+      "Crustabri",
+      "Moyade",
+      "Krakos",
+      "Lokhlass"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
