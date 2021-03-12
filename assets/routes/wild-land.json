@@ -6201,121 +6201,121 @@
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes) - Météo normale",
     "pokemons": [
-      "ChovsourirPitrouilleColombeauPitrouille MiniOrtidePitrouille MaxiGoupilou",
-      "Pitrouille Ultra"
+      "Chovsourir",
+      "Pitrouille",
+      "Colombeau",
+      "Ortide",
+      "Goupilou"
     ],
     "percentages": [
       "35",
-      "25",
+      "41",
       "10",
       "10",
-      "10",
-      "5",
-      "4",
-      "1",
-      ""
+      "4"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Niveau 28-30",
     "where": "Ciel couvert",
     "pokemons": [
-      "PapilusionColombeauOrtideKaraclée",
+      "Papilusion",
+      "Colombeau",
+      "Ortide",
       "Judokrak",
-      "Canarticho",
-      "Corayon",
-      ""
+      "Corayon"
     ],
     "percentages": [
       "40",
       "35",
       "10",
       "10",
-      "É10",
-      "B5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes) - Pluie",
     "pokemons": [
-      "SovkipouBatracnéNatuOrtideKhélocrok",
-      ""
+      "Sovkipou",
+      "Batracné",
+      "Natu",
+      "Ortide",
+      "Khélocrok"
     ],
     "percentages": [
       "40",
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Niveau 28-30",
     "where": "Orage",
     "pokemons": [
-      "GalvaranStatitikVoltoutou",
-      "OrtideNatu"
+      "Galvaran",
+      "Statitik",
+      "Voltoutou",
+      "Ortide",
+      "Natu"
     ],
     "percentages": [
       "40",
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes) - Soleil intense",
     "pokemons": [
-      "ColombeauFermiteAflamanoir",
+      "Colombeau",
+      "Fermite",
+      "Aflamanoir",
       "Ortide"
     ],
     "percentages": [
       "45",
-      "40",
-      "É5",
-      "B5",
-      "É45",
-      "B10",
-      ""
+      "5",
+      "45",
+      "10"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes) - Neige",
     "pokemons": [
       "Sorbébé",
       "Polarhume",
-      "NatuCadoizo"
+      "Natu",
+      "Cadoizo"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes) - Blizzard",
     "pokemons": [
-      "ScalpionSorbébé",
+      "Scalpion",
+      "Sorbébé",
       "Polarhume",
       "Natu"
     ],
@@ -6323,102 +6323,94 @@
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes) - Tempête de sable",
     "pokemons": [
-      "RhinocorneRototaupe",
+      "Rhinocorne",
+      "Rototaupe",
       "Colombeau"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 28-30",
+    "where": "Pokémon vadrouilleurs (herbes) - Brume",
     "pokemons": [
-      "Sucroquin",
       "Fluvetin",
-      "SpododoNatuOrtideBombydou"
+      "Spododo",
+      "Natu",
+      "Ortide",
+      "Bombydou"
     ],
     "percentages": [
       "40",
-      "É40",
-      "B35",
+      "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs (herbes du désert) - Météo normale",
     "pokemons": [
       "Goupilou",
       "Smogo",
-      "BaggiguaneCradopaud"
+      "Cradopaud"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      "É15",
-      "B"
+      "15"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs (herbes du désert) - Ciel couvert",
     "pokemons": [
-      "BaggiguaneCradopaudGoupilou",
-      "Kicklee",
-      "Tygnon",
-      ""
+      "Cradopaud",
+      "Goupilou",
+      "Tygnon"
     ],
     "percentages": [
       "60",
-      "É60",
-      "B35",
-      "5",
-      "É5",
-      "B"
+      "35",
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs (herbes du désert) - Pluie",
     "pokemons": [
       "Dynavolt",
-      "BatracnéGoupilou",
-      "Smogo",
-      ""
+      "Batracné",
+      "Goupilou",
+      "Smogo"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs (herbes du désert) - Orage",
     "pokemons": [
       "Dynavolt",
       "Goupilou",
@@ -6427,68 +6419,62 @@
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs (herbes du désert) - Soleil intense",
     "pokemons": [
       "Hippopotas",
-      "Caninos",
       "Goupix",
       "Rototaupe",
-      "Goupilou",
-      ""
+      "Goupilou"
     ],
     "percentages": [
       "55",
       "30",
-      "É30",
-      "B10",
-      "5",
-      ""
+      "10",
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs (herbes du désert) - Neige",
     "pokemons": [
       "Polarhume",
-      "FarfuretSorboul",
+      "Farfuret",
+      "Sorboul",
       "Cadoizo"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs (herbes du désert) - Blizzard",
     "pokemons": [
-      "BlizziMysdibuleMarcacrinPolarhume",
-      ""
+      "Blizzi",
+      "Marcacrin",
+      "Polarhume"
     ],
     "percentages": [
       "50",
       "35",
-      "É35",
-      "B15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs (herbes du désert) - Tempête de sable",
     "pokemons": [
       "Hippopotas",
       "Rototaupe",
@@ -6497,205 +6483,194 @@
     "percentages": [
       "60",
       "35",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 42-47",
+    "where": "Pokémon vadrouilleurs (herbes du désert) - Brume",
     "pokemons": [
       "Qulbutoké",
-      "Skelénox",
-      "TénéfixMesmérella",
-      "Méios",
-      ""
+      "Ténéfix",
+      "Méios"
     ],
     "percentages": [
       "55",
       "35",
-      "É35",
-      "B10",
-      "É10",
-      "B"
+      "10"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Normal, ciel couvert, pluie,orage et brume",
+    "level": "Niveau 31-34",
+    "where": "Pokémon vadrouilleurs (désert) - Normal, ciel couvert, pluie,orage et brume",
     "pokemons": [
       "Triopikeur",
-      "MinotaupeGéolithe",
-      ""
+      "Minotaupe",
+      "Géolithe"
     ],
     "percentages": [
-      "60",
-      "É50",
-      "B30",
-      "É20",
-      "B10",
-      "É30",
-      "B"
+      "50",
+      "20",
+      "30"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Soleil intense, neige,blizzard et tempête de sable",
+    "level": "Niveau 31-34",
+    "where": "Pokémon vadrouilleurs (désert) - Soleil intense, neige,blizzard et tempête de sable",
     "pokemons": [
-      "MinotaupeTriopikeur",
-      "Géolithe",
-      ""
+      "Minotaupe",
+      "Triopikeur",
+      "Géolithe"
     ],
     "percentages": [
-      "60",
-      "É50",
-      "B30",
-      "É20",
-      "B10",
-      "É30",
-      "B"
+      "50",
+      "20",
+      "30"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
       "Smogo",
-      "RapionColéodômeRozboutonMachoc",
-      ""
+      "Rapion",
+      "Coléodôme",
+      "Rozbouton",
+      "Machoc"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
-      "RapionSmogo",
-      "RoséliaColéodômeMachoc",
-      ""
+      "Rapion",
+      "Smogo",
+      "Rosélia",
+      "Coléodôme",
+      "Machoc"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
       "Sancoki",
-      "RapionSmogo",
-      "ColéodômeMachoc",
-      ""
+      "Rapion",
+      "Smogo",
+      "Coléodôme",
+      "Machoc"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
-      "StatitikVerpomRapionSmogo",
-      "Machoc",
-      ""
+      "Statitik",
+      "Verpom",
+      "Rapion",
+      "Smogo",
+      "Machoc"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
       "Taupiqueur",
-      "RapionSmogo",
+      "Rapion",
+      "Smogo",
       "Chartor",
-      "Machoc",
-      ""
+      "Machoc"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Neige et blizzard",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Neige et blizzard",
     "pokemons": [
-      "MarcacrinPolarhume",
-      "BlizziSmogo",
-      "Machoc",
-      ""
+      "Marcacrin",
+      "Polarhume",
+      "Blizzi",
+      "Smogo",
+      "Machoc"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Tempête de sable",
     "pokemons": [
       "Hippodocus",
-      "ExcavarenneColéodômeSmogo",
-      "Machoc",
-      ""
+      "Excavarenne",
+      "Coléodôme",
+      "Smogo",
+      "Machoc"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
-      "GrimalinCrèmy",
+      "Grimalin",
+      "Crèmy",
       "Smogo",
       "Machoc",
       "Mimiqui"
@@ -6705,84 +6680,78 @@
       "32",
       "20",
       "10",
-      "3",
-      ""
+      "3"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Normal",
+    "level": "Niveau 41-45",
+    "where": "Surf - Météo Normale",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "65",
-      "35",
-      ""
+      "35"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 41-45",
+    "where": "Surf - Ciel couvert",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "50",
-      "50",
-      ""
+      "50"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 41-45",
+    "where": "Surf - Pluie",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "55",
-      "45",
-      ""
+      "45"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 41-45",
+    "where": "Surf - Orage",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "65",
-      "35",
-      ""
+      "35"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 41-45",
+    "where": "Surf - Soleil intense",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "70",
-      "30",
-      ""
+      "30"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 41-45",
+    "where": "Surf - Neige",
     "pokemons": [
       "Sorbébé",
       "Sancoki",
@@ -6791,14 +6760,13 @@
     "percentages": [
       "50",
       "30",
-      "20",
-      ""
+      "20"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 41-45",
+    "where": "Surf - Blizzard",
     "pokemons": [
       "Sorbébé",
       "Sancoki",
@@ -6807,523 +6775,564 @@
     "percentages": [
       "65",
       "20",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 41-45",
+    "where": "Surf - Tempête de sable",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "60",
-      "40",
-      ""
+      "40"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 41-45",
+    "where": "Surf - Brume",
     "pokemons": [
       "Sancoki",
       "Viskuse"
     ],
     "percentages": [
       "50",
-      "50",
-      ""
+      "50"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Dans les airsNiveau 28-30",
+    "level": "Niveau 28-30",
+    "where": "Dans les airs",
     "pokemons": [
-      "ColombeauBleuseille",
-      ""
+      "Colombeau",
+      "Bleuseille"
     ],
     "percentages": [
       "60",
-      "40",
-      ""
+      "40"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "PêcheNiveau 26-28",
+    "level": "Niveau 26-28",
+    "where": "Pêche",
     "pokemons": [
-      "TorgamordVorastérieLoupioLéviator"
+      "Torgamord",
+      "Vorastérie",
+      "Loupio",
+      "Léviator"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
-    "where": "Arbres à BaiesNiveau 26-28",
+    "level": "Niveau 26-28",
+    "where": "Arbres à Baies",
     "pokemons": [
       "Rongrigou",
-      "Ceribou",
-      ""
+      "Ceribou"
     ],
     "percentages": [
       "75",
-      "25",
-      ""
+      "25"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Météo normale",
     "pokemons": [
       "Steelix",
-      " 50Mackogneur-",
-      " 60Joliflor-",
-      " 41Déflaisan",
-      " 41Berserkatt-",
-      " 65Tritosor",
-      " 56"
+      "Mackogneur",
+      "Joliflor",
+      "Déflaisan",
+      "Berserkatt",
+      "Tritosor"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Ciel couvert",
     "pokemons": [
       "Steelix",
-      " 50Mackogneur-",
-      " 60Rafflesia",
-      " 41Déflaisan",
-      " 41Berserkatt-",
-      " 65Tritosor",
-      " 56"
+      "Mackogneur",
+      "Rafflesia",
+      "Déflaisan",
+      "Berserkatt",
+      "Tritosor"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Pluie",
     "pokemons": [
       "Steelix",
-      " 50Crapustule",
-      " 60Rafflesia",
-      " 41Xatu",
-      " 41Berserkatt-",
-      " 65Tritosor",
-      " 56"
+      "Crapustule",
+      "Rafflesia",
+      "Xatu",
+      "Berserkatt",
+      "Tritosor"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Orage",
     "pokemons": [
       "Steelix",
-      " 50Mackogneur-",
-      " 60Rafflesia",
-      " 41Xatu",
-      " 41Berserkatt-",
-      " 65Tritosor",
-      " 56"
+      "Mackogneur",
+      "Rafflesia",
+      "Xatu",
+      "Berserkatt",
+      "Tritosor"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Soleil intense",
     "pokemons": [
       "Steelix",
-      " 50Mackogneur-",
-      " 60Simularbre-",
-      " 41Déflaisan",
-      " 41Lucanon",
-      " 41Berserkatt-",
-      " 65Tritosor",
-      " 56"
+      "Mackogneur",
+      "Simularbre",
+      "Déflaisan",
+      "Lucanon",
+      "Berserkatt",
+      "Tritosor"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Neige",
     "pokemons": [
       "Steelix",
-      " 50Blizzaroi",
-      " 60Rafflesia",
-      " 41Xatu",
-      " 41Lucanon",
-      " 41Berserkatt-",
-      " 65Tritosor",
-      " 56"
+      "Blizzaroi",
+      "Rafflesia",
+      "Xatu",
+      "Lucanon",
+      "Berserkatt",
+      "Tritosor"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Blizzard, tempête de sable",
     "pokemons": [
       "Steelix",
-      " 50Mackogneur-",
-      " 60Rafflesia",
-      " 41Xatu",
-      " 41Lucanon",
-      " 41Berserkatt-",
-      " 65Tritosor",
-      " 56"
+      "Mackogneur",
+      "Rafflesia",
+      "Xatu",
+      "Lucanon",
+      "Berserkatt",
+      "Tritosor"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Miroir du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Brume",
     "pokemons": [
       "Steelix",
-      " 50Mackogneur-",
-      " 60Simularbre-",
-      " 41Xatu",
-      " 41Lucanon",
-      " 41Berserkatt-",
-      " 65Tritosor",
-      " 56"
+      "Mackogneur",
+      "Simularbre",
+      "Xatu",
+      "Lucanon",
+      "Berserkatt",
+      "Tritosor"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 36-40",
+    "where": "Pokémon vadrouilleurs - Météo normale",
     "pokemons": [
-      "CheloursKrabboss",
-      "Coupenotte",
-      "Machopeur",
-      ""
-    ],
-    "percentages": [
-      "60",
-      "25",
-      "10",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Oeil du Lac",
-    "level": "",
-    "where": "Ciel couvert",
-    "pokemons": [
-      "CheloursMachopeur",
-      "Coupenotte",
+      "Chelours",
       "Krabboss",
-      ""
+      "Coupenotte",
+      "Machopeur"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 36-40",
+    "where": "Pokémon vadrouilleurs - Ciel couvert",
     "pokemons": [
-      "ColhomardCheloursCoupenotte",
+      "Chelours",
+      "Machopeur",
+      "Coupenotte",
+      "Krabboss"
+    ],
+    "percentages": [
+      "60",
+      "25",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "Niveau 36-40",
+    "where": "Pokémon vadrouilleurs - Pluie",
+    "pokemons": [
+      "Colhomard",
+      "Chelours",
+      "Coupenotte",
       "Crapustule"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 36-40",
+    "where": "Pokémon vadrouilleurs - Orage",
     "pokemons": [
-      "CrapustuleColhomardKrabboss",
+      "Crapustule",
+      "Colhomard",
+      "Krabboss",
       "Chelours"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 36-40",
+    "where": "Pokémon vadrouilleurs - Soleil intense",
     "pokemons": [
-      "CrabaraqueCheloursBourrinos",
-      "Goupix",
-      "Caninos",
-      ""
+      "Crabaraque",
+      "Chelours",
+      "Bourrinos",
+      "Caninos"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 36-40",
+    "where": "Pokémon vadrouilleurs - Neige",
     "pokemons": [
-      "BlizziSorboul",
-      "CheloursCadoizo"
+      "Blizzi",
+      "Sorboul",
+      "Chelours",
+      "Cadoizo"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 36-40",
+    "where": "Pokémon vadrouilleurs - Blizzard",
     "pokemons": [
-      "BlizziArchéodongCheloursSorboul",
-      ""
+      "Blizzi",
+      "Archéodong",
+      "Chelours",
+      "Sorboul"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 36-40",
+    "where": "Pokémon vadrouilleurs - Tempête de sable",
     "pokemons": [
       "Bourrinos",
-      "CheloursCrabaraqueKaorine"
+      "Chelours",
+      "Crabaraque",
+      "Kaorine"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 36-40",
+    "where": "Pokémon vadrouilleurs - Brume",
     "pokemons": [
-      "GrodriveKaorineCoupenotte",
+      "Grodrive",
+      "Kaorine",
+      "Coupenotte",
       "Chelours"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 35-40",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
-      "DéflaisanExcavarenneCheloursCandine",
-      ""
+      "Déflaisan",
+      "Excavarenne",
+      "Chelours",
+      "Candine"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 35-40",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
-      "RoséliaOrtideExcavarenneDéflaisan"
+      "Rosélia",
+      "Ortide",
+      "Excavarenne",
+      "Déflaisan"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 35-40",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "BekipanChrysapileExcavarenneDéflaisan"
+      "Bekipan",
+      "Chrysapile",
+      "Excavarenne",
+      "Déflaisan"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 35-40",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
-      "ColhomardÉlecsprint",
-      "ExcavarenneDéflaisan"
+      "Colhomard",
+      "Élecsprint",
+      "Excavarenne",
+      "Déflaisan"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 35-40",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
-      "Goupix",
       "Caninos",
-      "DéflaisanExcavarenneBourrinos",
-      ""
-    ],
-    "percentages": [
-      "40",
-      "É40",
-      "B30",
-      "20",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Oeil du Lac",
-    "level": "",
-    "where": "Neige",
-    "pokemons": [
-      "BlizziSorboul",
-      "ExcavarenneDéflaisan"
+      "Déflaisan",
+      "Excavarenne",
+      "Bourrinos"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 35-40",
+    "where": "Cachés dans les herbes - Neige",
+    "pokemons": [
+      "Blizzi",
+      "Sorboul",
+      "Excavarenne",
+      "Déflaisan"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "Niveau 35-40",
+    "where": "Cachés dans les herbes - Blizzard",
     "pokemons": [
       "Tic",
-      "BlizziCadoizoExcavarenne"
-    ],
-    "percentages": [
-      "40",
-      "30",
-      "20",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Oeil du Lac",
-    "level": "",
-    "where": "Tempête de sable",
-    "pokemons": [
-      "BalbutoCrabaraqueBourrinos",
+      "Blizzi",
+      "Cadoizo",
       "Excavarenne"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 35-40",
+    "where": "Cachés dans les herbes - Tempête de sable",
     "pokemons": [
-      "Munna",
-      "Léopardus",
-      "ExcavarenneDéflaisan"
+      "Balbuto",
+      "Crabaraque",
+      "Bourrinos",
+      "Excavarenne"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "PêcheNiveau 35-40",
+    "level": "Niveau 35-40",
+    "where": "Cachés dans les herbes - Brume",
+    "pokemons": [
+      "Munna",
+      "Léopardus",
+      "Excavarenne",
+      "Déflaisan"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "route": "Oeil du Lac",
+    "level": "Niveau 35-40",
+    "where": "Pêche",
     "pokemons": [
       "Magicarpe",
       "Octillery",
@@ -7334,61 +7343,58 @@
       "50",
       "25",
       "20",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
-    "where": "Arbre à BaiesNiveau 35-40",
+    "level": "Niveau 35-40",
+    "where": "Arbre à Baies",
     "pokemons": [
       "Rongrigou",
-      "Ceribou",
-      ""
+      "Ceribou"
     ],
     "percentages": [
       "75",
-      "25",
-      ""
+      "25"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Orage",
     "pokemons": [
       "Crapustule",
-      " 60Nigosier",
-      " 65"
+      "Nigosier"
     ],
     "percentages": [
+      "100",
       "100"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Neige et blizzard",
     "pokemons": [
       "Blizzaroi",
-      " 60Nigosier",
-      " 65"
+      "Nigosier"
     ],
     "percentages": [
+      "100",
       "100"
     ]
   },
   {
     "route": "Oeil du Lac",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Autres météos",
     "pokemons": [
-      "Tranchodon-",
-      " 60Nigosier",
-      " 65"
+      "Tranchodon",
+      "Nigosier"
     ],
     "percentages": [
+      "100",
       "100"
     ]
   },
