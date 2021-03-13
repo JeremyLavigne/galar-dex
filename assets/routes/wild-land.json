@@ -8870,222 +8870,193 @@
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 29-31",
+    "where": "Pokémon vadrouilleurs - Météo normale",
     "pokemons": [
       "Qulbutoké",
-      "NounoursonSimularbre",
+      "Nounourson",
+      "Simularbre",
       "Machopeur",
-      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+      "Pitrouille"
     ],
     "percentages": [
       "45",
       "29",
       "10",
       "5",
-      "5",
-      "3",
-      "2",
-      "1",
-      ""
+      "11"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 29-31",
+    "where": "Pokémon vadrouilleurs - Ciel couvert",
     "pokemons": [
-      "NounoursonQulbutoké",
+      "Nounourson",
+      "Qulbutoké",
       "Machopeur",
-      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+      "Pitrouille"
     ],
     "percentages": [
       "45",
       "29",
       "15",
-      "5",
-      "3",
-      "2",
-      "1",
-      ""
+      "11"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 29-31",
+    "where": "Pokémon vadrouilleurs - Pluie",
     "pokemons": [
-      "BatracnéQulbutoké",
+      "Batracné",
+      "Qulbutoké",
       "Machopeur",
-      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+      "Pitrouille"
     ],
     "percentages": [
       "45",
       "29",
       "15",
-      "5",
-      "3",
-      "2",
-      "1",
-      ""
+      "11"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 29-31",
+    "where": "Pokémon vadrouilleurs - Orage",
     "pokemons": [
-      "SovkipouQulbutoké",
-      "PitrouillePitrouille MiniMachopeur",
-      "Pitrouille MaxiPitrouille Ultra"
+      "Sovkipou",
+      "Qulbutoké",
+      "Pitrouille",
+      "Machopeur"
     ],
     "percentages": [
       "35",
       "24",
-      "20",
-      "10",
-      "5",
-      "5",
-      "1",
-      ""
+      "36",
+      "5"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 29-31",
+    "where": "Pokémon vadrouilleurs - Soleil intense",
     "pokemons": [
       "Simularbre",
       "Maracachi",
       "Machopeur",
       "Qulbutoké",
-      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+      "Pitrouille"
     ],
     "percentages": [
       "40",
       "34",
       "10",
       "5",
-      "5",
-      "3",
-      "2",
-      "1",
-      ""
+      "11"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 29-31",
+    "where": "Pokémon vadrouilleurs - Neige",
     "pokemons": [
       "Polarhume",
       "Stalgamin",
-      "FarfuretQulbutoké",
-      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+      "Farfuret",
+      "Qulbutoké",
+      "Pitrouille"
     ],
     "percentages": [
       "40",
       "34",
       "10",
       "5",
-      "5",
-      "3",
-      "2",
-      "1",
-      ""
+      "11"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 29-31",
+    "where": "Pokémon vadrouilleurs - Blizzard",
     "pokemons": [
-      "FarfuretStalgamin",
+      "Farfuret",
+      "Stalgamin",
       "Qulbutoké",
       "Machopeur",
-      "PitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+      "Pitrouille"
     ],
     "percentages": [
       "40",
       "34",
       "10",
       "5",
-      "5",
-      "3",
-      "2",
-      "1",
-      ""
+      "11"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 29-31",
+    "where": "Pokémon vadrouilleurs - Tempête de sable",
     "pokemons": [
       "Simularbre",
       "Machopeur",
       "Qulbutoké",
-      "PitrouillePitrouille MiniCoupenotte",
-      "Kraknoix",
-      "Pitrouille MaxiPitrouille Ultra"
+      "Pitrouille",
+      "Kraknoix"
     ],
     "percentages": [
       "40",
       "34",
       "13",
-      "5",
-      "3",
-      "2",
-      "É2",
-      "B2",
-      "1",
-      ""
+      "9",
+      "2"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 29-31",
+    "where": "Pokémon vadrouilleurs - Brume",
     "pokemons": [
-      "MonorpaleSpododoFantominusPitrouillePitrouille MiniPitrouille MaxiPitrouille Ultra"
+      "Monorpale",
+      "Spododo",
+      "Fantominus",
+      "Pitrouille"
     ],
     "percentages": [
       "44",
       "35",
       "10",
-      "5",
-      "3",
-      "2",
-      "1",
-      ""
+      "11"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
       "Psystigri",
-      "SepiatopBleuseille",
+      "Sepiatop",
+      "Bleuseille",
       "Moumouflon",
-      "Tic",
-      ""
+      "Tic"
     ],
     "percentages": [
       "40",
       "25",
       "15",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
-      "SepiatopMachopeur",
+      "Sepiatop",
+      "Machopeur",
       "Roublenard",
       "Psystigri",
       "Tic",
@@ -9097,289 +9068,306 @@
       "15",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "BekipanCarabing",
+      "Bekipan",
+      "Carabing",
       "Escargaume",
-      "SepiatopTic",
-      ""
+      "Sepiatop",
+      "Tic"
     ],
     "percentages": [
       "40",
+      "5",
       "30",
-      "É5",
-      "B5",
-      "É30",
-      "B15",
-      "10",
-      ""
+      "15",
+      "10"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
-      "ToxizapChrysapileCarabing",
+      "Toxizap",
+      "Chrysapile",
       "Escargaume",
       "Psystigri",
-      "Tic",
-      ""
+      "Tic"
     ],
     "percentages": [
       "40",
       "25",
       "15",
-      "É15",
-      "B10",
-      "10",
-      ""
+      "15",
+      "10"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
-      "Caninos",
       "Goupix",
-      "BalbutoSepiatopPsystigri",
-      "Tic",
-      ""
-    ],
-    "percentages": [
-      "40",
-      "É40",
-      "B25",
-      "15",
-      "10",
-      "10",
-      ""
-    ]
-  },
-  {
-    "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Neige",
-    "pokemons": [
-      "MarcacrinSepiatopCadoizoPsystigri",
-      "Tic",
-      ""
+      "Balbuto",
+      "Sepiatop",
+      "Psystigri",
+      "Tic"
     ],
     "percentages": [
       "40",
       "25",
       "15",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes - Neige",
+    "pokemons": [
+      "Marcacrin",
+      "Sepiatop",
+      "Cadoizo",
+      "Psystigri",
+      "Tic"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "15",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "route": "Plateau de Kickenham",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes - Blizzard",
     "pokemons": [
       "Stalgamin",
       "Sorbébé",
-      "MonorpaleSepiatopTic",
-      ""
+      "Monorpale",
+      "Sepiatop",
+      "Tic"
     ],
     "percentages": [
       "40",
       "25",
       "15",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes - Tempête de sable",
     "pokemons": [
       "Triopikeur",
-      "CrabicoqueRototaupe",
+      "Crabicoque",
+      "Rototaupe",
       "Psystigri",
-      "Tic",
-      ""
+      "Tic"
     ],
     "percentages": [
       "40",
       "25",
       "15",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 28-30",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
       "Psystigri",
       "Bibichut",
-      "SepiatopGrimalinTic",
-      ""
+      "Sepiatop",
+      "Grimalin",
+      "Tic"
     ],
     "percentages": [
       "40",
       "25",
       "15",
       "10",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Dans les airsNiveau 36-39",
+    "level": "Niveau 36-39",
+    "where": "Dans les airs",
     "pokemons": [
-      "DéflaisanBleuseille",
-      ""
+      "Déflaisan",
+      "Bleuseille"
     ],
     "percentages": [
       "60",
-      "40",
-      ""
+      "40"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
-    "where": "Arbres à BaiesNiveau 28-30",
+    "level": "Niveau 28-30",
+    "where": "Arbres à Baies",
     "pokemons": [
       "Rongrigou",
-      "Ceribou",
-      ""
+      "Ceribou"
     ],
     "percentages": [
       "75",
-      "25",
-      ""
+      "25"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Normal et pluie",
     "pokemons": [
       "Brutalibré",
-      " 36Corvaillus",
-      " 38Clic-",
-      " 46Banshitrouye",
-      " 41Pachyradjah-",
-      " 65Rafflesia",
-      " 41"
+      "Corvaillus",
+      "Clic",
+      "Banshitrouye",
+      "Pachyradjah",
+      "Rafflesia"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Ciel couvert",
     "pokemons": [
       "Brutalibré",
-      " 36Corvaillus",
-      " 38Clic-",
-      " 46Banshitrouye",
-      " 41Pachyradjah-",
-      " 65Roserade",
-      " 41"
+      "Corvaillus",
+      "Clic",
+      "Banshitrouye",
+      "Pachyradjah",
+      "Roserade"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Neige",
     "pokemons": [
       "Brutalibré",
-      " 36Corvaillus",
-      " 38Clic-",
-      " 46Banshitrouye",
-      " 41Pachyradjah-",
-      " 65Blizzaroi",
-      " 41"
+      "Corvaillus",
+      "Clic",
+      "Banshitrouye",
+      "Pachyradjah",
+      "Blizzaroi"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Blizzard",
     "pokemons": [
       "Brutalibré",
-      " 36Corvaillus",
-      " 38Cliticlic-",
-      " 46Banshitrouye",
-      " 41Pachyradjah-",
-      " 65Blizzaroi",
-      " 41"
+      "Corvaillus",
+      "Cliticlic",
+      "Banshitrouye",
+      "Pachyradjah",
+      "Blizzaroi"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Orage, soleil intense et tempête de sable",
     "pokemons": [
       "Brutalibré",
-      " 36Corvaillus",
-      " 38Cliticlic-",
-      " 46Banshitrouye",
-      " 41Pachyradjah-",
-      " 65Rafflesia",
-      " 41"
+      "Corvaillus",
+      "Cliticlic",
+      "Banshitrouye",
+      "Pachyradjah",
+      "Rafflesia"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Plateau de Kickenham",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Brume",
     "pokemons": [
       "Brutalibré",
-      " 36Corvaillus",
-      " 38Cliticlic-",
-      " 46Banshitrouye",
-      " 41Pachyradjah-",
-      " 65Roserade",
-      " 41"
+      "Corvaillus",
+      "Cliticlic",
+      "Banshitrouye",
+      "Pachyradjah",
+      "Roserade"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 27-29",
+    "where": "Pokémon vadrouilleurs - Météo normale",
     "pokemons": [
-      "ZigzatonBombydouQulbutoké",
-      "SonistrelleLewsor",
-      "ToxizapCharibari",
-      ""
+      "Zigzaton",
+      "Bombydou",
+      "Qulbutoké",
+      "Sonistrelle",
+      "Lewsor",
+      "Toxizap",
+      "Charibari"
     ],
     "percentages": [
       "34",
@@ -9388,40 +9376,43 @@
       "10",
       "10",
       "5",
-      "1",
-      ""
+      "1"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 27-29",
+    "where": "Pokémon vadrouilleurs - Ciel couvert",
     "pokemons": [
-      "ZigzatonBombydouBaggiguaneCradopaudSonistrelleLewsor",
-      "Karaclée",
+      "Zigzaton",
+      "Bombydou",
+      "Cradopaud",
+      "Sonistrelle",
+      "Lewsor",
       "Judokrak",
-      "Charibari",
-      ""
+      "Charibari"
     ],
     "percentages": [
       "35",
       "25",
       "10",
-      "É10",
-      "B10",
+      "10",
       "10",
       "5",
-      "É5",
-      "B5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 27-29",
+    "where": "Pokémon vadrouilleurs - Pluie",
     "pokemons": [
-      "ZigzatonNounoursonToxizapSonistrelleArchéomireNigosier"
+      "Zigzaton",
+      "Nounourson",
+      "Toxizap",
+      "Sonistrelle",
+      "Archéomire",
+      "Nigosier"
     ],
     "percentages": [
       "33",
@@ -9429,16 +9420,20 @@
       "15",
       "10",
       "10",
-      "2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 27-29",
+    "where": "Pokémon vadrouilleurs - Orage",
     "pokemons": [
-      "NounoursonZigzatonViskuseSonistrelleArchéomireToxizap"
+      "Nounourson",
+      "Zigzaton",
+      "Viskuse",
+      "Sonistrelle",
+      "Archéomire",
+      "Toxizap"
     ],
     "percentages": [
       "35",
@@ -9446,19 +9441,21 @@
       "10",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 27-29",
+    "where": "Pokémon vadrouilleurs - Soleil intense",
     "pokemons": [
       "Maractus",
-      "BombydouQulbutoké",
-      "SonistrelleBalbutoZigzatonCharibari",
-      ""
+      "Bombydou",
+      "Qulbutoké",
+      "Sonistrelle",
+      "Balbuto",
+      "Zigzaton",
+      "Charibari"
     ],
     "percentages": [
       "35",
@@ -9467,34 +9464,37 @@
       "10",
       "10",
       "5",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 27-29",
+    "where": "Pokémon vadrouilleurs - Neige",
     "pokemons": [
       "Polarhume",
-      "ZigzatonFarfuretSonistrelleNounourson"
+      "Zigzaton",
+      "Farfuret",
+      "Sonistrelle",
+      "Nounourson"
     ],
     "percentages": [
       "40",
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 27-29",
+    "where": "Pokémon vadrouilleurs - Blizzard",
     "pokemons": [
-      "FarfuretPolarhume",
-      "ZigzatonCharibari",
+      "Farfuret",
+      "Polarhume",
+      "Zigzaton",
+      "Charibari",
       "Sonistrelle"
     ],
     "percentages": [
@@ -9502,16 +9502,20 @@
       "35",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 27-29",
+    "where": "Pokémon vadrouilleurs - Tempête de sable",
     "pokemons": [
-      "ManzaÏZigzatonNounoursonSonistrelleBalbutoBaggiguaneCradopaud"
+      "ManzaÏ",
+      "Zigzaton",
+      "Nounourson",
+      "Sonistrelle",
+      "Balbuto",
+      "Cradopaud"
     ],
     "percentages": [
       "40",
@@ -9519,19 +9523,20 @@
       "10",
       "10",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 27-29",
+    "where": "Pokémon vadrouilleurs - Brume",
     "pokemons": [
-      "BombydouMunna",
+      "Bombydou",
+      "Munna",
       "Lewsor",
-      "ZigzatonSonistrelleNounourson"
+      "Zigzaton",
+      "Sonistrelle",
+      "Nounourson"
     ],
     "percentages": [
       "30",
@@ -9539,20 +9544,21 @@
       "20",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
       "Roublenard",
       "Qulbutoké",
-      "SepiatopLéopardus",
-      "BatracnéGrindurTogepi",
-      ""
+      "Sepiatop",
+      "Léopardus",
+      "Batracné",
+      "Grindur",
+      "Togepi"
     ],
     "percentages": [
       "28",
@@ -9561,20 +9567,21 @@
       "10",
       "10",
       "5",
-      "2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
       "Carabing",
       "Roublenard",
-      "ExcavarenneEscargaume",
-      "BatracnéGrindurTogepi",
-      ""
+      "Excavarenne",
+      "Escargaume",
+      "Batracné",
+      "Grindur",
+      "Togepi"
     ],
     "percentages": [
       "30",
@@ -9583,17 +9590,20 @@
       "10",
       "10",
       "5",
-      "2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "OpermineSancoki",
-      "BatracnéSepiatopSovkipouGrindur"
+      "Opermine",
+      "Sancoki",
+      "Batracné",
+      "Sepiatop",
+      "Sovkipou",
+      "Grindur"
     ],
     "percentages": [
       "30",
@@ -9601,17 +9611,20 @@
       "20",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
-      "OpermineSonistrelleSancoki",
-      "BatracnéSepiatopGrindur"
+      "Opermine",
+      "Sonistrelle",
+      "Sancoki",
+      "Batracné",
+      "Sepiatop",
+      "Grindur"
     ],
     "percentages": [
       "25",
@@ -9619,17 +9632,20 @@
       "20",
       "20",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
-      "SepiatopFunécireRoublenard",
-      "WagomineBatracnéGrindur"
+      "Sepiatop",
+      "Funécire",
+      "Roublenard",
+      "Wagomine",
+      "Batracné",
+      "Grindur"
     ],
     "percentages": [
       "30",
@@ -9637,81 +9653,84 @@
       "20",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Neige",
     "pokemons": [
-      "FarfuretRoublenard",
-      "Sorbébé",
+      "Farfuret",
+      "Roublenard",
       "Polarhume",
-      "SepiatopBatracnéGrindur"
+      "Sepiatop",
+      "Batracné",
+      "Grindur"
     ],
     "percentages": [
       "30",
       "25",
       "20",
-      "É20",
-      "B10",
       "10",
-      "5",
-      ""
+      "10",
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Blizzard",
     "pokemons": [
-      "FarfuretPolarhume",
-      "SepiatopMysdibuleSorbébé",
-      "BatracnéGrindur"
+      "Farfuret",
+      "Polarhume",
+      "Sepiatop",
+      "Sorbébé",
+      "Batracné",
+      "Grindur"
     ],
     "percentages": [
       "30",
       "25",
       "20",
       "10",
-      "É10",
-      "B10",
-      "5",
-      ""
+      "10",
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Tempête de sable",
     "pokemons": [
       "Rhinocorne",
-      "FuraiglonVostournoSimularbre",
-      "SepiatopBatracnéGrindur"
+      "Vostourno",
+      "Simularbre",
+      "Sepiatop",
+      "Batracné",
+      "Grindur"
     ],
     "percentages": [
       "30",
       "25",
-      "É25",
-      "B20",
+      "20",
       "10",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 26-28",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
       "Crèmy",
-      "FunécireLewsor",
-      "BatracnéRoublenard",
-      "GrindurTogepi",
-      ""
+      "Funécire",
+      "Lewsor",
+      "Batracné",
+      "Roublenard",
+      "Grindur",
+      "Togepi"
     ],
     "percentages": [
       "30",
@@ -9720,424 +9739,630 @@
       "10",
       "5",
       "5",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 27-29",
+    "where": "Dans les airs - Météo normale",
     "pokemons": [
-      "SonistrelleChovsourirColombeau"
+      "Sonistrelle",
+      "Chovsourir",
+      "Colombeau"
     ],
     "percentages": [
       "60",
       "35",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 27-29",
+    "where": "Dans les airs - Ciel couvert",
     "pokemons": [
-      "SonistrelleChovsourirColombeau"
+      "Sonistrelle",
+      "Chovsourir",
+      "Colombeau"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 27-29",
+    "where": "Dans les airs - Pluie",
     "pokemons": [
-      "SonistrelleColombeauChovsourir"
+      "Sonistrelle",
+      "Colombeau",
+      "Chovsourir"
     ],
     "percentages": [
       "45",
       "35",
-      "20",
-      ""
+      "20"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 27-29",
+    "where": "Dans les airs - Orage",
     "pokemons": [
-      "SonistrelleChovsourirColombeau"
+      "Sonistrelle",
+      "Chovsourir",
+      "Colombeau"
     ],
     "percentages": [
       "70",
       "25",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 27-29",
+    "where": "Dans les airs - Soleil intense",
     "pokemons": [
-      "ColombeauSonistrelleChovsourir"
+      "Colombeau",
+      "Sonistrelle",
+      "Chovsourir"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 27-29",
+    "where": "Dans les airs - Neige",
     "pokemons": [
       "Sorbébé",
-      "ChovsourirColombeauSonistrelle"
+      "Chovsourir",
+      "Colombeau",
+      "Sonistrelle"
     ],
     "percentages": [
       "50",
       "30",
       "15",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 27-29",
+    "where": "Dans les airs - Blizzard",
     "pokemons": [
       "Sorbébé",
-      "ColombeauSonistrelleChovsourir"
+      "Colombeau",
+      "Sonistrelle",
+      "Chovsourir"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 27-29",
+    "where": "Dans les airs - Tempête de sable",
     "pokemons": [
-      "ColombeauChovsourirSonistrelle"
+      "Colombeau",
+      "Chovsourir",
+      "Sonistrelle"
     ],
     "percentages": [
       "55",
       "35",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 27-29",
+    "where": "Dans les airs - Brume",
     "pokemons": [
-      "ChovsourirSonistrelleColombeau"
+      "Chovsourir",
+      "Sonistrelle",
+      "Colombeau"
     ],
     "percentages": [
       "65",
       "25",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Normal",
+    "level": "Niveau 27-29",
+    "where": "Surf - Normal",
     "pokemons": [
       "Poissirène",
-      "QwilfishSepiatop"
-    ],
-    "percentages": [
-      "55",
-      "30",
-      "15",
-      ""
-    ]
-  },
-  {
-    "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Ciel couvert",
-    "pokemons": [
-      "QwilfishPoissirène",
-      "Sepiatop"
-    ],
-    "percentages": [
-      "45",
-      "40",
-      "15",
-      ""
-    ]
-  },
-  {
-    "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Pluie",
-    "pokemons": [
-      "Poissirène",
-      "QwilfishSepiatop"
-    ],
-    "percentages": [
-      "45",
-      "40",
-      "15",
-      ""
-    ]
-  },
-  {
-    "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Orage",
-    "pokemons": [
-      "QwilfishPoissirène",
+      "Qwilfish",
       "Sepiatop"
     ],
     "percentages": [
       "55",
       "30",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 27-29",
+    "where": "Surf - Ciel couvert",
     "pokemons": [
-      "QwilfishPoissirène",
+      "Qwilfish",
+      "Poissirène",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "45",
+      "40",
+      "15"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "Niveau 27-29",
+    "where": "Surf - Pluie",
+    "pokemons": [
+      "Poissirène",
+      "Qwilfish",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "45",
+      "40",
+      "15"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "Niveau 27-29",
+    "where": "Surf - Orage",
+    "pokemons": [
+      "Qwilfish",
+      "Poissirène",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "55",
+      "30",
+      "15"
+    ]
+  },
+  {
+    "route": "Prairie Entre-Ponts",
+    "level": "Niveau 27-29",
+    "where": "Surf - Soleil intense",
+    "pokemons": [
+      "Qwilfish",
+      "Poissirène",
       "Sepiatop"
     ],
     "percentages": [
       "60",
       "25",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 27-29",
+    "where": "Surf - Neige",
     "pokemons": [
       "Sorbébé",
       "Poissirène",
-      "QwilfishSepiatop"
+      "Qwilfish",
+      "Sepiatop"
     ],
     "percentages": [
       "50",
       "20",
       "15",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 27-29",
+    "where": "Surf - Blizzard",
     "pokemons": [
       "Sorbébé",
-      "QwilfishSepiatopPoissirène",
-      ""
+      "Qwilfish",
+      "Sepiatop",
+      "Poissirène"
     ],
     "percentages": [
       "55",
       "20",
       "15",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 27-29",
+    "where": "Surf - Tempête de sable",
     "pokemons": [
-      "QwilfishPoissirène",
+      "Qwilfish",
+      "Poissirène",
       "Sepiatop"
     ],
     "percentages": [
       "50",
       "35",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 27-29",
+    "where": "Surf - Brume",
     "pokemons": [
-      "QwilfishPoissirène",
+      "Qwilfish",
+      "Poissirène",
       "Sepiatop"
     ],
     "percentages": [
       "45",
       "40",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "PêcheNiveau 26-28",
+    "level": "Niveau 26-28",
+    "where": "Pêche",
     "pokemons": [
-      "TorgamordMagicarpe",
-      "LanturnQwilfishLéviator"
+      "Torgamord",
+      "Magicarpe",
+      "Lanturn",
+      "Qwilfish",
+      "Léviator"
     ],
     "percentages": [
       "30",
       "30",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
-    "where": "Arbres à BaiesNiveau 26-28",
+    "level": "Niveau 26-28",
+    "where": "Arbres à Baies",
     "pokemons": [
       "Rongrigou",
-      "Ceribou",
-      ""
+      "Ceribou"
     ],
     "percentages": [
       "75",
-      "25",
-      ""
+      "25"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
+    "level": "Variables",
     "where": "Météo normale",
     "pokemons": [
       "Miasmax",
-      "Niveau 40 RubombelleNiveau 40SarmuraïNiveau 50LinéonNiveau 40CheloursNiveau 42CrapustuleNiveau 46NoacierNiveau 40"
+      "Rubombelle",
+      "Sarmuraï",
+      "Linéon",
+      "Chelours",
+      "Crapustule",
+      "Noacier",
+      "Rongrigou",
+      "Neitram",
+      "Bruyverne",
+      "Gallame",
+      "Ixon",
+      "Poissoroy",
+      "Léviator"
     ],
     "percentages": [
-      "Rongrigou-Niveau 42Neitram-Niveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65Poissoroy-Niveau 46LéviatorNiveau 56"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
+    "level": "Variables",
     "where": "Ciel couvert",
     "pokemons": [
       "Miasmax",
-      "Niveau 40 RubombelleNiveau 40DrascoreNiveau 50LinéonNiveau 40PandarbareNiveau 42CrapustuleNiveau 46NoacierNiveau 40"
+      "Rubombelle",
+      "Drascore",
+      "Linéon",
+      "Pandarbare",
+      "Crapustule",
+      "Noacier",
+      "Rongrigou",
+      "Neitram",
+      "Bruyverne",
+      "Gallame",
+      "Ixon",
+      "Poissoroy",
+      "Léviator"
     ],
     "percentages": [
-      "Rongrigou-Niveau 42Neitram-Niveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65Poissoroy-Niveau 46LéviatorNiveau 56"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
+    "level": "Variables",
     "where": "Pluie",
     "pokemons": [
       "Miasmax",
-      "Niveau 40SarmuraïNiveau 50LinéonNiveau 40CheloursNiveau 42CrapustuleNiveau 46NoacierNiveau 40Rongrigou",
-      "Niveau 42"
+      "Sarmuraï",
+      "Linéon",
+      "Chelours",
+      "Crapustule",
+      "Noacier",
+      "Rongrigou",
+      "Archéodong",
+      "Bruyverne",
+      "Gallame",
+      "Ixon",
+      "Moyade",
+      "Léviator"
     ],
     "percentages": [
-      "ArchéodongNiveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65MoyadeNiveau 46LéviatorNiveau 56-"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
+    "level": "Variables",
     "where": "Orage",
     "pokemons": [
       "Miasmax",
-      "Niveau 40SarmuraïNiveau 50LinéonNiveau 40CheloursNiveau 40CrapustuleNiveau 46NoacierNiveau 40Rongrigou",
-      "Niveau 42"
+      "Sarmuraï",
+      "Linéon",
+      "Chelours",
+      "Crapustule",
+      "Noacier",
+      "Rongrigou",
+      "Archéodong",
+      "Bruyverne",
+      "Gallame",
+      "Ixon",
+      "Lanturn",
+      "Léviator"
     ],
     "percentages": [
-      "ArchéodongNiveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65LanturnNiveau 46LéviatorNiveau 56-"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
+    "level": "Variables",
     "where": "Soleil intense",
     "pokemons": [
       "Miasmax",
-      "Niveau 40 RubombelleNiveau 40RhinoférosNiveau 50LinéonNiveau 40PandarbareNiveau 42CheloursNiveau 46NoacierNiveau 40"
+      "Rubombelle",
+      "Rhinoféros",
+      "Linéon",
+      "Pandarbare",
+      "Chelours",
+      "Noacier",
+      "Rongrigou",
+      "Neitram",
+      "Bruyverne",
+      "Gallame",
+      "Ixon",
+      "Bekipan",
+      "Léviator"
     ],
     "percentages": [
-      "Rongrigou-Niveau 42Neitram-Niveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65BekipanNiveau 46LéviatorNiveau 56"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
+    "level": "Variables",
     "where": "Neige",
     "pokemons": [
       "Miasmax",
-      "Niveau 40Sorbouboul",
-      "Niveau 46/50LinéonNiveau 40CheloursNiveau 42NoacierNiveau 40Rongrigou",
-      "Niveau 42"
+      "Sorbouboul",
+      "Linéon",
+      "Chelours",
+      "Noacier",
+      "Rongrigou",
+      "Neitram",
+      "Noarfang",
+      "Polagriffe",
+      "Ixon",
+      "Léviator"
     ],
     "percentages": [
-      "Neitram-Niveau 42NoarfangNiveau 50Polagriffe-Niveau 60IxonNiveau 65LéviatorNiveau 56-"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
+    "level": "Variables",
     "where": "Blizzard",
     "pokemons": [
       "Miasmax",
-      "Niveau 40Sorbouboul",
-      "Niveau 46/50LinéonNiveau 40CheloursNiveau 42NoacierNiveau 40Rongrigou",
-      "Niveau 42"
+      "Sorbouboul",
+      "Linéon",
+      "Chelours",
+      "Noacier",
+      "Rongrigou",
+      "Neitram",
+      "Bruyverne",
+      "Dimoret",
+      "Ixon",
+      "Léviator"
     ],
     "percentages": [
-      "Neitram-Niveau 42BruyverneNiveau 50DimoretNiveau 60IxonNiveau 65LéviatorNiveau 56-"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
+    "level": "Variables",
     "where": "Tempête de sable",
     "pokemons": [
       "Miasmax",
-      "Niveau 40LinéonNiveau 40CheloursNiveau 50RhinoférosNiveau 46NoacierNiveau 40Rongrigou",
-      "Niveau 42"
+      "Linéon",
+      "Chelours",
+      "Rhinoféros",
+      "Noacier",
+      "Rongrigou",
+      "Kaorine",
+      "Bruyverne",
+      "Gallame",
+      "Ixon",
+      "Poissoroy",
+      "Léviator"
     ],
     "percentages": [
-      "KaorineNiveau 42BruyverneNiveau 50GallameNiveau 60IxonNiveau 65Poissoroy-Niveau 46LéviatorNiveau 56"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
     "route": "Prairie Entre-Ponts",
-    "level": "",
+    "level": "Variables",
     "where": "Brume",
     "pokemons": [
       "Miasmax",
-      "Niveau 40 RubombelleNiveau 40MimiquiNiveau 50LinéonNiveau 40CheloursNiveau 42CrapustuleNiveau 46NoacierNiveau 40"
+      "Rubombelle",
+      "Mimiqui",
+      "Linéon",
+      "Chelours",
+      "Crapustule",
+      "Noacier",
+      "Rongrigou",
+      "Neitram",
+      "Bruyverne",
+      "Mushana",
+      "Ixon",
+      "Moyade",
+      "Léviator"
     ],
     "percentages": [
-      "Rongrigou-Niveau 42Neitram-Niveau 42BruyverneNiveau 50Mushana-Niveau 60IxonNiveau 65MoyadeNiveau 46LéviatorNiveau 56"
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100",
+      "100"
     ]
   },
   {
