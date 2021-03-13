@@ -1,7 +1,7 @@
-// const getPokemonList = require("./src/getPokemonList");
-const fs = require('fs');
-const getRouteData = require('./src/getRouteData');
-const getWildLandData = require('./src/getWildLandData');
+// const getPokemonList = require("./getPokemonList");
+// const fs = require('fs');
+// const getRouteData = require('./getRouteData');
+// const getWildLandData = require('./getWildLandData');
 
 // getPokemonList().then(list => {
 //     const toWrite = JSON.stringify(list, null, 2);

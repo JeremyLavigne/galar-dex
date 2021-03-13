@@ -1,7 +1,11 @@
+import pokedex from './assets/pokedex.json';
+
 function App() {
   return (
     <div className="App">
-      Hello
+      {
+        pokedex.map((pokemon) => <li key={pokemon.galarId}>{pokemon.nameFr}</li>)
+      }
     </div>
   );
 }
