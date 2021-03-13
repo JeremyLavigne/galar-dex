@@ -1,6 +1,10 @@
-function Line({ pokemon }) {
-
+function Line({ pokemon, setModalIsOpen, setActivePokemon }) {
     const icon = `https://www.serebii.net/pokedex-swsh/icon/${pokemon.nationalId}.png`;
+
+    const handleClickFind = () => {
+        setModalIsOpen(true);
+        setActivePokemon(pokemon);
+    }
     return (
         <div class="line">
             <img class="icon" alt="pkm_icn" src={icon} />
@@ -12,7 +16,10 @@ function Line({ pokemon }) {
                 </div>
             </div>
             <div className="line-buttons">
-                <button className="line-find-button">Find</button>
+                <button 
+                    className="line-find-button"
+                    onClick={handleClickFind}
+                >Find</button>
                 {/* <div>
                     // pokeball icon 
                     // click check/uncheck 
