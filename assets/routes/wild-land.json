@@ -10367,96 +10367,94 @@
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 33-38",
+    "where": "Pokémon vadrouilleurs - Météo normale",
     "pokemons": [
-      "ArchéomirePifeuilLombreMachopeur",
+      "Archéomire",
+      "Lombre",
       "Machoc",
       "Nounourson"
     ],
     "percentages": [
       "60",
       "25",
-      "É25",
-      "B10",
-      "É10",
-      "B5",
-      ""
+      "10",
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 33-38",
+    "where": "Pokémon vadrouilleurs - Ciel couvert",
     "pokemons": [
       "Machoc",
-      "FantominusArchéomireDebugant",
-      ""
+      "Fantominus",
+      "Archéomire",
+      "Debugant"
     ],
     "percentages": [
       "60",
       "28",
       "10",
-      "2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 33-38",
+    "where": "Pokémon vadrouilleurs - Pluie",
     "pokemons": [
-      "PifeuilLombreArchéomireFantominusAxoloto"
+      "Lombre",
+      "Archéomire",
+      "Fantominus",
+      "Axoloto"
     ],
     "percentages": [
       "60",
-      "É60",
-      "B25",
+      "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 33-38",
+    "where": "Pokémon vadrouilleurs - Orage",
     "pokemons": [
       "Dynavolt",
-      "ArchéomireBatracné"
+      "Archéomire",
+      "Batracné"
     ],
     "percentages": [
       "60",
       "28",
-      "12",
-      ""
+      "12"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 33-38",
+    "where": "Pokémon vadrouilleurs - Soleil intense",
     "pokemons": [
       "Tiboudet",
-      "FantominusArchéomireGoupix",
-      "Caninos",
-      ""
+      "Fantominus",
+      "Archéomire",
+      "Caninos"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      "É5",
-      "B"
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 33-38",
+    "where": "Pokémon vadrouilleurs - Neige",
     "pokemons": [
-      "BlizziStalgamin",
+      "Blizzi",
+      "Stalgamin",
       "Machoc",
       "Archéomire"
     ],
@@ -10464,130 +10462,69 @@
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 33-38",
+    "where": "Pokémon vadrouilleurs - Blizzard",
     "pokemons": [
-      "BlizziStalgamin",
-      "ArchéomireCadoizo"
+      "Blizzi",
+      "Stalgamin",
+      "Archéomire",
+      "Cadoizo"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 33-38",
+    "where": "Pokémon vadrouilleurs - Tempête de sable",
     "pokemons": [
-      "GringolemArchéomireMachoc",
+      "Gringolem",
+      "Archéomire",
+      "Machoc",
       "Nounourson"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 33-38",
+    "where": "Pokémon vadrouilleurs - Brume",
     "pokemons": [
       "Skelénox",
-      "NatuFantominusMunna",
-      ""
+      "Natu",
+      "Fantominus",
+      "Munna"
     ],
     "percentages": [
       "60",
       "28",
       "10",
-      "2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 30-35",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
-      "CheloursExcavarenneOnixColombeauArchéomire"
-    ],
-    "percentages": [
-      "40",
-      "20",
-      "20",
-      "15",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Siège du Géant",
-    "level": "",
-    "where": "Ciel couvert",
-    "pokemons": [
-      "Machopeur",
-      "CheloursOnixSpectrumArchéomire"
-    ],
-    "percentages": [
-      "40",
-      "20",
-      "20",
-      "15",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Siège du Géant",
-    "level": "",
-    "where": "Pluie",
-    "pokemons": [
-      "MaraisteCheloursPifeuilLombreArchéomire"
-    ],
-    "percentages": [
-      "50",
-      "30",
-      "15",
-      "É15",
-      "B5",
-      ""
-    ]
-  },
-  {
-    "route": "Siège du Géant",
-    "level": "",
-    "where": "Orage",
-    "pokemons": [
-      "Élecsprint",
-      "CheloursColhomardArchéomire"
-    ],
-    "percentages": [
-      "50",
-      "30",
-      "15",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Siège du Géant",
-    "level": "",
-    "where": "Soleil intense",
-    "pokemons": [
-      "CrabicoqueCheloursOnixBourrinos",
+      "Chelours",
+      "Excavarenne",
+      "Onix",
+      "Colombeau",
       "Archéomire"
     ],
     "percentages": [
@@ -10595,291 +10532,387 @@
       "20",
       "20",
       "15",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 30-35",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
-      "CadoizoCheloursMarcacrinArchéomire"
-    ],
-    "percentages": [
-      "50",
-      "30",
-      "15",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Siège du Géant",
-    "level": "",
-    "where": "Blizzard",
-    "pokemons": [
-      "CadoizoArchéomireMarcacrinChelours"
-    ],
-    "percentages": [
-      "50",
-      "30",
-      "15",
-      "5",
-      ""
-    ]
-  },
-  {
-    "route": "Siège du Géant",
-    "level": "",
-    "where": "Tempête de sable",
-    "pokemons": [
-      "Bourrinos",
-      "CheloursOnixCrabicoqueArchéomire"
+      "Machopeur",
+      "Chelours",
+      "Onix",
+      "Spectrum",
+      "Archéomire"
     ],
     "percentages": [
       "40",
       "20",
       "20",
       "15",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 30-35",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
-      "XatuCheloursArchéomireLéopardus",
-      ""
+      "Maraiste",
+      "Chelours",
+      "Lombre",
+      "Archéomire"
     ],
     "percentages": [
       "50",
       "30",
-      "É5",
-      "B5",
-      "É30",
-      "B15",
-      ""
+      "15",
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "PêcheNiveau 30-35",
+    "level": "Niveau 30-35",
+    "where": "Cachés dans les herbes - Orage",
+    "pokemons": [
+      "Élecsprint",
+      "Chelours",
+      "Colhomard",
+      "Archéomire"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "Niveau 30-35",
+    "where": "Cachés dans les herbes - Soleil intense",
+    "pokemons": [
+      "Crabicoque",
+      "Chelours",
+      "Onix",
+      "Bourrinos",
+      "Archéomire"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "Niveau 30-35",
+    "where": "Cachés dans les herbes - Neige",
+    "pokemons": [
+      "Cadoizo",
+      "Chelours",
+      "Marcacrin",
+      "Archéomire"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "Niveau 30-35",
+    "where": "Cachés dans les herbes - Blizzard",
+    "pokemons": [
+      "Cadoizo",
+      "Archéomire",
+      "Marcacrin",
+      "Chelours"
+    ],
+    "percentages": [
+      "50",
+      "30",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "Niveau 30-35",
+    "where": "Cachés dans les herbes - Tempête de sable",
+    "pokemons": [
+      "Bourrinos",
+      "Chelours",
+      "Onix",
+      "Crabicoque",
+      "Archéomire"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "15",
+      "5"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "Niveau 30-35",
+    "where": "Cachés dans les herbes - Brume",
+    "pokemons": [
+      "Xatu",
+      "Chelours",
+      "Archéomire",
+      "Léopardus"
+    ],
+    "percentages": [
+      "50",
+      "5",
+      "30",
+      "15"
+    ]
+  },
+  {
+    "route": "Siège du Géant",
+    "level": "Niveau 30-35",
+    "where": "Pêche",
     "pokemons": [
       "Kokiyas",
       "Concombaffe",
-      "LéviatorCrustabri"
+      "Léviator",
+      "Crustabri"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
-    "where": "Arbre à BaiesNiveau 30-35",
+    "level": "Niveau 30-35",
+    "where": "Arbre à Baies",
     "pokemons": [
       "Rongrigou",
-      "Ceribou",
-      ""
+      "Ceribou"
     ],
     "percentages": [
       "70",
-      "30",
-      ""
+      "30"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Météo normale",
     "pokemons": [
       "Steelix",
-      " 50Rhinoféros",
-      " 46Scalproie",
-      " 52Lucanon",
-      " 46Duralugon",
-      " 65"
+      "Rhinoféros",
+      "Scalproie",
+      "Lucanon",
+      "Duralugon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Ciel couvert",
     "pokemons": [
       "Steelix",
-      " 50Archéodong",
-      " 46Scalproie",
-      " 52Lucanon",
-      " 46Duralugon",
-      " 65"
+      "Archéodong",
+      "Scalproie",
+      "Lucanon",
+      "Duralugon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Pluie, orage",
     "pokemons": [
       "Steelix",
-      " 50Archéodong",
-      " 46Scalproie",
-      " 52Mygavolt",
-      " 46Duralugon",
-      " 65"
+      "Archéodong",
+      "Scalproie",
+      "Mygavolt",
+      "Duralugon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Soleil intense",
     "pokemons": [
       "Steelix",
-      " 50Bourrinos-",
-      " 46Scalproie",
-      " 52Lucanon",
-      " 46Duralugon",
-      " 65"
+      "Bourrinos",
+      "Scalproie",
+      "Lucanon",
+      "Duralugon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Neige et blizzard",
     "pokemons": [
       "Steelix",
-      " 50Blizzaroi",
-      " 46Scalproie",
-      " 52Oniglali-",
-      " 46Duralugon",
-      " 65"
+      "Blizzaroi",
+      "Scalproie",
+      "Oniglali",
+      "Duralugon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Tempête de sable",
     "pokemons": [
       "Steelix",
-      " 50Golemastoc",
-      " 46Scalproie",
-      " 52Lucanon",
-      " 46Duralugon",
-      " 65"
+      "Golemastoc",
+      "Scalproie",
+      "Lucanon",
+      "Duralugon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Siège du Géant",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Brume",
     "pokemons": [
       "Steelix",
-      " 50Téraclope-",
-      " 46Scalproie",
-      " 52Mushana-",
-      " 46Duralugon",
-      " 65"
+      "Téraclope",
+      "Scalproie",
+      "Mushana",
+      "Duralugon"
     ],
     "percentages": [
+      "100",
+      "100",
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 26-29",
+    "where": "Pokémon vadrouilleurs - Météo normale",
     "pokemons": [
-      "GringolemSkelénox",
+      "Gringolem",
+      "Skelénox",
       "Baudrive"
     ],
     "percentages": [
       "60",
       "25",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 26-29",
+    "where": "Pokémon vadrouilleurs - Ciel couvert",
     "pokemons": [
       "Skelénox",
-      "FantominusMystherbeBaudrive"
+      "Fantominus",
+      "Mystherbe",
+      "Baudrive"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 26-29",
+    "where": "Pokémon vadrouilleurs - Pluie",
     "pokemons": [
       "Skelénox",
-      "FantominusGoéliseChacripan",
-      ""
+      "Fantominus",
+      "Goélise",
+      "Chacripan"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 26-29",
+    "where": "Pokémon vadrouilleurs - Orage",
     "pokemons": [
-      "FantominusSkelénox",
-      "BaudriveChacripan",
-      ""
+      "Fantominus",
+      "Skelénox",
+      "Baudrive",
+      "Chacripan"
     ],
     "percentages": [
       "50",
       "35",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 26-29",
+    "where": "Pokémon vadrouilleurs - Soleil intense",
     "pokemons": [
-      "BaudriveSkelénox",
-      "Goupix",
+      "Baudrive",
+      "Skelénox",
       "Caninos",
       "Caratroc"
     ],
@@ -10887,130 +10920,126 @@
       "60",
       "28",
       "10",
-      "É10",
-      "B2",
-      ""
+      "2"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 26-29",
+    "where": "Pokémon vadrouilleurs - Neige",
     "pokemons": [
-      "BaudriveCadoizoSkelénox",
-      ""
+      "Baudrive",
+      "Cadoizo",
+      "Skelénox"
     ],
     "percentages": [
       "60",
       "25",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 26-29",
+    "where": "Pokémon vadrouilleurs - Blizzard",
     "pokemons": [
-      "CadoizoFantominusChacripan",
-      ""
+      "Cadoizo",
+      "Fantominus",
+      "Chacripan"
     ],
     "percentages": [
       "60",
       "25",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 26-29",
+    "where": "Pokémon vadrouilleurs - Tempête de sable",
     "pokemons": [
-      "FantominusCaratrocChacripan",
-      ""
+      "Fantominus",
+      "Caratroc",
+      "Chacripan"
     ],
     "percentages": [
       "60",
       "25",
-      "15",
-      ""
+      "15"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 26-29",
+    "where": "Pokémon vadrouilleurs - Brume",
     "pokemons": [
-      "FantominusSkelénox",
-      "TarsalChacripan",
-      ""
+      "Fantominus",
+      "Skelénox",
+      "Tarsal",
+      "Chacripan"
     ],
     "percentages": [
       "60",
       "25",
       "10",
-      "5",
-      ""
+      "5"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Météo normale",
+    "level": "Niveau 11-14",
+    "where": "Cachés dans les herbes - Météo normale",
     "pokemons": [
-      "GringolemBaudriveCroquine",
+      "Gringolem",
+      "Baudrive",
+      "Croquine",
       "Poichigeon"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Ciel couvert",
+    "level": "Niveau 11-14",
+    "where": "Cachés dans les herbes - Ciel couvert",
     "pokemons": [
       "Skelénox",
       "Machoc",
-      "FantominusCroquine",
-      ""
+      "Fantominus",
+      "Croquine"
     ],
     "percentages": [
       "40",
+      "10",
       "30",
-      "É10",
-      "B10",
-      "É30",
-      "B20",
-      ""
+      "20"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Pluie",
+    "level": "Niveau 11-14",
+    "where": "Cachés dans les herbes - Pluie",
     "pokemons": [
       "Skelénox",
       "Tritonde",
-      "GoélisePoichigeon"
+      "Goélise",
+      "Poichigeon"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Orage",
+    "level": "Niveau 11-14",
+    "where": "Cachés dans les herbes - Orage",
     "pokemons": [
       "Dynavolt",
       "Larvibule",
@@ -11021,17 +11050,16 @@
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Soleil intense",
+    "level": "Niveau 11-14",
+    "where": "Cachés dans les herbes - Soleil intense",
     "pokemons": [
-      "GringolemSkelénox",
-      "Goupix",
+      "Gringolem",
+      "Skelénox",
       "Caninos",
       "Baudrive"
     ],
@@ -11039,34 +11067,33 @@
       "40",
       "30",
       "20",
-      "É20",
-      "B10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Neige",
+    "level": "Niveau 11-14",
+    "where": "Cachés dans les herbes - Neige",
     "pokemons": [
       "Stalgamin",
       "Skelénox",
-      "BlizziBaudrive"
+      "Blizzi",
+      "Baudrive"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Blizzard",
+    "level": "Niveau 11-14",
+    "where": "Cachés dans les herbes - Blizzard",
     "pokemons": [
-      "BlizziStalgamin",
+      "Blizzi",
+      "Stalgamin",
       "Skelénox",
       "Baudrive"
     ],
@@ -11074,30 +11101,30 @@
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Tempête de sable",
+    "level": "Niveau 11-14",
+    "where": "Cachés dans les herbes - Tempête de sable",
     "pokemons": [
-      "GringolemCrabicoqueSkelénox",
+      "Gringolem",
+      "Crabicoque",
+      "Skelénox",
       "Poichigeon"
     ],
     "percentages": [
       "40",
       "30",
       "20",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Brume",
+    "level": "Niveau 11-14",
+    "where": "Cachés dans les herbes - Brume",
     "pokemons": [
       "Skelénox",
       "Chacripan",
@@ -11106,118 +11133,120 @@
     "percentages": [
       "60",
       "30",
-      "10",
-      ""
+      "10"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Ciel couvert, orage",
+    "level": "Niveau 26-29",
+    "where": "Dans les airs - Ciel couvert, orage",
     "pokemons": [
-      "SonistrelleChovsourir"
+      "Sonistrelle",
+      "Chovsourir"
     ],
     "percentages": [
       "60",
-      "40",
-      ""
+      "40"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Autres météos",
+    "level": "Niveau 26-29",
+    "where": "Dans les airs - Autres météos",
     "pokemons": [
-      "ChovsourirSonistrelle"
+      "Chovsourir",
+      "Sonistrelle"
     ],
     "percentages": [
       "60",
-      "40",
-      ""
+      "40"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
-    "where": "Arbre à BaiesNiveau 11-14",
+    "level": "Niveau 11-14",
+    "where": "Arbre à Baies",
     "pokemons": [
       "Rongourmand",
-      "Ceribou",
-      ""
+      "Ceribou"
     ],
     "percentages": [
       "50",
-      "50",
-      ""
+      "50"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Normale, soleil",
     "pokemons": [
       "Grodrive",
-      " 34Golemastoc",
-      " 40Corvaillus",
-      " 65"
+      "Golemastoc",
+      "Corvaillus"
     ],
     "percentages": [
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Ciel couvert, pluie, orage, tempête de sable",
     "pokemons": [
       "Spectrum",
-      " 34Téraclope-",
-      " 40Corvaillus",
-      " 65"
+      "Téraclope",
+      "Corvaillus"
     ],
     "percentages": [
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Neige",
     "pokemons": [
       "Grodrive",
-      " 34Oniglali-",
-      " 40Corvaillus",
-      " 65"
+      "Oniglali",
+      "Corvaillus"
     ],
     "percentages": [
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Blizzard",
     "pokemons": [
       "Spectrum",
-      " 34Oniglali-",
-      " 40Corvaillus",
-      " 65"
+      "Oniglali",
+      "Corvaillus"
     ],
     "percentages": [
+      "100",
+      "100",
       "100"
     ]
   },
   {
     "route": "Tour en ruines",
-    "level": "",
+    "level": "Variables",
     "where": "Fixe - Brume",
     "pokemons": [
       "Spectrum",
-      " 34Golemastoc",
-      " 40Corvaillus",
-      " 65"
+      "Golemastoc",
+      "Corvaillus"
     ],
     "percentages": [
+      "100",
+      "100",
       "100"
     ]
   }
