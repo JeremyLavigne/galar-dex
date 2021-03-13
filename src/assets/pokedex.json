@@ -1,8 +1,12 @@
 [
   {
     "galarId": "001",
+    "nationalId": "810",
     "nameFr": "Ouistempo",
-    "nameEn": "",
+    "nameEn": "Grookey",
+    "types": [
+      "Grass"
+    ],
     "evo": "",
     "localisation": [
       "Paddoxton"
@@ -10,22 +14,34 @@
   },
   {
     "galarId": "002",
+    "nationalId": "811",
     "nameFr": "Badabouin",
-    "nameEn": "",
+    "nameEn": "Thwackey",
+    "types": [
+      "Grass"
+    ],
     "evo": "Évolution au niveau 16",
     "localisation": []
   },
   {
     "galarId": "003",
+    "nationalId": "812",
     "nameFr": "Gorythmic",
-    "nameEn": "",
+    "nameEn": "Rillaboom",
+    "types": [
+      "Grass"
+    ],
     "evo": "Évolution au niveau 35",
     "localisation": []
   },
   {
     "galarId": "004",
+    "nationalId": "813",
     "nameFr": "Flambino",
-    "nameEn": "",
+    "nameEn": "Scorbunny",
+    "types": [
+      "Fire"
+    ],
     "evo": "",
     "localisation": [
       "Paddoxton"
@@ -33,22 +49,34 @@
   },
   {
     "galarId": "005",
+    "nationalId": "814",
     "nameFr": "Lapyro",
-    "nameEn": "",
+    "nameEn": "Raboot",
+    "types": [
+      "Fire"
+    ],
     "evo": "Évolution au niveau 16",
     "localisation": []
   },
   {
     "galarId": "006",
+    "nationalId": "815",
     "nameFr": "Pyrobut",
-    "nameEn": "",
+    "nameEn": "Cinderace",
+    "types": [
+      "Fire"
+    ],
     "evo": "Évolution au niveau 35",
     "localisation": []
   },
   {
     "galarId": "007",
+    "nationalId": "816",
     "nameFr": "Larméléon",
-    "nameEn": "",
+    "nameEn": "Sobble",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Paddoxton"
@@ -56,22 +84,34 @@
   },
   {
     "galarId": "008",
+    "nationalId": "817",
     "nameFr": "Arrozard",
-    "nameEn": "",
+    "nameEn": "Drizzile",
+    "types": [
+      "Water"
+    ],
     "evo": "Évolution au niveau 16",
     "localisation": []
   },
   {
     "galarId": "009",
+    "nationalId": "818",
     "nameFr": "Lézargus",
-    "nameEn": "",
+    "nameEn": "Inteleon",
+    "types": [
+      "Water"
+    ],
     "evo": "Évolution au niveau 35",
     "localisation": []
   },
   {
     "galarId": "010",
+    "nationalId": "824",
     "nameFr": "Larvadar",
-    "nameEn": "",
+    "nameEn": "Blipbug",
+    "types": [
+      "Bug"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Sleepwood",
@@ -82,8 +122,13 @@
   },
   {
     "galarId": "011",
+    "nationalId": "825",
     "nameFr": "Coléodôme",
-    "nameEn": "",
+    "nameEn": "Dottler",
+    "types": [
+      "Bug",
+      "Psychic"
+    ],
     "evo": "Évolution de Larvadar au niveau 10",
     "localisation": [
       "Route 5",
@@ -94,8 +139,13 @@
   },
   {
     "galarId": "012",
+    "nationalId": "826",
     "nameFr": "Astronelle",
-    "nameEn": "",
+    "nameEn": "Orbeetle",
+    "types": [
+      "Bug",
+      "Psychic"
+    ],
     "evo": "Évolution de Larvadar au niveau 30",
     "localisation": [
       "Forêt de Sleepwood",
@@ -105,8 +155,12 @@
   },
   {
     "galarId": "013",
+    "nationalId": "010",
     "nameFr": "Chenipan",
-    "nameEn": "",
+    "nameEn": "Caterpie",
+    "types": [
+      "Bug"
+    ],
     "evo": "",
     "localisation": [
       "Route 1"
@@ -114,8 +168,12 @@
   },
   {
     "galarId": "014",
+    "nationalId": "011",
     "nameFr": "Chrysacier",
-    "nameEn": "",
+    "nameEn": "Metapod",
+    "types": [
+      "Bug"
+    ],
     "evo": "Évolution de Chenipan au niveau 7",
     "localisation": [
       "Plaine Verdoyante"
@@ -123,8 +181,13 @@
   },
   {
     "galarId": "015",
+    "nationalId": "012",
     "nameFr": "Papilusion",
-    "nameEn": "",
+    "nameEn": "Butterfree",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "evo": "Évolution de Chrysacier au niveau 10",
     "localisation": [
       "Forêt de Sleepwood",
@@ -135,8 +198,12 @@
   },
   {
     "galarId": "016",
+    "nationalId": "736",
     "nameFr": "Larvibule",
-    "nameEn": "",
+    "nameEn": "Grubbin",
+    "types": [
+      "Bug"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Sleepwood",
@@ -150,8 +217,13 @@
   },
   {
     "galarId": "017",
+    "nationalId": "737",
     "nameFr": "Chrysapile",
-    "nameEn": "",
+    "nameEn": "Charjabug",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
     "evo": "Évolution de Larvibule au niveau 20",
     "localisation": [
       "Fosse des Sables",
@@ -161,8 +233,13 @@
   },
   {
     "galarId": "018",
+    "nationalId": "738",
     "nameFr": "Lucanon",
-    "nameEn": "",
+    "nameEn": "Vikavolt",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
     "evo": "Évolution de Chrysapile avec Pierre Foudre",
     "localisation": [
       "Miroir du Géant",
@@ -171,8 +248,13 @@
   },
   {
     "galarId": "019",
+    "nationalId": "163",
     "nameFr": "Hoothoot",
-    "nameEn": "",
+    "nameEn": "Hoothoot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Sleepwood",
@@ -184,8 +266,13 @@
   },
   {
     "galarId": "020",
+    "nationalId": "164",
     "nameFr": "Noarfang",
-    "nameEn": "",
+    "nameEn": "Noctowl",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "evo": "Évolution de Hoothoot au niveau 20",
     "localisation": [
       "Abords de Motorby",
@@ -196,8 +283,12 @@
   },
   {
     "galarId": "021",
+    "nationalId": "821",
     "nameFr": "Minisange",
-    "nameEn": "",
+    "nameEn": "Rookidee",
+    "types": [
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Sleepwood",
@@ -209,8 +300,12 @@
   },
   {
     "galarId": "022",
+    "nationalId": "822",
     "nameFr": "Bleuseille",
-    "nameEn": "",
+    "nameEn": "Corvisquire",
+    "types": [
+      "Flying"
+    ],
     "evo": "Évolution de Minisange au niveau 18",
     "localisation": [
       "Route 3",
@@ -222,8 +317,13 @@
   },
   {
     "galarId": "023",
+    "nationalId": "823",
     "nameFr": "Corvaillus",
-    "nameEn": "",
+    "nameEn": "Corviknight",
+    "types": [
+      "Flying",
+      "Steel"
+    ],
     "evo": "Évolution de Bleuseille au niveau 38",
     "localisation": [
       "Forêt de Sleepwood",
@@ -239,8 +339,12 @@
   },
   {
     "galarId": "024",
+    "nationalId": "819",
     "nameFr": "Rongourmand",
-    "nameEn": "",
+    "nameEn": "Skwovet",
+    "types": [
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Sleepwood",
@@ -258,8 +362,12 @@
   },
   {
     "galarId": "025",
+    "nationalId": "820",
     "nameFr": "Rongrigou",
-    "nameEn": "",
+    "nameEn": "Greedent",
+    "types": [
+      "Normal"
+    ],
     "evo": "Évolution de Rongourmand au niveau 24",
     "localisation": [
       "Route 6",
@@ -277,8 +385,13 @@
   },
   {
     "galarId": "026",
+    "nationalId": "519",
     "nameFr": "Poichigeon",
-    "nameEn": "",
+    "nameEn": "Pidove",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Plaine Verdoyante",
@@ -289,8 +402,13 @@
   },
   {
     "galarId": "027",
+    "nationalId": "520",
     "nameFr": "Colombeau",
-    "nameEn": "",
+    "nameEn": "Tranquill",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "evo": "Évolution de Poichigeon au niveau 21",
     "localisation": [
       "Miroir du Géant",
@@ -301,8 +419,13 @@
   },
   {
     "galarId": "028",
+    "nationalId": "521",
     "nameFr": "Déflaisan",
-    "nameEn": "",
+    "nameEn": "Unfezant",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "evo": "Évolution de Colombeau au niveau 32",
     "localisation": [
       "Oeil du Lac",
@@ -313,8 +436,12 @@
   },
   {
     "galarId": "029",
+    "nationalId": "827",
     "nameFr": "Goupilou",
-    "nameEn": "",
+    "nameEn": "Nickit",
+    "types": [
+      "Dark"
+    ],
     "evo": "",
     "localisation": [
       "Route 1",
@@ -326,8 +453,12 @@
   },
   {
     "galarId": "030",
+    "nationalId": "828",
     "nameFr": "Roublenard",
-    "nameEn": "",
+    "nameEn": "Thievul",
+    "types": [
+      "Dark"
+    ],
     "evo": "Évolution de Goupilou au niveau 18",
     "localisation": [
       "Route 7",
@@ -339,8 +470,13 @@
   },
   {
     "galarId": "031",
+    "nationalId": "263",
     "nameFr": "Zigzaton",
-    "nameEn": "",
+    "nameEn": "Zigzagoon",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Route 2",
@@ -352,8 +488,13 @@
   },
   {
     "galarId": "032",
+    "nationalId": "264",
     "nameFr": "Linéon",
-    "nameEn": "",
+    "nameEn": "Linoone",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
     "evo": "Évolution de Zigzaton (Galar) au niveau 20",
     "localisation": [
       "Coiffe du Géant"
@@ -361,8 +502,13 @@
   },
   {
     "galarId": "033",
+    "nationalId": "862",
     "nameFr": "Ixon",
-    "nameEn": "",
+    "nameEn": "Obstagoon",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
     "evo": "Évolution de Linéon (Galar) au niveau 35 de nuit",
     "localisation": [
       "Route 2",
@@ -372,8 +518,12 @@
   },
   {
     "galarId": "034",
+    "nationalId": "831",
     "nameFr": "Moumouton",
-    "nameEn": "",
+    "nameEn": "Wooloo",
+    "types": [
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Route 1",
@@ -383,8 +533,12 @@
   },
   {
     "galarId": "035",
+    "nationalId": "832",
     "nameFr": "Moumouflon",
-    "nameEn": "",
+    "nameEn": "Dubwool",
+    "types": [
+      "Normal"
+    ],
     "evo": "Évolution de Moumouton au niveau 24",
     "localisation": [
       "Berges de Motorby",
@@ -395,8 +549,13 @@
   },
   {
     "galarId": "036",
+    "nationalId": "270",
     "nameFr": "Nénupiot",
-    "nameEn": "",
+    "nameEn": "Lotad",
+    "types": [
+      "Water",
+      "Grass"
+    ],
     "evo": "",
     "localisation": [
       "Route 2",
@@ -407,8 +566,13 @@
   },
   {
     "galarId": "037",
+    "nationalId": "271",
     "nameFr": "Lombre",
-    "nameEn": "",
+    "nameEn": "Lombre",
+    "types": [
+      "Water",
+      "Grass"
+    ],
     "evo": "Évolution de Nénupiot au niveau 14",
     "localisation": [
       "Route 5",
@@ -420,8 +584,13 @@
   },
   {
     "galarId": "038",
+    "nationalId": "272",
     "nameFr": "Ludicolo",
-    "nameEn": "",
+    "nameEn": "Ludicolo",
+    "types": [
+      "Water",
+      "Grass"
+    ],
     "evo": "Évolution de Lombre avec Pierre Eau",
     "localisation": [
       "Bois de Clairjour"
@@ -429,29 +598,47 @@
   },
   {
     "galarId": "039",
+    "nationalId": "273",
     "nameFr": "Grainipiot",
-    "nameEn": "",
+    "nameEn": "Seedot",
+    "types": [
+      "Grass"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "040",
+    "nationalId": "274",
     "nameFr": "Pifeuil",
-    "nameEn": "",
+    "nameEn": "Nuzleaf",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
     "evo": "Évolution de Grainipiot au niveau 14",
     "localisation": []
   },
   {
     "galarId": "041",
+    "nationalId": "275",
     "nameFr": "Tengalice",
-    "nameEn": "",
+    "nameEn": "Shiftry",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
     "evo": "Évolution de Pifeuil avec Pierre Plante",
     "localisation": []
   },
   {
     "galarId": "042",
+    "nationalId": "833",
     "nameFr": "Khélocrok",
-    "nameEn": "",
+    "nameEn": "Chewtle",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 2",
@@ -468,8 +655,13 @@
   },
   {
     "galarId": "043",
+    "nationalId": "834",
     "nameFr": "Torgamord",
-    "nameEn": "",
+    "nameEn": "Drednaw",
+    "types": [
+      "Water",
+      "Rock"
+    ],
     "evo": "Évolution de Khélocrok au niveau 22",
     "localisation": [
       "Route 2",
@@ -485,8 +677,12 @@
   },
   {
     "galarId": "044",
+    "nationalId": "509",
     "nameFr": "Chacripan",
-    "nameEn": "",
+    "nameEn": "Purrloin",
+    "types": [
+      "Dark"
+    ],
     "evo": "",
     "localisation": [
       "Route 2",
@@ -500,8 +696,12 @@
   },
   {
     "galarId": "045",
+    "nationalId": "510",
     "nameFr": "Léopardus",
-    "nameEn": "",
+    "nameEn": "Liepard",
+    "types": [
+      "Dark"
+    ],
     "evo": "Évolution de Chacripan au niveau 20",
     "localisation": [
       "Route 7",
@@ -515,8 +715,12 @@
   },
   {
     "galarId": "046",
+    "nationalId": "835",
     "nameFr": "Voltoutou",
-    "nameEn": "",
+    "nameEn": "Yamper",
+    "types": [
+      "Electric"
+    ],
     "evo": "",
     "localisation": [
       "Route 2",
@@ -528,8 +732,12 @@
   },
   {
     "galarId": "047",
+    "nationalId": "836",
     "nameFr": "Fulgudog",
-    "nameEn": "",
+    "nameEn": "Boltund",
+    "types": [
+      "Electric"
+    ],
     "evo": "Évolution de Voltoutou au niveau 25",
     "localisation": [
       "Berges de Motorby",
@@ -539,8 +747,12 @@
   },
   {
     "galarId": "048",
+    "nationalId": "659",
     "nameFr": "Sapereau",
-    "nameEn": "",
+    "nameEn": "Bunnelby",
+    "types": [
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Bois de Clairjour",
@@ -553,8 +765,13 @@
   },
   {
     "galarId": "049",
+    "nationalId": "660",
     "nameFr": "Excavarenne",
-    "nameEn": "",
+    "nameEn": "Diggersby",
+    "types": [
+      "Normal",
+      "Ground"
+    ],
     "evo": "Évolution de Sapereau au niveau 20",
     "localisation": [
       "Lac Coupenotte Ouest",
@@ -568,8 +785,12 @@
   },
   {
     "galarId": "050",
+    "nationalId": "572",
     "nameFr": "Chinchidou",
-    "nameEn": "",
+    "nameEn": "Minccino",
+    "types": [
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Route 5",
@@ -580,8 +801,12 @@
   },
   {
     "galarId": "051",
+    "nationalId": "573",
     "nameFr": "Pashmilla",
-    "nameEn": "",
+    "nameEn": "Cinccino",
+    "types": [
+      "Normal"
+    ],
     "evo": "Évolution de Chinchidou avec Pierre Éclat",
     "localisation": [
       "Coiffe du Géant"
@@ -589,8 +814,12 @@
   },
   {
     "galarId": "052",
+    "nationalId": "761",
     "nameFr": "Croquine",
-    "nameEn": "",
+    "nameEn": "Bounsweet",
+    "types": [
+      "Grass"
+    ],
     "evo": "",
     "localisation": [
       "Bois de Clairjour",
@@ -603,8 +832,12 @@
   },
   {
     "galarId": "053",
+    "nationalId": "762",
     "nameFr": "Candine",
-    "nameEn": "",
+    "nameEn": "Steenee",
+    "types": [
+      "Grass"
+    ],
     "evo": "Évolution de Croquine au niveau 18",
     "localisation": [
       "Oeil du Lac"
@@ -612,8 +845,12 @@
   },
   {
     "galarId": "054",
+    "nationalId": "763",
     "nameFr": "Sucreine",
-    "nameEn": "",
+    "nameEn": "Tsareena",
+    "types": [
+      "Grass"
+    ],
     "evo": "Évolution de Candine par montée de niveau en ayant appris Écrasement",
     "localisation": [
       "Plaine Rocheuse"
@@ -621,8 +858,13 @@
   },
   {
     "galarId": "055",
+    "nationalId": "043",
     "nameFr": "Mystherbe",
-    "nameEn": "",
+    "nameEn": "Oddish",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "evo": "",
     "localisation": [
       "Bois de Clairjour",
@@ -633,8 +875,13 @@
   },
   {
     "galarId": "056",
+    "nationalId": "044",
     "nameFr": "Ortide",
-    "nameEn": "",
+    "nameEn": "Gloom",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "evo": "Évolution de Mystherbe au niveau 21",
     "localisation": [
       "Coiffe du Géant",
@@ -645,8 +892,13 @@
   },
   {
     "galarId": "057",
+    "nationalId": "045",
     "nameFr": "Rafflesia",
-    "nameEn": "",
+    "nameEn": "Vileplume",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "evo": "Évolution de Ortide avec Pierre Plante",
     "localisation": [
       "Bois de Clairjour",
@@ -656,8 +908,12 @@
   },
   {
     "galarId": "058",
+    "nationalId": "182",
     "nameFr": "Joliflor",
-    "nameEn": "",
+    "nameEn": "Bellossom",
+    "types": [
+      "Grass"
+    ],
     "evo": "Évolution de Ortide avec Pierre Soleil",
     "localisation": [
       "Miroir du Géant"
@@ -665,8 +921,13 @@
   },
   {
     "galarId": "059",
+    "nationalId": "406",
     "nameFr": "Rozbouton",
-    "nameEn": "",
+    "nameEn": "Budew",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "evo": "Reproduction de Rosélia avec Encens Fleur",
     "localisation": [
       "Route 4",
@@ -678,8 +939,13 @@
   },
   {
     "galarId": "060",
+    "nationalId": "315",
     "nameFr": "Rosélia",
-    "nameEn": "",
+    "nameEn": "Roselia",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "evo": "Évolution de Rozbouton par montée de niveau de jour avec amitié max",
     "localisation": [
       "Fosse des Sables",
@@ -691,8 +957,13 @@
   },
   {
     "galarId": "061",
+    "nationalId": "407",
     "nameFr": "Roserade",
-    "nameEn": "",
+    "nameEn": "Roserade",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "evo": "Évolution de Rosélia avec Pierre Éclat",
     "localisation": [
       "Plateau de Kickenham"
@@ -700,8 +971,13 @@
   },
   {
     "galarId": "062",
+    "nationalId": "278",
     "nameFr": "Goélise",
-    "nameEn": "",
+    "nameEn": "Wingull",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Lac Coupenotte Est",
@@ -714,8 +990,13 @@
   },
   {
     "galarId": "063",
+    "nationalId": "279",
     "nameFr": "Bekipan",
-    "nameEn": "",
+    "nameEn": "Pelipper",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "evo": "Évolution de Goélise au niveau 25",
     "localisation": [
       "Route 9",
@@ -732,8 +1013,13 @@
   },
   {
     "galarId": "064",
+    "nationalId": "595",
     "nameFr": "Statitik",
-    "nameEn": "",
+    "nameEn": "Joltik",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -749,8 +1035,13 @@
   },
   {
     "galarId": "065",
+    "nationalId": "596",
     "nameFr": "Mygavolt",
-    "nameEn": "",
+    "nameEn": "Galvantula",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
     "evo": "Évolution de Statitik au niveau 36",
     "localisation": [
       "Route 7",
@@ -761,8 +1052,12 @@
   },
   {
     "galarId": "066",
+    "nationalId": "309",
     "nameFr": "Dynavolt",
-    "nameEn": "",
+    "nameEn": "Electrike",
+    "types": [
+      "Electric"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -780,8 +1075,12 @@
   },
   {
     "galarId": "067",
+    "nationalId": "310",
     "nameFr": "Élecsprint",
-    "nameEn": "",
+    "nameEn": "Manectric",
+    "types": [
+      "Electric"
+    ],
     "evo": "Évolution de Dynavolt au niveau 26",
     "localisation": [
       "Oeil du Lac",
@@ -791,8 +1090,12 @@
   },
   {
     "galarId": "068",
+    "nationalId": "037",
     "nameFr": "Goupix",
-    "nameEn": "",
+    "nameEn": "Vulpix",
+    "types": [
+      "Fire"
+    ],
     "evo": "",
     "localisation": [
       "Fosse des Sables",
@@ -803,15 +1106,23 @@
   },
   {
     "galarId": "069",
+    "nationalId": "038",
     "nameFr": "Feunard",
-    "nameEn": "",
+    "nameEn": "Ninetales",
+    "types": [
+      "Fire"
+    ],
     "evo": "Évolution de Goupix avec Pierre Feu",
     "localisation": []
   },
   {
     "galarId": "070",
+    "nationalId": "058",
     "nameFr": "Caninos",
-    "nameEn": "",
+    "nameEn": "Growlithe",
+    "types": [
+      "Fire"
+    ],
     "evo": "",
     "localisation": [
       "Bois de Clairjour",
@@ -828,15 +1139,23 @@
   },
   {
     "galarId": "071",
+    "nationalId": "059",
     "nameFr": "Arcanin",
-    "nameEn": "",
+    "nameEn": "Arcanine",
+    "types": [
+      "Fire"
+    ],
     "evo": "Évolution de Caninos avec Pierre Feu",
     "localisation": []
   },
   {
     "galarId": "072",
+    "nationalId": "582",
     "nameFr": "Sorbébé",
-    "nameEn": "",
+    "nameEn": "Vanillite",
+    "types": [
+      "Ice"
+    ],
     "evo": "",
     "localisation": [
       "Berges de Motorby",
@@ -855,8 +1174,12 @@
   },
   {
     "galarId": "073",
+    "nationalId": "583",
     "nameFr": "Sorboul",
-    "nameEn": "",
+    "nameEn": "Vanillish",
+    "types": [
+      "Ice"
+    ],
     "evo": "Évolution de Sorbébé au niveau 35",
     "localisation": [
       "Route 8",
@@ -869,8 +1192,12 @@
   },
   {
     "galarId": "074",
+    "nationalId": "584",
     "nameFr": "Sorbouboul",
-    "nameEn": "",
+    "nameEn": "Vanilluxe",
+    "types": [
+      "Ice"
+    ],
     "evo": "Évolution de Sorboul au niveau 47",
     "localisation": [
       "Route 10",
@@ -882,8 +1209,13 @@
   },
   {
     "galarId": "075",
+    "nationalId": "220",
     "nameFr": "Marcacrin",
-    "nameEn": "",
+    "nameEn": "Swinub",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Plaine Verdoyante",
@@ -894,8 +1226,13 @@
   },
   {
     "galarId": "076",
+    "nationalId": "221",
     "nameFr": "Cochignon",
-    "nameEn": "",
+    "nameEn": "Piloswine",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
     "evo": "Évolution de Marcacrin au niveau 33",
     "localisation": [
       "Fosse des Sables",
@@ -906,15 +1243,25 @@
   },
   {
     "galarId": "077",
+    "nationalId": "473",
     "nameFr": "Mammochon",
-    "nameEn": "",
+    "nameEn": "Mamoswine",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
     "evo": "Évolution de Cochignon par montée de niveau en ayant appris Pouvoir Antique",
     "localisation": []
   },
   {
     "galarId": "078",
+    "nationalId": "225",
     "nameFr": "Cadoizo",
-    "nameEn": "",
+    "nameEn": "Delibird",
+    "types": [
+      "Ice",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -934,8 +1281,12 @@
   },
   {
     "galarId": "079",
+    "nationalId": "361",
     "nameFr": "Stalgamin",
-    "nameEn": "",
+    "nameEn": "Snorunt",
+    "types": [
+      "Ice"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -953,8 +1304,12 @@
   },
   {
     "galarId": "080",
+    "nationalId": "362",
     "nameFr": "Oniglali",
-    "nameEn": "",
+    "nameEn": "Glalie",
+    "types": [
+      "Ice"
+    ],
     "evo": "Évolution de Stalgamin au niveau 42",
     "localisation": [
       "Route 9",
@@ -966,15 +1321,25 @@
   },
   {
     "galarId": "081",
+    "nationalId": "478",
     "nameFr": "Momartik",
-    "nameEn": "",
+    "nameEn": "Froslass",
+    "types": [
+      "Ice",
+      "Ghost"
+    ],
     "evo": "Évolution de Stalgamin femelle avec Pierre Aube",
     "localisation": []
   },
   {
     "galarId": "082",
+    "nationalId": "343",
     "nameFr": "Balbuto",
-    "nameEn": "",
+    "nameEn": "Baltoy",
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Bois de Clairjour",
@@ -992,8 +1357,13 @@
   },
   {
     "galarId": "083",
+    "nationalId": "344",
     "nameFr": "Kaorine",
-    "nameEn": "",
+    "nameEn": "Claydol",
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
     "evo": "Évolution de Balbuto au niveau 36",
     "localisation": [
       "Bois de Clairjour",
@@ -1004,8 +1374,12 @@
   },
   {
     "galarId": "084",
+    "nationalId": "749",
     "nameFr": "Tiboudet",
-    "nameEn": "",
+    "nameEn": "Mudbray",
+    "types": [
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Route 3",
@@ -1020,8 +1394,12 @@
   },
   {
     "galarId": "085",
+    "nationalId": "750",
     "nameFr": "Bourrinos",
-    "nameEn": "",
+    "nameEn": "Mudsdale",
+    "types": [
+      "Ground"
+    ],
     "evo": "Évolution de Tiboudet au niveau 30",
     "localisation": [
       "Fosse des Sables",
@@ -1033,8 +1411,13 @@
   },
   {
     "galarId": "086",
+    "nationalId": "557",
     "nameFr": "Crabicoque",
-    "nameEn": "",
+    "nameEn": "Dwebble",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
     "evo": "",
     "localisation": [
       "Lac Coupenotte Est",
@@ -1050,8 +1433,13 @@
   },
   {
     "galarId": "087",
+    "nationalId": "558",
     "nameFr": "Crabaraque",
-    "nameEn": "",
+    "nameEn": "Crustle",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
     "evo": "Évolution de Crabicoque au niveau 34",
     "localisation": [
       "Route 8",
@@ -1063,8 +1451,13 @@
   },
   {
     "galarId": "088",
+    "nationalId": "622",
     "nameFr": "Gringolem",
-    "nameEn": "",
+    "nameEn": "Golett",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -1079,8 +1472,13 @@
   },
   {
     "galarId": "089",
+    "nationalId": "623",
     "nameFr": "Golemastoc",
-    "nameEn": "",
+    "nameEn": "Golurk",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
     "evo": "Évolution de Gringolem au niveau 43",
     "localisation": [
       "Fosse des Sables",
@@ -1091,8 +1489,12 @@
   },
   {
     "galarId": "090",
+    "nationalId": "517",
     "nameFr": "Munna",
-    "nameEn": "",
+    "nameEn": "Munna",
+    "types": [
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Sleepwood",
@@ -1107,8 +1509,12 @@
   },
   {
     "galarId": "091",
+    "nationalId": "518",
     "nameFr": "Mushana",
-    "nameEn": "",
+    "nameEn": "Musharna",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Munna avec Pierre Lune",
     "localisation": [
       "Prairie Entre-Ponts"
@@ -1116,8 +1522,13 @@
   },
   {
     "galarId": "092",
+    "nationalId": "177",
     "nameFr": "Natu",
-    "nameEn": "",
+    "nameEn": "Natu",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Coiffe du Géant",
@@ -1130,8 +1541,13 @@
   },
   {
     "galarId": "093",
+    "nationalId": "178",
     "nameFr": "Xatu",
-    "nameEn": "",
+    "nameEn": "Xatu",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "evo": "Évolution de Natu au niveau 25",
     "localisation": [
       "Lac Coupenotte Est",
@@ -1142,8 +1558,13 @@
   },
   {
     "galarId": "094",
+    "nationalId": "759",
     "nameFr": "Nounourson",
-    "nameEn": "",
+    "nameEn": "Stufful",
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Route 5",
@@ -1157,8 +1578,13 @@
   },
   {
     "galarId": "095",
+    "nationalId": "760",
     "nameFr": "Chelours",
-    "nameEn": "",
+    "nameEn": "Bewear",
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
     "evo": "Évolution de Nounourson au niveau 27",
     "localisation": [
       "Bois de Clairjour",
@@ -1170,8 +1596,13 @@
   },
   {
     "galarId": "096",
+    "nationalId": "459",
     "nameFr": "Blizzi",
-    "nameEn": "",
+    "nameEn": "Snover",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -1191,8 +1622,13 @@
   },
   {
     "galarId": "097",
+    "nationalId": "460",
     "nameFr": "Blizzaroi",
-    "nameEn": "",
+    "nameEn": "Abomasnow",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
     "evo": "Évolution de Blizzi au niveau 40",
     "localisation": [
       "Route 10",
@@ -1205,8 +1641,12 @@
   },
   {
     "galarId": "098",
+    "nationalId": "098",
     "nameFr": "Krabby",
-    "nameEn": "",
+    "nameEn": "Krabby",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Coiffe du Géant",
@@ -1216,8 +1656,12 @@
   },
   {
     "galarId": "099",
+    "nationalId": "099",
     "nameFr": "Krabboss",
-    "nameEn": "",
+    "nameEn": "Kingler",
+    "types": [
+      "Water"
+    ],
     "evo": "Évolution de Krabby au niveau 28",
     "localisation": [
       "Route 9",
@@ -1228,8 +1672,13 @@
   },
   {
     "galarId": "100",
+    "nationalId": "194",
     "nameFr": "Axoloto",
-    "nameEn": "",
+    "nameEn": "Wooper",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Coiffe du Géant",
@@ -1240,8 +1689,13 @@
   },
   {
     "galarId": "101",
+    "nationalId": "195",
     "nameFr": "Maraiste",
-    "nameEn": "",
+    "nameEn": "Quagsire",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "evo": "Évolution de Axoloto au niveau 20",
     "localisation": [
       "Coiffe du Géant",
@@ -1252,8 +1706,12 @@
   },
   {
     "galarId": "102",
+    "nationalId": "341",
     "nameFr": "Écrapince",
-    "nameEn": "",
+    "nameEn": "Corphish",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar n°2",
@@ -1263,8 +1721,13 @@
   },
   {
     "galarId": "103",
+    "nationalId": "342",
     "nameFr": "Colhomard",
-    "nameEn": "",
+    "nameEn": "Crawdaunt",
+    "types": [
+      "Water",
+      "Dark"
+    ],
     "evo": "Évolution de Écrapince au niveau 30",
     "localisation": [
       "Greenbury",
@@ -1275,8 +1738,13 @@
   },
   {
     "galarId": "104",
+    "nationalId": "290",
     "nameFr": "Ningale",
-    "nameEn": "",
+    "nameEn": "Nincada",
+    "types": [
+      "Bug",
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Route 5",
@@ -1286,8 +1754,13 @@
   },
   {
     "galarId": "105",
+    "nationalId": "291",
     "nameFr": "Ninjask",
-    "nameEn": "",
+    "nameEn": "Ninjask",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "evo": "Évolution de Ningale au niveau 20",
     "localisation": [
       "Plaine Rocheuse",
@@ -1296,15 +1769,24 @@
   },
   {
     "galarId": "106",
+    "nationalId": "292",
     "nameFr": "Munja",
-    "nameEn": "",
+    "nameEn": "Shedinja",
+    "types": [
+      "Bug",
+      "Ghost"
+    ],
     "evo": "Évolution de Ningale au niveau 20 avec une place libre dans l'équipe",
     "localisation": []
   },
   {
     "galarId": "107",
+    "nationalId": "236",
     "nameFr": "Debugant",
-    "nameEn": "",
+    "nameEn": "Tyrogue",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Route 3",
@@ -1318,15 +1800,23 @@
   },
   {
     "galarId": "108",
+    "nationalId": "106",
     "nameFr": "Kicklee",
-    "nameEn": "",
+    "nameEn": "Hitmonlee",
+    "types": [
+      "Fighting"
+    ],
     "evo": "Évolution de Débugant au niveau 20 avec Attaque > Défense",
     "localisation": []
   },
   {
     "galarId": "109",
+    "nationalId": "107",
     "nameFr": "Tygnon",
-    "nameEn": "",
+    "nameEn": "Hitmonchan",
+    "types": [
+      "Fighting"
+    ],
     "evo": "Évolution de Débugant au niveau 20 avec Défense > Attaque",
     "localisation": [
       "Fosse des Sables",
@@ -1335,8 +1825,12 @@
   },
   {
     "galarId": "110",
+    "nationalId": "237",
     "nameFr": "Kapoera",
-    "nameEn": "",
+    "nameEn": "Hitmontop",
+    "types": [
+      "Fighting"
+    ],
     "evo": "Évolution de Débugant au niveau 20 avec Défense = Attaque",
     "localisation": [
       "Lac Ouragan"
@@ -1344,8 +1838,12 @@
   },
   {
     "galarId": "111",
+    "nationalId": "674",
     "nameFr": "Pandespiègle",
-    "nameEn": "",
+    "nameEn": "Pancham",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Route 3",
@@ -1356,8 +1854,13 @@
   },
   {
     "galarId": "112",
+    "nationalId": "675",
     "nameFr": "Pandarbare",
-    "nameEn": "",
+    "nameEn": "Pangoro",
+    "types": [
+      "Fighting",
+      "Dark"
+    ],
     "evo": "Évolution de Pandespiègle au niveau 32 avec Pokémon Ténèbres dans l'équipe",
     "localisation": [
       "Bois de Clairjour",
@@ -1367,8 +1870,12 @@
   },
   {
     "galarId": "113",
+    "nationalId": "599",
     "nameFr": "Tic",
-    "nameEn": "",
+    "nameEn": "Klink",
+    "types": [
+      "Steel"
+    ],
     "evo": "",
     "localisation": [
       "Route 3",
@@ -1382,8 +1889,12 @@
   },
   {
     "galarId": "114",
+    "nationalId": "600",
     "nameFr": "Clic",
-    "nameEn": "",
+    "nameEn": "Klang",
+    "types": [
+      "Steel"
+    ],
     "evo": "Évolution de Tic au niveau 38",
     "localisation": [
       "Route 10",
@@ -1393,8 +1904,12 @@
   },
   {
     "galarId": "115",
+    "nationalId": "601",
     "nameFr": "Cliticlic",
-    "nameEn": "",
+    "nameEn": "Klinklang",
+    "types": [
+      "Steel"
+    ],
     "evo": "Évolution de Clic au niveau 49",
     "localisation": [
       "Lac Ouragan"
@@ -1402,8 +1917,13 @@
   },
   {
     "galarId": "116",
+    "nationalId": "415",
     "nameFr": "Apitrini",
-    "nameEn": "",
+    "nameEn": "Combee",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Plaine Verdoyante"
@@ -1411,8 +1931,13 @@
   },
   {
     "galarId": "117",
+    "nationalId": "416",
     "nameFr": "Apireine",
-    "nameEn": "",
+    "nameEn": "Vespiquen",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "evo": "Évolution de Apitrini femelle au niveau 21",
     "localisation": [
       "Plaine Verdoyante"
@@ -1420,8 +1945,13 @@
   },
   {
     "galarId": "118",
+    "nationalId": "436",
     "nameFr": "Archéomire",
-    "nameEn": "",
+    "nameEn": "Bronzor",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Lac Milobellus Sud",
@@ -1431,8 +1961,13 @@
   },
   {
     "galarId": "119",
+    "nationalId": "437",
     "nameFr": "Archéodong",
-    "nameEn": "",
+    "nameEn": "Bronzong",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
     "evo": "Évolution de Archéomire au niveau 33",
     "localisation": [
       "Route 8",
@@ -1446,8 +1981,13 @@
   },
   {
     "galarId": "120",
+    "nationalId": "280",
     "nameFr": "Tarsal",
-    "nameEn": "",
+    "nameEn": "Ralts",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "evo": "",
     "localisation": [
       "Bois de Clairjour",
@@ -1460,8 +2000,13 @@
   },
   {
     "galarId": "121",
+    "nationalId": "281",
     "nameFr": "Kirlia",
-    "nameEn": "",
+    "nameEn": "Kirlia",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "evo": "Évolution de Tarsal au niveau 20",
     "localisation": [
       "Plaine Verdoyante"
@@ -1469,8 +2014,13 @@
   },
   {
     "galarId": "122",
+    "nationalId": "282",
     "nameFr": "Gardevoir",
-    "nameEn": "",
+    "nameEn": "Gardevoir",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "evo": "Évolution de Kirlia au niveau 30",
     "localisation": [
       "Fosse des Sables",
@@ -1480,8 +2030,13 @@
   },
   {
     "galarId": "123",
+    "nationalId": "475",
     "nameFr": "Gallame",
-    "nameEn": "",
+    "nameEn": "Gallade",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
     "evo": "Évolution de Kirlia mâle avec Pierre Aube",
     "localisation": [
       "Prairie Entre-Ponts"
@@ -1489,8 +2044,13 @@
   },
   {
     "galarId": "124",
+    "nationalId": "425",
     "nameFr": "Baudrive",
-    "nameEn": "",
+    "nameEn": "Drifloon",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Route 5",
@@ -1501,8 +2061,13 @@
   },
   {
     "galarId": "125",
+    "nationalId": "426",
     "nameFr": "Grodrive",
-    "nameEn": "",
+    "nameEn": "Drifblim",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
     "evo": "Évolution de Baudrive au niveau 28",
     "localisation": [
       "Oeil du Lac",
@@ -1512,8 +2077,12 @@
   },
   {
     "galarId": "126",
+    "nationalId": "829",
     "nameFr": "Tournicoton",
-    "nameEn": "",
+    "nameEn": "Gossifleur",
+    "types": [
+      "Grass"
+    ],
     "evo": "",
     "localisation": [
       "Route 2",
@@ -1523,8 +2092,12 @@
   },
   {
     "galarId": "127",
+    "nationalId": "830",
     "nameFr": "Blancoton",
-    "nameEn": "",
+    "nameEn": "Eldegoss",
+    "types": [
+      "Grass"
+    ],
     "evo": "Évolution de Tournicoton au niveau 20",
     "localisation": [
       "Route 5",
@@ -1536,8 +2109,12 @@
   },
   {
     "galarId": "128",
+    "nationalId": "420",
     "nameFr": "Ceribou",
-    "nameEn": "",
+    "nameEn": "Cherubi",
+    "types": [
+      "Grass"
+    ],
     "evo": "",
     "localisation": [
       "Route 3",
@@ -1557,15 +2134,24 @@
   },
   {
     "galarId": "129",
+    "nationalId": "421",
     "nameFr": "Ceriflor",
-    "nameEn": "",
+    "nameEn": "Cherrim",
+    "types": [
+      "Grass"
+    ],
     "evo": "Évolution de Ceribou au niveau 25",
     "localisation": []
   },
   {
     "galarId": "130",
+    "nationalId": "434",
     "nameFr": "Moufouette",
-    "nameEn": "",
+    "nameEn": "Stunky",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
     "evo": "",
     "localisation": [
       "Route 3",
@@ -1577,8 +2163,13 @@
   },
   {
     "galarId": "131",
+    "nationalId": "435",
     "nameFr": "Moufflair",
-    "nameEn": "",
+    "nameEn": "Skuntank",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
     "evo": "Évolution de Moufouette au niveau 34",
     "localisation": [
       "Fosse des Sables",
@@ -1589,8 +2180,12 @@
   },
   {
     "galarId": "132",
+    "nationalId": "535",
     "nameFr": "Tritonde",
-    "nameEn": "",
+    "nameEn": "Tympole",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Bois de Clairjour",
@@ -1602,8 +2197,13 @@
   },
   {
     "galarId": "133",
+    "nationalId": "536",
     "nameFr": "Batracné",
-    "nameEn": "",
+    "nameEn": "Palpitoad",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "evo": "Évolution de Tritonde au niveau 25",
     "localisation": [
       "Coiffe du Géant",
@@ -1618,8 +2218,13 @@
   },
   {
     "galarId": "134",
+    "nationalId": "537",
     "nameFr": "Crapustule",
-    "nameEn": "",
+    "nameEn": "Seismitoad",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "evo": "Évolution de Batracné au niveau 36",
     "localisation": [
       "Route 7",
@@ -1634,8 +2239,12 @@
   },
   {
     "galarId": "135",
+    "nationalId": "355",
     "nameFr": "Skelénox",
-    "nameEn": "",
+    "nameEn": "Duskull",
+    "types": [
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -1648,8 +2257,12 @@
   },
   {
     "galarId": "136",
+    "nationalId": "356",
     "nameFr": "Téraclope",
-    "nameEn": "",
+    "nameEn": "Dusclops",
+    "types": [
+      "Ghost"
+    ],
     "evo": "Évolution de Skelénox au niveau 37",
     "localisation": [
       "Route 8",
@@ -1658,8 +2271,12 @@
   },
   {
     "galarId": "137",
+    "nationalId": "477",
     "nameFr": "Noctunoir",
-    "nameEn": "",
+    "nameEn": "Dusknoir",
+    "types": [
+      "Ghost"
+    ],
     "evo": "Évolution de Téraclope par échange avec Tissu Fauche tenu",
     "localisation": [
       "Plaine Rocheuse"
@@ -1667,8 +2284,12 @@
   },
   {
     "galarId": "138",
+    "nationalId": "066",
     "nameFr": "Machoc",
-    "nameEn": "",
+    "nameEn": "Machop",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Route 3",
@@ -1682,8 +2303,12 @@
   },
   {
     "galarId": "139",
+    "nationalId": "067",
     "nameFr": "Machopeur",
-    "nameEn": "",
+    "nameEn": "Machoke",
+    "types": [
+      "Fighting"
+    ],
     "evo": "Évolution de Machoc au niveau 28",
     "localisation": [
       "Lac Milobellus Sud",
@@ -1695,8 +2320,12 @@
   },
   {
     "galarId": "140",
+    "nationalId": "068",
     "nameFr": "Mackogneur",
-    "nameEn": "",
+    "nameEn": "Machamp",
+    "types": [
+      "Fighting"
+    ],
     "evo": "Évolution de Machopeur par échange",
     "localisation": [
       "Miroir du Géant"
@@ -1704,8 +2333,13 @@
   },
   {
     "galarId": "141",
+    "nationalId": "092",
     "nameFr": "Fantominus",
-    "nameEn": "",
+    "nameEn": "Gastly",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
     "evo": "",
     "localisation": [
       "Lac Milobellus Nord",
@@ -1716,8 +2350,13 @@
   },
   {
     "galarId": "142",
+    "nationalId": "093",
     "nameFr": "Spectrum",
-    "nameEn": "",
+    "nameEn": "Haunter",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
     "evo": "Évolution de Fantominus au niveau 25",
     "localisation": [
       "Route 8",
@@ -1728,8 +2367,13 @@
   },
   {
     "galarId": "143",
+    "nationalId": "094",
     "nameFr": "Ectoplasma",
-    "nameEn": "",
+    "nameEn": "Gengar",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
     "evo": "Évolution de Spectrum par échange",
     "localisation": [
       "Coiffe du Géant"
@@ -1737,8 +2381,12 @@
   },
   {
     "galarId": "144",
+    "nationalId": "129",
     "nameFr": "Magicarpe",
-    "nameEn": "",
+    "nameEn": "Magikarp",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Sleepwood",
@@ -1757,8 +2405,13 @@
   },
   {
     "galarId": "145",
+    "nationalId": "130",
     "nameFr": "Léviator",
-    "nameEn": "",
+    "nameEn": "Gyarados",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "evo": "Évolution de Magicarpe au niveau 20",
     "localisation": [
       "Route 2",
@@ -1774,8 +2427,12 @@
   },
   {
     "galarId": "146",
+    "nationalId": "118",
     "nameFr": "Poissirène",
-    "nameEn": "",
+    "nameEn": "Goldeen",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -1791,8 +2448,12 @@
   },
   {
     "galarId": "147",
+    "nationalId": "119",
     "nameFr": "Poissoroy",
-    "nameEn": "",
+    "nameEn": "Seaking",
+    "types": [
+      "Water"
+    ],
     "evo": "Évolution de Poissirène au niveau 33",
     "localisation": [
       "Lac Coupenotte Est",
@@ -1804,8 +2465,12 @@
   },
   {
     "galarId": "148",
+    "nationalId": "223",
     "nameFr": "Rémoraid",
-    "nameEn": "",
+    "nameEn": "Remoraid",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 9",
@@ -1815,8 +2480,12 @@
   },
   {
     "galarId": "149",
+    "nationalId": "224",
     "nameFr": "Octillery",
-    "nameEn": "",
+    "nameEn": "Octillery",
+    "types": [
+      "Water"
+    ],
     "evo": "Évolution de Rémoraid au niveau 25",
     "localisation": [
       "Route 9",
@@ -1826,8 +2495,12 @@
   },
   {
     "galarId": "150",
+    "nationalId": "090",
     "nameFr": "Kokiyas",
-    "nameEn": "",
+    "nameEn": "Shellder",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Lac Coupenotte Est",
@@ -1837,8 +2510,13 @@
   },
   {
     "galarId": "151",
+    "nationalId": "091",
     "nameFr": "Crustabri",
-    "nameEn": "",
+    "nameEn": "Cloyster",
+    "types": [
+      "Water",
+      "Ice"
+    ],
     "evo": "Évolution de Kokiyas avec Pierre Eau",
     "localisation": [
       "Siège du Géant"
@@ -1846,8 +2524,12 @@
   },
   {
     "galarId": "152",
+    "nationalId": "349",
     "nameFr": "Barpau",
-    "nameEn": "",
+    "nameEn": "Feebas",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 2"
@@ -1855,8 +2537,12 @@
   },
   {
     "galarId": "153",
+    "nationalId": "350",
     "nameFr": "Milobellus",
-    "nameEn": "",
+    "nameEn": "Milotic",
+    "types": [
+      "Water"
+    ],
     "evo": "Évolution de Barpau par échange avec Bel'Écaille tenu",
     "localisation": [
       "Lac Ouragan",
@@ -1865,8 +2551,12 @@
   },
   {
     "galarId": "154",
+    "nationalId": "550",
     "nameFr": "Bargantua",
-    "nameEn": "",
+    "nameEn": "Basculin",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Skifford",
@@ -1876,8 +2566,12 @@
   },
   {
     "galarId": "155",
+    "nationalId": "746",
     "nameFr": "Froussardine",
-    "nameEn": "",
+    "nameEn": "Wishiwashi",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 9",
@@ -1889,8 +2583,12 @@
   },
   {
     "galarId": "156",
+    "nationalId": "771",
     "nameFr": "Concombaffe",
-    "nameEn": "",
+    "nameEn": "Pyukumuku",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 9",
@@ -1900,8 +2598,12 @@
   },
   {
     "galarId": "157",
+    "nationalId": "568",
     "nameFr": "Miamiasme",
-    "nameEn": "",
+    "nameEn": "Trubbish",
+    "types": [
+      "Poison"
+    ],
     "evo": "",
     "localisation": [
       "Route 3"
@@ -1909,8 +2611,12 @@
   },
   {
     "galarId": "158",
+    "nationalId": "569",
     "nameFr": "Miasmax",
-    "nameEn": "",
+    "nameEn": "Garbodor",
+    "types": [
+      "Poison"
+    ],
     "evo": "Évolution de Miamiasme au niveau 36",
     "localisation": [
       "Lac Coupenotte Est",
@@ -1920,8 +2626,13 @@
   },
   {
     "galarId": "159",
+    "nationalId": "850",
     "nameFr": "Grillepattes",
-    "nameEn": "",
+    "nameEn": "Sizzlipede",
+    "types": [
+      "Fire",
+      "Bug"
+    ],
     "evo": "",
     "localisation": [
       "Route 3",
@@ -1930,15 +2641,24 @@
   },
   {
     "galarId": "160",
+    "nationalId": "851",
     "nameFr": "Scolocendre",
-    "nameEn": "",
+    "nameEn": "Centiskorch",
+    "types": [
+      "Fire",
+      "Bug"
+    ],
     "evo": "Évolution de Grillepattes au niveau 28",
     "localisation": []
   },
   {
     "galarId": "161",
+    "nationalId": "837",
     "nameFr": "Charbi",
-    "nameEn": "",
+    "nameEn": "Rolycoly",
+    "types": [
+      "Rock"
+    ],
     "evo": "",
     "localisation": [
       "Route 3",
@@ -1949,8 +2669,13 @@
   },
   {
     "galarId": "162",
+    "nationalId": "838",
     "nameFr": "Wagomine",
-    "nameEn": "",
+    "nameEn": "Carkol",
+    "types": [
+      "Rock",
+      "Fire"
+    ],
     "evo": "Évolution de Charbi au niveau 18",
     "localisation": [
       "Mine de Galar",
@@ -1961,8 +2686,13 @@
   },
   {
     "galarId": "163",
+    "nationalId": "839",
     "nameFr": "Monthracite",
-    "nameEn": "",
+    "nameEn": "Coalossal",
+    "types": [
+      "Rock",
+      "Fire"
+    ],
     "evo": "Évolution de Wagomine au niveau 34",
     "localisation": [
       "Coiffe du Géant",
@@ -1972,8 +2702,12 @@
   },
   {
     "galarId": "164",
+    "nationalId": "050",
     "nameFr": "Taupiqueur",
-    "nameEn": "",
+    "nameEn": "Diglett",
+    "types": [
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -1984,8 +2718,12 @@
   },
   {
     "galarId": "165",
+    "nationalId": "051",
     "nameFr": "Triopikeur",
-    "nameEn": "",
+    "nameEn": "Dugtrio",
+    "types": [
+      "Ground"
+    ],
     "evo": "Évolution de Taupiqueur au niveau 26",
     "localisation": [
       "Route 6",
@@ -1998,8 +2736,12 @@
   },
   {
     "galarId": "166",
+    "nationalId": "529",
     "nameFr": "Rototaupe",
-    "nameEn": "",
+    "nameEn": "Drilbur",
+    "types": [
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar",
@@ -2012,8 +2754,13 @@
   },
   {
     "galarId": "167",
+    "nationalId": "530",
     "nameFr": "Minotaupe",
-    "nameEn": "",
+    "nameEn": "Excadrill",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
     "evo": "Évolution de Rototaupe au niveau 31",
     "localisation": [
       "Coiffe du Géant",
@@ -2023,8 +2770,12 @@
   },
   {
     "galarId": "168",
+    "nationalId": "524",
     "nameFr": "Nodulithe",
-    "nameEn": "",
+    "nameEn": "Roggenrola",
+    "types": [
+      "Rock"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar",
@@ -2035,8 +2786,12 @@
   },
   {
     "galarId": "169",
+    "nationalId": "525",
     "nameFr": "Géolithe",
-    "nameEn": "",
+    "nameEn": "Boldore",
+    "types": [
+      "Rock"
+    ],
     "evo": "Évolution de Nodulithe au niveau 25",
     "localisation": [
       "Route 8",
@@ -2048,8 +2803,12 @@
   },
   {
     "galarId": "170",
+    "nationalId": "526",
     "nameFr": "Gigalithe",
-    "nameEn": "",
+    "nameEn": "Gigalith",
+    "types": [
+      "Rock"
+    ],
     "evo": "Évolution de Géolithe par échange",
     "localisation": [
       "Fosse des Sables"
@@ -2057,8 +2816,12 @@
   },
   {
     "galarId": "171",
+    "nationalId": "532",
     "nameFr": "Charpenti",
-    "nameEn": "",
+    "nameEn": "Timburr",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar"
@@ -2066,8 +2829,12 @@
   },
   {
     "galarId": "172",
+    "nationalId": "533",
     "nameFr": "Ouvrifier",
-    "nameEn": "",
+    "nameEn": "Gurdurr",
+    "types": [
+      "Fighting"
+    ],
     "evo": "Évolution de Charpenti au niveau 25",
     "localisation": [
       "Fosse des Sables",
@@ -2076,8 +2843,12 @@
   },
   {
     "galarId": "173",
+    "nationalId": "534",
     "nameFr": "Bétochef",
-    "nameEn": "",
+    "nameEn": "Conkeldurr",
+    "types": [
+      "Fighting"
+    ],
     "evo": "Évolution de Bétochef par échange",
     "localisation": [
       "Berges de Motorby"
@@ -2085,8 +2856,13 @@
   },
   {
     "galarId": "174",
+    "nationalId": "527",
     "nameFr": "Chovsourir",
-    "nameEn": "",
+    "nameEn": "Woobat",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar",
@@ -2097,8 +2873,13 @@
   },
   {
     "galarId": "175",
+    "nationalId": "528",
     "nameFr": "Rhinolove",
-    "nameEn": "",
+    "nameEn": "Swoobat",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "evo": "Évolution de Chovsourir par montée de niveau avec amitié max",
     "localisation": [
       "Berges de Motorby"
@@ -2106,8 +2887,13 @@
   },
   {
     "galarId": "176",
+    "nationalId": "714",
     "nameFr": "Sonistrelle",
-    "nameEn": "",
+    "nameEn": "Noibat",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar n°2",
@@ -2117,8 +2903,13 @@
   },
   {
     "galarId": "177",
+    "nationalId": "715",
     "nameFr": "Bruyverne",
-    "nameEn": "",
+    "nameEn": "Noivern",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
     "evo": "Évolution de Sonistrelle au niveau 48",
     "localisation": [
       "Prairie Entre-Ponts"
@@ -2126,8 +2917,13 @@
   },
   {
     "galarId": "178",
+    "nationalId": "095",
     "nameFr": "Onix",
-    "nameEn": "",
+    "nameEn": "Onix",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Berges de Motorby",
@@ -2138,8 +2934,13 @@
   },
   {
     "galarId": "179",
+    "nationalId": "208",
     "nameFr": "Steelix",
-    "nameEn": "",
+    "nameEn": "Steelix",
+    "types": [
+      "Steel",
+      "Ground"
+    ],
     "evo": "Évolution de Onix par échange avec Peau Métal tenu",
     "localisation": [
       "Miroir du Géant",
@@ -2148,8 +2949,12 @@
   },
   {
     "galarId": "180",
+    "nationalId": "846",
     "nameFr": "Embrochet",
-    "nameEn": "",
+    "nameEn": "Arrokuda",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 2",
@@ -2159,8 +2964,12 @@
   },
   {
     "galarId": "181",
+    "nationalId": "847",
     "nameFr": "Hastacuda",
-    "nameEn": "",
+    "nameEn": "Barraskewda",
+    "types": [
+      "Water"
+    ],
     "evo": "Évolution de Embrochet au niveau 26",
     "localisation": [
       "Route 2",
@@ -2171,8 +2980,12 @@
   },
   {
     "galarId": "182",
+    "nationalId": "052",
     "nameFr": "Miaouss",
-    "nameEn": "",
+    "nameEn": "Meowth",
+    "types": [
+      "Steel"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -2181,8 +2994,12 @@
   },
   {
     "galarId": "183",
+    "nationalId": "863",
     "nameFr": "Berserkatt",
-    "nameEn": "",
+    "nameEn": "Perrserker",
+    "types": [
+      "Steel"
+    ],
     "evo": "Évolution de Miaouss (Galar) au niveau 28",
     "localisation": [
       "Route 7",
@@ -2193,15 +3010,23 @@
   },
   {
     "galarId": "184",
+    "nationalId": "053",
     "nameFr": "Persian",
-    "nameEn": "",
+    "nameEn": "Persian",
+    "types": [
+      "Normal"
+    ],
     "evo": "Évolution de Miaouss (Kanto) au niveau 28",
     "localisation": []
   },
   {
     "galarId": "185",
+    "nationalId": "868",
     "nameFr": "Crèmy",
-    "nameEn": "",
+    "nameEn": "Milcery",
+    "types": [
+      "Fairy"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -2211,15 +3036,24 @@
   },
   {
     "galarId": "186",
+    "nationalId": "869",
     "nameFr": "Charmilly",
-    "nameEn": "",
+    "nameEn": "Alcremie",
+    "types": [
+      "Fairy"
+    ],
     "evo": "Évolution de Crèmy avec des sucreries",
     "localisation": []
   },
   {
     "galarId": "187",
+    "nationalId": "742",
     "nameFr": "Bombydou",
-    "nameEn": "",
+    "nameEn": "Cutiefly",
+    "types": [
+      "Bug",
+      "Fairy"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -2230,8 +3064,13 @@
   },
   {
     "galarId": "188",
+    "nationalId": "743",
     "nameFr": "Rubombelle",
-    "nameEn": "",
+    "nameEn": "Ribombee",
+    "types": [
+      "Bug",
+      "Fairy"
+    ],
     "evo": "Évolution de Bombydou au niveau 25",
     "localisation": [
       "Berges de Motorby",
@@ -2241,8 +3080,13 @@
   },
   {
     "galarId": "189",
+    "nationalId": "597",
     "nameFr": "Grindur",
-    "nameEn": "",
+    "nameEn": "Ferroseed",
+    "types": [
+      "Grass",
+      "Steel"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -2253,8 +3097,13 @@
   },
   {
     "galarId": "190",
+    "nationalId": "598",
     "nameFr": "Noacier",
-    "nameEn": "",
+    "nameEn": "Ferrothorn",
+    "types": [
+      "Grass",
+      "Steel"
+    ],
     "evo": "Évolution de Grindur au niveau 40",
     "localisation": [
       "Fosse des Sables",
@@ -2263,8 +3112,13 @@
   },
   {
     "galarId": "191",
+    "nationalId": "710",
     "nameFr": "Pitrouille",
-    "nameEn": "",
+    "nameEn": "Pumpkaboo",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -2274,8 +3128,13 @@
   },
   {
     "galarId": "192",
+    "nationalId": "711",
     "nameFr": "Banshitrouye",
-    "nameEn": "",
+    "nameEn": "Gourgeist",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "evo": "Évolution de Pitrouille par échange",
     "localisation": [
       "Plateau de Kickenham"
@@ -2283,15 +3142,23 @@
   },
   {
     "galarId": "193",
+    "nationalId": "172",
     "nameFr": "Pichu",
-    "nameEn": "",
+    "nameEn": "Pichu",
+    "types": [
+      "Electric"
+    ],
     "evo": "Reproduction de Pikachu",
     "localisation": []
   },
   {
     "galarId": "194",
+    "nationalId": "025",
     "nameFr": "Pikachu",
-    "nameEn": "",
+    "nameEn": "Pikachu",
+    "types": [
+      "Electric"
+    ],
     "evo": "Évolution de Pichu par montée de niveau avec amitié max",
     "localisation": [
       "Route 4",
@@ -2302,15 +3169,23 @@
   },
   {
     "galarId": "195",
+    "nationalId": "026",
     "nameFr": "Raichu",
-    "nameEn": "",
+    "nameEn": "Raichu",
+    "types": [
+      "Electric"
+    ],
     "evo": "Évolution de Pikachu avec Pierre Foudre",
     "localisation": []
   },
   {
     "galarId": "196",
+    "nationalId": "133",
     "nameFr": "Évoli",
-    "nameEn": "",
+    "nameEn": "Eevee",
+    "types": [
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Route 4",
@@ -2319,8 +3194,12 @@
   },
   {
     "galarId": "197",
+    "nationalId": "134",
     "nameFr": "Aquali",
-    "nameEn": "",
+    "nameEn": "Vaporeon",
+    "types": [
+      "Water"
+    ],
     "evo": "Évolution de Évoli avec Pierre Eau",
     "localisation": [
       "Lac Ouragan"
@@ -2328,8 +3207,12 @@
   },
   {
     "galarId": "198",
+    "nationalId": "135",
     "nameFr": "Voltali",
-    "nameEn": "",
+    "nameEn": "Jolteon",
+    "types": [
+      "Electric"
+    ],
     "evo": "Évolution de Évoli avec Pierre Foudre",
     "localisation": [
       "Lac Ouragan"
@@ -2337,8 +3220,12 @@
   },
   {
     "galarId": "199",
+    "nationalId": "136",
     "nameFr": "Pyroli",
-    "nameEn": "",
+    "nameEn": "Flareon",
+    "types": [
+      "Fire"
+    ],
     "evo": "Évolution de Évoli avec Pierre Feu",
     "localisation": [
       "Lac Ouragan"
@@ -2346,8 +3233,12 @@
   },
   {
     "galarId": "200",
+    "nationalId": "196",
     "nameFr": "Mentali",
-    "nameEn": "",
+    "nameEn": "Espeon",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Évoli par montée de niveau de jour avec amitié max",
     "localisation": [
       "Lac Ouragan"
@@ -2355,8 +3246,12 @@
   },
   {
     "galarId": "201",
+    "nationalId": "197",
     "nameFr": "Noctali",
-    "nameEn": "",
+    "nameEn": "Umbreon",
+    "types": [
+      "Dark"
+    ],
     "evo": "Évolution de Évoli par montée de niveau de nuit avec amitié max",
     "localisation": [
       "Lac Ouragan"
@@ -2364,8 +3259,12 @@
   },
   {
     "galarId": "202",
+    "nationalId": "470",
     "nameFr": "Phyllali",
-    "nameEn": "",
+    "nameEn": "Leafeon",
+    "types": [
+      "Grass"
+    ],
     "evo": "Évolution de Évoli avec Pierre Plante",
     "localisation": [
       "Lac Ouragan"
@@ -2373,8 +3272,12 @@
   },
   {
     "galarId": "203",
+    "nationalId": "471",
     "nameFr": "Givrali",
-    "nameEn": "",
+    "nameEn": "Glaceon",
+    "types": [
+      "Ice"
+    ],
     "evo": "Évolution de Évoli avec Pierre Glace",
     "localisation": [
       "Lac Ouragan"
@@ -2382,8 +3285,12 @@
   },
   {
     "galarId": "204",
+    "nationalId": "700",
     "nameFr": "Nymphali",
-    "nameEn": "",
+    "nameEn": "Sylveon",
+    "types": [
+      "Fairy"
+    ],
     "evo": "Évolution de Évoli par montée de niveau avec amitié max et attaque Fée apprise",
     "localisation": [
       "Lac Ouragan"
@@ -2391,8 +3298,13 @@
   },
   {
     "galarId": "205",
+    "nationalId": "840",
     "nameFr": "Verpom",
-    "nameEn": "",
+    "nameEn": "Applin",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
     "evo": "",
     "localisation": [
       "Route 5",
@@ -2403,22 +3315,36 @@
   },
   {
     "galarId": "206",
+    "nationalId": "841",
     "nameFr": "Pomdrapi",
-    "nameEn": "",
+    "nameEn": "Flapple",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
     "evo": "Évolution de Verpom avec Pomme Acidulée (trouvable sur Épée)",
     "localisation": []
   },
   {
     "galarId": "207",
+    "nationalId": "842",
     "nameFr": "Dratatin",
-    "nameEn": "",
+    "nameEn": "Appletun",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
     "evo": "Évolution de Verpom avec Pomme Sucrée (trouvable sur Bouclier)",
     "localisation": []
   },
   {
     "galarId": "208",
+    "nationalId": "677",
     "nameFr": "Psystigri",
-    "nameEn": "",
+    "nameEn": "Espurr",
+    "types": [
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Route 5",
@@ -2428,8 +3354,12 @@
   },
   {
     "galarId": "209",
+    "nationalId": "678",
     "nameFr": "Mistigrix",
-    "nameEn": "",
+    "nameEn": "Meowstic",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Psystigri au niveau 25",
     "localisation": [
       "Route 7",
@@ -2438,22 +3368,34 @@
   },
   {
     "galarId": "210",
+    "nationalId": "684",
     "nameFr": "Sucroquin",
-    "nameEn": "",
+    "nameEn": "Swirlix",
+    "types": [
+      "Fairy"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "211",
+    "nationalId": "685",
     "nameFr": "Cupcanaille",
-    "nameEn": "",
+    "nameEn": "Slurpuff",
+    "types": [
+      "Fairy"
+    ],
     "evo": "Évolution de Sucroquin par échange avec Chantibonbon tenu",
     "localisation": []
   },
   {
     "galarId": "212",
+    "nationalId": "682",
     "nameFr": "Fluvetin",
-    "nameEn": "",
+    "nameEn": "Spritzee",
+    "types": [
+      "Fairy"
+    ],
     "evo": "",
     "localisation": [
       "Route 5",
@@ -2464,15 +3406,24 @@
   },
   {
     "galarId": "213",
+    "nationalId": "683",
     "nameFr": "Cocotine",
-    "nameEn": "",
+    "nameEn": "Aromatisse",
+    "types": [
+      "Fairy"
+    ],
     "evo": "Évolution de Fuvetin par échange avec Sachet Senteur tenu",
     "localisation": []
   },
   {
     "galarId": "214",
+    "nationalId": "751",
     "nameFr": "Araqua",
-    "nameEn": "",
+    "nameEn": "Dewpider",
+    "types": [
+      "Water",
+      "Bug"
+    ],
     "evo": "",
     "localisation": [
       "Route 5",
@@ -2482,8 +3433,13 @@
   },
   {
     "galarId": "215",
+    "nationalId": "752",
     "nameFr": "Tarenbulle",
-    "nameEn": "",
+    "nameEn": "Araquanid",
+    "types": [
+      "Water",
+      "Bug"
+    ],
     "evo": "Évolution de Araqua au niveau 22",
     "localisation": [
       "Lac Ouragan",
@@ -2492,15 +3448,23 @@
   },
   {
     "galarId": "216",
+    "nationalId": "360",
     "nameFr": "Okéoké",
-    "nameEn": "",
+    "nameEn": "Wynaut",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Reproduction de Qulbutoké avec Encens Doux",
     "localisation": []
   },
   {
     "galarId": "217",
+    "nationalId": "202",
     "nameFr": "Qulbutoké",
-    "nameEn": "",
+    "nameEn": "Wobbuffet",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Okéoké au niveau 15",
     "localisation": [
       "Route 5",
@@ -2514,22 +3478,35 @@
   },
   {
     "galarId": "218",
+    "nationalId": "083",
     "nameFr": "Canarticho",
-    "nameEn": "",
+    "nameEn": "Farfetch'd",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "219",
+    "nationalId": "865",
     "nameFr": "Palarticho",
-    "nameEn": "",
+    "nameEn": "Sirfetch'd",
+    "types": [
+      "Fighting"
+    ],
     "evo": "Évolution de Canarticho en réalisant 3 coups critiques en 1 seul combat",
     "localisation": []
   },
   {
     "galarId": "220",
+    "nationalId": "170",
     "nameFr": "Loupio",
-    "nameEn": "",
+    "nameEn": "Chinchou",
+    "types": [
+      "Water",
+      "Electric"
+    ],
     "evo": "",
     "localisation": [
       "Skifford",
@@ -2540,8 +3517,13 @@
   },
   {
     "galarId": "221",
+    "nationalId": "171",
     "nameFr": "Lanturn",
-    "nameEn": "",
+    "nameEn": "Lanturn",
+    "types": [
+      "Water",
+      "Electric"
+    ],
     "evo": "Évolution de Loupio au niveau 27",
     "localisation": [
       "Fosse des Sables",
@@ -2552,8 +3534,13 @@
   },
   {
     "galarId": "222",
+    "nationalId": "453",
     "nameFr": "Cradopaud",
-    "nameEn": "",
+    "nameEn": "Croagunk",
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar n°2",
@@ -2567,8 +3554,13 @@
   },
   {
     "galarId": "223",
+    "nationalId": "454",
     "nameFr": "Coatox",
-    "nameEn": "",
+    "nameEn": "Toxicroak",
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
     "evo": "Évolution de Cradopaud au niveau 37",
     "localisation": [
       "Plaine Rocheuse"
@@ -2576,22 +3568,37 @@
   },
   {
     "galarId": "224",
+    "nationalId": "559",
     "nameFr": "Baggiguane",
-    "nameEn": "",
+    "nameEn": "Scraggy",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "225",
+    "nationalId": "560",
     "nameFr": "Baggaïd",
-    "nameEn": "",
+    "nameEn": "Scrafty",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
     "evo": "Évolution de Baggiguane au niveau 39",
     "localisation": []
   },
   {
     "galarId": "226",
+    "nationalId": "618",
     "nameFr": "Limonde",
-    "nameEn": "",
+    "nameEn": "Stunfisk",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Sleepwood",
@@ -2602,8 +3609,13 @@
   },
   {
     "galarId": "227",
+    "nationalId": "213",
     "nameFr": "Caratroc",
-    "nameEn": "",
+    "nameEn": "Shuckle",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar n°2",
@@ -2616,8 +3628,13 @@
   },
   {
     "galarId": "228",
+    "nationalId": "339",
     "nameFr": "Barloche",
-    "nameEn": "",
+    "nameEn": "Barboach",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Sleepwood",
@@ -2630,8 +3647,13 @@
   },
   {
     "galarId": "229",
+    "nationalId": "340",
     "nameFr": "Barbicha",
-    "nameEn": "",
+    "nameEn": "Whiscash",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "evo": "Évolution de Barloche au niveau 30",
     "localisation": [
       "Forêt de Sleepwood",
@@ -2640,8 +3662,12 @@
   },
   {
     "galarId": "230",
+    "nationalId": "422",
     "nameFr": "Sancoki",
-    "nameEn": "",
+    "nameEn": "Shellos",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar n°2",
@@ -2654,8 +3680,13 @@
   },
   {
     "galarId": "231",
+    "nationalId": "423",
     "nameFr": "Tritosor",
-    "nameEn": "",
+    "nameEn": "Gastrodon",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "evo": "Évolution de Sancoki au niveau 30",
     "localisation": [
       "Route 9",
@@ -2666,8 +3697,13 @@
   },
   {
     "galarId": "232",
+    "nationalId": "767",
     "nameFr": "Sovkipou",
-    "nameEn": "",
+    "nameEn": "Wimpod",
+    "types": [
+      "Bug",
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar n°2",
@@ -2679,8 +3715,13 @@
   },
   {
     "galarId": "233",
+    "nationalId": "768",
     "nameFr": "SarmuraÏ",
-    "nameEn": "",
+    "nameEn": "Golisopod",
+    "types": [
+      "Bug",
+      "Water"
+    ],
     "evo": "Évolution de Sovkipou au niveau 30",
     "localisation": [
       "Coiffe du Géant",
@@ -2690,8 +3731,13 @@
   },
   {
     "galarId": "234",
+    "nationalId": "688",
     "nameFr": "Opermine",
-    "nameEn": "",
+    "nameEn": "Binacle",
+    "types": [
+      "Rock",
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Mine de Galar n°2",
@@ -2701,8 +3747,13 @@
   },
   {
     "galarId": "235",
+    "nationalId": "689",
     "nameFr": "Golgopathe",
-    "nameEn": "",
+    "nameEn": "Barbaracle",
+    "types": [
+      "Rock",
+      "Water"
+    ],
     "evo": "Évolution de Opermine au niveau 39",
     "localisation": [
       "Route 9",
@@ -2712,8 +3763,12 @@
   },
   {
     "galarId": "236",
+    "nationalId": "222",
     "nameFr": "Corayon",
-    "nameEn": "",
+    "nameEn": "Corsola",
+    "types": [
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Miroir du Géant"
@@ -2721,15 +3776,24 @@
   },
   {
     "galarId": "237",
+    "nationalId": "864",
     "nameFr": "Corayôme",
-    "nameEn": "",
+    "nameEn": "Cursola",
+    "types": [
+      "Ghost"
+    ],
     "evo": "Évolution de Corayon au niveau 38",
     "localisation": []
   },
   {
     "galarId": "238",
+    "nationalId": "859",
     "nameFr": "Grimalin",
-    "nameEn": "",
+    "nameEn": "Impidimp",
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
     "evo": "",
     "localisation": [
       "Abords de Motorby",
@@ -2742,8 +3806,13 @@
   },
   {
     "galarId": "239",
+    "nationalId": "860",
     "nameFr": "Fourbelin",
-    "nameEn": "",
+    "nameEn": "Morgrem",
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
     "evo": "Évolution de Grimalin au niveau 32",
     "localisation": [
       "Forêt de Lumirinth"
@@ -2751,8 +3820,13 @@
   },
   {
     "galarId": "240",
+    "nationalId": "861",
     "nameFr": "Angoliath",
-    "nameEn": "",
+    "nameEn": "Grimmsnarl",
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
     "evo": "Évolution de Fourbelin au niveau 42",
     "localisation": [
       "Lac Ouragan",
@@ -2761,8 +3835,12 @@
   },
   {
     "galarId": "241",
+    "nationalId": "856",
     "nameFr": "Bibichut",
-    "nameEn": "",
+    "nameEn": "Hatenna",
+    "types": [
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Abords de Motorby",
@@ -2772,8 +3850,12 @@
   },
   {
     "galarId": "242",
+    "nationalId": "857",
     "nameFr": "Chapotus",
-    "nameEn": "",
+    "nameEn": "Hattrem",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Bibichut au niveau 32",
     "localisation": [
       "Forêt de Lumirinth",
@@ -2782,8 +3864,13 @@
   },
   {
     "galarId": "243",
+    "nationalId": "858",
     "nameFr": "Sorcilence",
-    "nameEn": "",
+    "nameEn": "Hatterene",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "evo": "Évolution de Chapotus au niveau 42",
     "localisation": [
       "Lac Ouragan"
@@ -2791,8 +3878,13 @@
   },
   {
     "galarId": "244",
+    "nationalId": "757",
     "nameFr": "Tritox",
-    "nameEn": "",
+    "nameEn": "Salandit",
+    "types": [
+      "Poison",
+      "Fire"
+    ],
     "evo": "",
     "localisation": [
       "Abords de Motorby",
@@ -2802,15 +3894,25 @@
   },
   {
     "galarId": "245",
+    "nationalId": "758",
     "nameFr": "Malamandre",
-    "nameEn": "",
+    "nameEn": "Salazzle",
+    "types": [
+      "Poison",
+      "Fire"
+    ],
     "evo": "Évolution de Tritox femelle au niveau 33",
     "localisation": []
   },
   {
     "galarId": "246",
+    "nationalId": "624",
     "nameFr": "Scalpion",
-    "nameEn": "",
+    "nameEn": "Pawniard",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -2823,8 +3925,13 @@
   },
   {
     "galarId": "247",
+    "nationalId": "625",
     "nameFr": "Scalproie",
-    "nameEn": "",
+    "nameEn": "Bisharp",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
     "evo": "Évolution de Scalpion au niveau 52",
     "localisation": [
       "Lac Ouragan",
@@ -2833,8 +3940,12 @@
   },
   {
     "galarId": "248",
+    "nationalId": "538",
     "nameFr": "Judokrak",
-    "nameEn": "",
+    "nameEn": "Throh",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -2846,8 +3957,12 @@
   },
   {
     "galarId": "249",
+    "nationalId": "539",
     "nameFr": "Karaclée",
-    "nameEn": "",
+    "nameEn": "Sawk",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Ludester"
@@ -2855,8 +3970,12 @@
   },
   {
     "galarId": "250",
+    "nationalId": "109",
     "nameFr": "Smogo",
-    "nameEn": "",
+    "nameEn": "Koffing",
+    "types": [
+      "Poison"
+    ],
     "evo": "",
     "localisation": [
       "Abords de Motorby",
@@ -2867,8 +3986,13 @@
   },
   {
     "galarId": "251",
+    "nationalId": "110",
     "nameFr": "Smogogo",
-    "nameEn": "",
+    "nameEn": "Weezing",
+    "types": [
+      "Poison",
+      "Fairy"
+    ],
     "evo": "Évolution de Smogo au niveau 35",
     "localisation": [
       "Forêt de Sleepwood",
@@ -2879,8 +4003,12 @@
   },
   {
     "galarId": "252",
+    "nationalId": "438",
     "nameFr": "Manzaï",
-    "nameEn": "",
+    "nameEn": "Bonsly",
+    "types": [
+      "Rock"
+    ],
     "evo": "Reproduction de Simularbre avec Encens Roc",
     "localisation": [
       "Plaine Rocheuse",
@@ -2889,8 +4017,12 @@
   },
   {
     "galarId": "253",
+    "nationalId": "185",
     "nameFr": "Simularbre",
-    "nameEn": "",
+    "nameEn": "Sudowoodo",
+    "types": [
+      "Rock"
+    ],
     "evo": "Évolution de ManzaÏ par montée de niveau avec Photocopie apprise",
     "localisation": [
       "Abords de Motorby",
@@ -2903,15 +4035,23 @@
   },
   {
     "galarId": "254",
+    "nationalId": "173",
     "nameFr": "Mélo",
-    "nameEn": "",
+    "nameEn": "Cleffa",
+    "types": [
+      "Fairy"
+    ],
     "evo": "Reproduction de Mélofée ou Mélodelfe",
     "localisation": []
   },
   {
     "galarId": "255",
+    "nationalId": "035",
     "nameFr": "Mélofée",
-    "nameEn": "",
+    "nameEn": "Clefairy",
+    "types": [
+      "Fairy"
+    ],
     "evo": "Évolution de Mélofée par montée de niveau avec amitié max",
     "localisation": [
       "Berges de Motorby",
@@ -2920,8 +4060,12 @@
   },
   {
     "galarId": "256",
+    "nationalId": "036",
     "nameFr": "Mélodelfe",
-    "nameEn": "",
+    "nameEn": "Clefable",
+    "types": [
+      "Fairy"
+    ],
     "evo": "Évolution de Mélofée avec Pierre Lune",
     "localisation": [
       "Berges de Motorby"
@@ -2929,8 +4073,12 @@
   },
   {
     "galarId": "257",
+    "nationalId": "175",
     "nameFr": "Togepi",
-    "nameEn": "",
+    "nameEn": "Togepi",
+    "types": [
+      "Fairy"
+    ],
     "evo": "",
     "localisation": [
       "Prairie Entre-Ponts",
@@ -2939,8 +4087,13 @@
   },
   {
     "galarId": "258",
+    "nationalId": "176",
     "nameFr": "Togetic",
-    "nameEn": "",
+    "nameEn": "Togetic",
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
     "evo": "Évolution de Togepi par montée de niveau avec amitié max",
     "localisation": [
       "Plaine Rocheuse"
@@ -2948,8 +4101,13 @@
   },
   {
     "galarId": "259",
+    "nationalId": "468",
     "nameFr": "Togekiss",
-    "nameEn": "",
+    "nameEn": "Togekiss",
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
     "evo": "Évolution de Togetic avec Pierre Éclat",
     "localisation": [
       "Fosse des Sables"
@@ -2957,8 +4115,12 @@
   },
   {
     "galarId": "260",
+    "nationalId": "446",
     "nameFr": "Goinfrex",
-    "nameEn": "",
+    "nameEn": "Munchlax",
+    "types": [
+      "Normal"
+    ],
     "evo": "Reproduction de Ronflex avec Encens Plein",
     "localisation": [
       "Berges de Motorby"
@@ -2966,8 +4128,12 @@
   },
   {
     "galarId": "261",
+    "nationalId": "143",
     "nameFr": "Ronflex",
-    "nameEn": "",
+    "nameEn": "Snorlax",
+    "types": [
+      "Normal"
+    ],
     "evo": "Évolution de Goinfrex par montée de niveau avec amitié max",
     "localisation": [
       "Berges de Motorby"
@@ -2975,8 +4141,13 @@
   },
   {
     "galarId": "262",
+    "nationalId": "546",
     "nameFr": "Doudouvet",
-    "nameEn": "",
+    "nameEn": "Cottonee",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
     "evo": "",
     "localisation": [
       "Plaine Rocheuse",
@@ -2985,15 +4156,25 @@
   },
   {
     "galarId": "263",
+    "nationalId": "547",
     "nameFr": "Farfaduvet",
-    "nameEn": "",
+    "nameEn": "Whimsicott",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
     "evo": "Évolution de Doudouvet avec Pierre Soleil",
     "localisation": []
   },
   {
     "galarId": "264",
+    "nationalId": "111",
     "nameFr": "Rhinocorne",
-    "nameEn": "",
+    "nameEn": "Rhyhorn",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -3006,8 +4187,13 @@
   },
   {
     "galarId": "265",
+    "nationalId": "112",
     "nameFr": "Rhinoféros",
-    "nameEn": "",
+    "nameEn": "Rhydon",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
     "evo": "Évolution de Rhinocorne au niveau 42",
     "localisation": [
       "Route 10",
@@ -3020,36 +4206,57 @@
   },
   {
     "galarId": "266",
+    "nationalId": "464",
     "nameFr": "Rhinastoc",
-    "nameEn": "",
+    "nameEn": "Rhyperior",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
     "evo": "Évolution de Rhinoféros par échange avec Protecteur tenu",
     "localisation": []
   },
   {
     "galarId": "267",
+    "nationalId": "574",
     "nameFr": "Scrutella",
-    "nameEn": "",
+    "nameEn": "Gothita",
+    "types": [
+      "Psychic"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "268",
+    "nationalId": "575",
     "nameFr": "Mesmérella",
-    "nameEn": "",
+    "nameEn": "Gothorita",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Scrutella au niveau 32",
     "localisation": []
   },
   {
     "galarId": "269",
+    "nationalId": "576",
     "nameFr": "Sidérella",
-    "nameEn": "",
+    "nameEn": "Gothitelle",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Mesmérella au niveau 41",
     "localisation": []
   },
   {
     "galarId": "270",
+    "nationalId": "577",
     "nameFr": "Nucléos",
-    "nameEn": "",
+    "nameEn": "Solosis",
+    "types": [
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Coiffe du Géant"
@@ -3057,8 +4264,12 @@
   },
   {
     "galarId": "271",
+    "nationalId": "578",
     "nameFr": "Méios",
-    "nameEn": "",
+    "nameEn": "Duosion",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Nucléos au niveau 32",
     "localisation": [
       "Fosse des Sables",
@@ -3067,8 +4278,12 @@
   },
   {
     "galarId": "272",
+    "nationalId": "579",
     "nameFr": "Symbios",
-    "nameEn": "",
+    "nameEn": "Reuniclus",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Méios au niveau 41",
     "localisation": [
       "Lac Ouragan"
@@ -3076,8 +4291,12 @@
   },
   {
     "galarId": "273",
+    "nationalId": "588",
     "nameFr": "Carabing",
-    "nameEn": "",
+    "nameEn": "Karrablast",
+    "types": [
+      "Bug"
+    ],
     "evo": "",
     "localisation": [
       "Route 7",
@@ -3088,15 +4307,24 @@
   },
   {
     "galarId": "274",
+    "nationalId": "589",
     "nameFr": "Lançargot",
-    "nameEn": "",
+    "nameEn": "Escavalier",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
     "evo": "Évolution de Carabing en l'échangeant contre Escargaume",
     "localisation": []
   },
   {
     "galarId": "275",
+    "nationalId": "616",
     "nameFr": "Escargaume",
-    "nameEn": "",
+    "nameEn": "Shelmet",
+    "types": [
+      "Bug"
+    ],
     "evo": "",
     "localisation": [
       "Route 7",
@@ -3107,15 +4335,23 @@
   },
   {
     "galarId": "276",
+    "nationalId": "617",
     "nameFr": "Limaspeed",
-    "nameEn": "",
+    "nameEn": "Accelgor",
+    "types": [
+      "Bug"
+    ],
     "evo": "Évolution de Escargaume en l'échangeant contre Carabing",
     "localisation": []
   },
   {
     "galarId": "277",
+    "nationalId": "605",
     "nameFr": "Lewsor",
-    "nameEn": "",
+    "nameEn": "Elgyem",
+    "types": [
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Berges de Motorby",
@@ -3124,8 +4360,12 @@
   },
   {
     "galarId": "278",
+    "nationalId": "606",
     "nameFr": "Neitram",
-    "nameEn": "",
+    "nameEn": "Beheeyem",
+    "types": [
+      "Psychic"
+    ],
     "evo": "Évolution de Lewsor au niveau 42",
     "localisation": [
       "Lac Ouragan",
@@ -3134,8 +4374,12 @@
   },
   {
     "galarId": "279",
+    "nationalId": "613",
     "nameFr": "Polarhume",
-    "nameEn": "",
+    "nameEn": "Cubchoo",
+    "types": [
+      "Ice"
+    ],
     "evo": "",
     "localisation": [
       "Route 10",
@@ -3148,8 +4392,12 @@
   },
   {
     "galarId": "280",
+    "nationalId": "614",
     "nameFr": "Polagriffe",
-    "nameEn": "",
+    "nameEn": "Beartic",
+    "types": [
+      "Ice"
+    ],
     "evo": "Évolution de Polarhume au niveau 37",
     "localisation": [
       "Route 10",
@@ -3159,22 +4407,37 @@
   },
   {
     "galarId": "281",
+    "nationalId": "627",
     "nameFr": "Furaiglon",
-    "nameEn": "",
+    "nameEn": "Rufflet",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "282",
+    "nationalId": "628",
     "nameFr": "Gueriaigle",
-    "nameEn": "",
+    "nameEn": "Braviary",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "evo": "Évolution de Furaiglon au niveau 54",
     "localisation": []
   },
   {
     "galarId": "283",
+    "nationalId": "629",
     "nameFr": "Vostourno",
-    "nameEn": "",
+    "nameEn": "Vullaby",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -3184,8 +4447,13 @@
   },
   {
     "galarId": "284",
+    "nationalId": "630",
     "nameFr": "Vaututrice",
-    "nameEn": "",
+    "nameEn": "Mandibuzz",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
     "evo": "Évolution de Vostourno au niveau 54",
     "localisation": [
       "Fosse des Sables",
@@ -3194,8 +4462,13 @@
   },
   {
     "galarId": "285",
+    "nationalId": "451",
     "nameFr": "Rapion",
-    "nameEn": "",
+    "nameEn": "Skorupi",
+    "types": [
+      "Poison",
+      "Bug"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3205,8 +4478,13 @@
   },
   {
     "galarId": "286",
+    "nationalId": "452",
     "nameFr": "Drascore",
-    "nameEn": "",
+    "nameEn": "Drapion",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
     "evo": "Évolution de Rapion au niveau 40",
     "localisation": [
       "Route 8",
@@ -3216,8 +4494,13 @@
   },
   {
     "galarId": "287",
+    "nationalId": "607",
     "nameFr": "Funécire",
-    "nameEn": "",
+    "nameEn": "Litwick",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
     "evo": "",
     "localisation": [
       "Berges de Motorby",
@@ -3227,8 +4510,13 @@
   },
   {
     "galarId": "288",
+    "nationalId": "608",
     "nameFr": "Mélancolux",
-    "nameEn": "",
+    "nameEn": "Lampent",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
     "evo": "Évolution de Funécire au niveau 41",
     "localisation": [
       "Lac Ouragan"
@@ -3236,15 +4524,25 @@
   },
   {
     "galarId": "289",
+    "nationalId": "609",
     "nameFr": "Lugulabre",
-    "nameEn": "",
+    "nameEn": "Chandelure",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
     "evo": "Évolution de Mélancolux avec Pierre Nuit",
     "localisation": []
   },
   {
     "galarId": "290",
+    "nationalId": "686",
     "nameFr": "Sepiatop",
-    "nameEn": "",
+    "nameEn": "Inkay",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Route 7",
@@ -3256,15 +4554,25 @@
   },
   {
     "galarId": "291",
+    "nationalId": "687",
     "nameFr": "Sepiatroce",
-    "nameEn": "",
+    "nameEn": "Malamar",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
     "evo": "Évolution de Sepiatop au niveau 30 avec la console (ou joy-cons) retournée",
     "localisation": []
   },
   {
     "galarId": "292",
+    "nationalId": "215",
     "nameFr": "Farfuret",
-    "nameEn": "",
+    "nameEn": "Sneasel",
+    "types": [
+      "Dark",
+      "Ice"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -3280,8 +4588,13 @@
   },
   {
     "galarId": "293",
+    "nationalId": "461",
     "nameFr": "Dimoret",
-    "nameEn": "",
+    "nameEn": "Weavile",
+    "types": [
+      "Dark",
+      "Ice"
+    ],
     "evo": "Évolution de Farfuret par montée de niveau de nuit avec Griffe Rasoir tenu",
     "localisation": [
       "Prairie Entre-Ponts"
@@ -3289,8 +4602,13 @@
   },
   {
     "galarId": "294",
+    "nationalId": "302",
     "nameFr": "Ténéfix",
-    "nameEn": "",
+    "nameEn": "Sableye",
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Fosse des Sables",
@@ -3299,15 +4617,24 @@
   },
   {
     "galarId": "295",
+    "nationalId": "303",
     "nameFr": "Mysdibule",
-    "nameEn": "",
+    "nameEn": "Mawile",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "296",
+    "nationalId": "556",
     "nameFr": "Maracachi",
-    "nameEn": "",
+    "nameEn": "Maractus",
+    "types": [
+      "Grass"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3318,8 +4645,13 @@
   },
   {
     "galarId": "297",
+    "nationalId": "561",
     "nameFr": "Cryptéro",
-    "nameEn": "",
+    "nameEn": "Sigilyph",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Lac Ouragan",
@@ -3330,8 +4662,12 @@
   },
   {
     "galarId": "298",
+    "nationalId": "447",
     "nameFr": "Riolu",
-    "nameEn": "",
+    "nameEn": "Riolu",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Coiffe du Géant"
@@ -3339,8 +4675,13 @@
   },
   {
     "galarId": "299",
+    "nationalId": "448",
     "nameFr": "Lucario",
-    "nameEn": "",
+    "nameEn": "Lucario",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
     "evo": "Évolution de Riolu par montée de niveau de jour avec amitié max",
     "localisation": [
       "Lac Milobellus Nord"
@@ -3348,8 +4689,12 @@
   },
   {
     "galarId": "300",
+    "nationalId": "324",
     "nameFr": "Chartor",
-    "nameEn": "",
+    "nameEn": "Torkoal",
+    "types": [
+      "Fire"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3360,8 +4705,13 @@
   },
   {
     "galarId": "301",
+    "nationalId": "778",
     "nameFr": "Mimiqui",
-    "nameEn": "",
+    "nameEn": "Mimikyu",
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
     "evo": "",
     "localisation": [
       "Miroir du Géant",
@@ -3370,8 +4720,12 @@
   },
   {
     "galarId": "302",
+    "nationalId": "878",
     "nameFr": "Charibari",
-    "nameEn": "",
+    "nameEn": "Cufant",
+    "types": [
+      "Steel"
+    ],
     "evo": "",
     "localisation": [
       "Prairie Entre-Ponts"
@@ -3379,8 +4733,12 @@
   },
   {
     "galarId": "303",
+    "nationalId": "879",
     "nameFr": "Pachyradjah",
-    "nameEn": "",
+    "nameEn": "Copperajah",
+    "types": [
+      "Steel"
+    ],
     "evo": "Évolution de Charibari au niveau 34",
     "localisation": [
       "Lac Ouragan",
@@ -3389,8 +4747,13 @@
   },
   {
     "galarId": "304",
+    "nationalId": "211",
     "nameFr": "Qwilfish",
-    "nameEn": "",
+    "nameEn": "Qwilfish",
+    "types": [
+      "Water",
+      "Poison"
+    ],
     "evo": "",
     "localisation": [
       "Route 9",
@@ -3401,8 +4764,13 @@
   },
   {
     "galarId": "305",
+    "nationalId": "592",
     "nameFr": "Viskuse",
-    "nameEn": "",
+    "nameEn": "Frillish",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Lac Coupenotte Est",
@@ -3414,8 +4782,13 @@
   },
   {
     "galarId": "306",
+    "nationalId": "593",
     "nameFr": "Moyade",
-    "nameEn": "",
+    "nameEn": "Jellicent",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
     "evo": "Évolution de Viskuse au niveau 40",
     "localisation": [
       "Route 9",
@@ -3426,8 +4799,13 @@
   },
   {
     "galarId": "307",
+    "nationalId": "747",
     "nameFr": "Vorastérie",
-    "nameEn": "",
+    "nameEn": "Mareanie",
+    "types": [
+      "Poison",
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 9",
@@ -3438,8 +4816,13 @@
   },
   {
     "galarId": "308",
+    "nationalId": "748",
     "nameFr": "Prédastérie",
-    "nameEn": "",
+    "nameEn": "Toxapex",
+    "types": [
+      "Poison",
+      "Water"
+    ],
     "evo": "Évolution de Vorastérie au niveau 38",
     "localisation": [
       "Route 9"
@@ -3447,8 +4830,13 @@
   },
   {
     "galarId": "309",
+    "nationalId": "845",
     "nameFr": "Nigosier",
-    "nameEn": "",
+    "nameEn": "Cramorant",
+    "types": [
+      "Flying",
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 9",
@@ -3460,8 +4848,13 @@
   },
   {
     "galarId": "310",
+    "nationalId": "848",
     "nameFr": "Toxizap",
-    "nameEn": "",
+    "nameEn": "Toxel",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
     "evo": "",
     "localisation": [
       "Route 7",
@@ -3474,15 +4867,24 @@
   },
   {
     "galarId": "311",
+    "nationalId": "849",
     "nameFr": "Salarsen",
-    "nameEn": "",
+    "nameEn": "Toxtricity",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
     "evo": "Évolution de Toxizap au niveau 30 selon sa nature",
     "localisation": []
   },
   {
     "galarId": "312",
+    "nationalId": "843",
     "nameFr": "Dunaja",
-    "nameEn": "",
+    "nameEn": "Silicobra",
+    "types": [
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Route 6"
@@ -3490,8 +4892,12 @@
   },
   {
     "galarId": "313",
+    "nationalId": "844",
     "nameFr": "Dunaconda",
-    "nameEn": "",
+    "nameEn": "Sandaconda",
+    "types": [
+      "Ground"
+    ],
     "evo": "Évolution de Dunaja au niveau 36",
     "localisation": [
       "Route 8",
@@ -3501,8 +4907,12 @@
   },
   {
     "galarId": "314",
+    "nationalId": "449",
     "nameFr": "Hippopotas",
-    "nameEn": "",
+    "nameEn": "Hippopotas",
+    "types": [
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3512,8 +4922,12 @@
   },
   {
     "galarId": "315",
+    "nationalId": "450",
     "nameFr": "Hippodocus",
-    "nameEn": "",
+    "nameEn": "Hippowdon",
+    "types": [
+      "Ground"
+    ],
     "evo": "Évolution de Hippopotas au niveau 34",
     "localisation": [
       "Route 8",
@@ -3523,8 +4937,13 @@
   },
   {
     "galarId": "316",
+    "nationalId": "632",
     "nameFr": "Fermite",
-    "nameEn": "",
+    "nameEn": "Durant",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3534,8 +4953,12 @@
   },
   {
     "galarId": "317",
+    "nationalId": "631",
     "nameFr": "Aflamanoir",
-    "nameEn": "",
+    "nameEn": "Heatmor",
+    "types": [
+      "Fire"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3545,8 +4968,13 @@
   },
   {
     "galarId": "318",
+    "nationalId": "694",
     "nameFr": "Galvaran",
-    "nameEn": "",
+    "nameEn": "Helioptile",
+    "types": [
+      "Electric",
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3555,15 +4983,25 @@
   },
   {
     "galarId": "319",
+    "nationalId": "695",
     "nameFr": "Iguolta",
-    "nameEn": "",
+    "nameEn": "Heliolisk",
+    "types": [
+      "Electric",
+      "Normal"
+    ],
     "evo": "Évolution de Galvaran avec Pierre Soleil",
     "localisation": []
   },
   {
     "galarId": "320",
+    "nationalId": "701",
     "nameFr": "Brutalibré",
-    "nameEn": "",
+    "nameEn": "Hawlucha",
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3572,8 +5010,12 @@
   },
   {
     "galarId": "321",
+    "nationalId": "328",
     "nameFr": "Kraknoix",
-    "nameEn": "",
+    "nameEn": "Trapinch",
+    "types": [
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Route 6"
@@ -3581,15 +5023,25 @@
   },
   {
     "galarId": "322",
+    "nationalId": "329",
     "nameFr": "Vibraninf",
-    "nameEn": "",
+    "nameEn": "Vibrava",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
     "evo": "Évolution de Kranoix au niveau 35",
     "localisation": []
   },
   {
     "galarId": "323",
+    "nationalId": "330",
     "nameFr": "Libégon",
-    "nameEn": "",
+    "nameEn": "Flygon",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
     "evo": "Évolution de Vibraninf au niveau 45",
     "localisation": [
       "Fosse des Sables",
@@ -3598,8 +5050,12 @@
   },
   {
     "galarId": "324",
+    "nationalId": "610",
     "nameFr": "Coupenotte",
-    "nameEn": "",
+    "nameEn": "Axew",
+    "types": [
+      "Dragon"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3609,15 +5065,23 @@
   },
   {
     "galarId": "325",
+    "nationalId": "611",
     "nameFr": "Incisache",
-    "nameEn": "",
+    "nameEn": "Fraxure",
+    "types": [
+      "Dragon"
+    ],
     "evo": "Évolution de Coupenotte au niveau 38",
     "localisation": []
   },
   {
     "galarId": "326",
+    "nationalId": "612",
     "nameFr": "Tranchodon",
-    "nameEn": "",
+    "nameEn": "Haxorus",
+    "types": [
+      "Dragon"
+    ],
     "evo": "Évolution de Incisache au niveau 48",
     "localisation": [
       "Lac Ouragan",
@@ -3626,8 +5090,13 @@
   },
   {
     "galarId": "327",
+    "nationalId": "562",
     "nameFr": "Tutafeh",
-    "nameEn": "",
+    "nameEn": "Yamask",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Route 6",
@@ -3636,22 +5105,36 @@
   },
   {
     "galarId": "328",
+    "nationalId": "867",
     "nameFr": "Tutétékri",
-    "nameEn": "",
+    "nameEn": "Runerigus",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
     "evo": "Évolution de Tutafeh (Galar) en ayant reçu 49 PV de dégâts sans être KO puis marcher sous l'arche de pierre de la Fosse des Sables (Terres Sauvages)",
     "localisation": []
   },
   {
     "galarId": "329",
+    "nationalId": "563",
     "nameFr": "Tutankafer",
-    "nameEn": "",
+    "nameEn": "Cofagrigus",
+    "types": [
+      "Ghost"
+    ],
     "evo": "Évolution de Tutafeh (Unys) au niveau 34",
     "localisation": []
   },
   {
     "galarId": "330",
+    "nationalId": "679",
     "nameFr": "Monorpale",
-    "nameEn": "",
+    "nameEn": "Honedge",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Plateau de Kickenham"
@@ -3659,8 +5142,13 @@
   },
   {
     "galarId": "331",
+    "nationalId": "680",
     "nameFr": "Dimoclès",
-    "nameEn": "",
+    "nameEn": "Doublade",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
     "evo": "Évolution de Monorpale au niveau 35",
     "localisation": [
       "Coiffe du Géant",
@@ -3669,8 +5157,13 @@
   },
   {
     "galarId": "332",
+    "nationalId": "681",
     "nameFr": "Exagide",
-    "nameEn": "",
+    "nameEn": "Aegislash",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
     "evo": "Évolution de Dimoclès avec une Pierre Nuit",
     "localisation": [
       "Coiffe du Géant"
@@ -3678,8 +5171,12 @@
   },
   {
     "galarId": "333",
+    "nationalId": "077",
     "nameFr": "Ponyta",
-    "nameEn": "",
+    "nameEn": "Ponyta",
+    "types": [
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Lumirinth"
@@ -3687,15 +5184,24 @@
   },
   {
     "galarId": "334",
+    "nationalId": "078",
     "nameFr": "Galopa",
-    "nameEn": "",
+    "nameEn": "Rapidash",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "evo": "Évolution de Ponyta au niveau 40",
     "localisation": []
   },
   {
     "galarId": "335",
+    "nationalId": "854",
     "nameFr": "Théffroi",
-    "nameEn": "",
+    "nameEn": "Sinistea",
+    "types": [
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Lumirinth"
@@ -3703,15 +5209,24 @@
   },
   {
     "galarId": "336",
+    "nationalId": "855",
     "nameFr": "Polthégeist",
-    "nameEn": "",
+    "nameEn": "Polteageist",
+    "types": [
+      "Ghost"
+    ],
     "evo": "Évolution de Théffroi avec Théière Fêlée ou Théière Ébréchée",
     "localisation": []
   },
   {
     "galarId": "337",
+    "nationalId": "876",
     "nameFr": "Wimessir",
-    "nameEn": "",
+    "nameEn": "Indeedee",
+    "types": [
+      "Psychic",
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Lumirinth",
@@ -3720,8 +5235,13 @@
   },
   {
     "galarId": "338",
+    "nationalId": "708",
     "nameFr": "Brocélôme",
-    "nameEn": "",
+    "nameEn": "Phantump",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Lumirinth"
@@ -3729,15 +5249,25 @@
   },
   {
     "galarId": "339",
+    "nationalId": "709",
     "nameFr": "Desséliande",
-    "nameEn": "",
+    "nameEn": "Trevenant",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "evo": "Évolution de Brocélôme par échange",
     "localisation": []
   },
   {
     "galarId": "340",
+    "nationalId": "755",
     "nameFr": "Spododo",
-    "nameEn": "",
+    "nameEn": "Morelull",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
     "evo": "",
     "localisation": [
       "Miroir du Géant",
@@ -3746,8 +5276,13 @@
   },
   {
     "galarId": "341",
+    "nationalId": "756",
     "nameFr": "Lampignon",
-    "nameEn": "",
+    "nameEn": "Shiinotic",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
     "evo": "Évolution de Spododo au niveau 24",
     "localisation": [
       "Forêt de Lumirinth",
@@ -3756,8 +5291,13 @@
   },
   {
     "galarId": "342",
+    "nationalId": "765",
     "nameFr": "Gouroutan",
-    "nameEn": "",
+    "nameEn": "Oranguru",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Forêt de Lumirinth"
@@ -3765,15 +5305,24 @@
   },
   {
     "galarId": "343",
+    "nationalId": "766",
     "nameFr": "Quartermac",
-    "nameEn": "",
+    "nameEn": "Passimian",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "344",
+    "nationalId": "877",
     "nameFr": "Morpeko",
-    "nameEn": "",
+    "nameEn": "Morpeko",
+    "types": [
+      "Electric",
+      "Dark"
+    ],
     "evo": "",
     "localisation": [
       "Route 7",
@@ -3783,8 +5332,12 @@
   },
   {
     "galarId": "345",
+    "nationalId": "870",
     "nameFr": "Hexadron",
-    "nameEn": "",
+    "nameEn": "Falinks",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -3793,8 +5346,13 @@
   },
   {
     "galarId": "346",
+    "nationalId": "780",
     "nameFr": "Draïeul",
-    "nameEn": "",
+    "nameEn": "Drampa",
+    "types": [
+      "Normal",
+      "Dragon"
+    ],
     "evo": "",
     "localisation": [
       "Lac Ouragan"
@@ -3802,15 +5360,25 @@
   },
   {
     "galarId": "347",
+    "nationalId": "776",
     "nameFr": "Boumata",
-    "nameEn": "",
+    "nameEn": "Turtonator",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "348",
+    "nationalId": "777",
     "nameFr": "Togedemaru",
-    "nameEn": "",
+    "nameEn": "Togedemaru",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -3819,8 +5387,13 @@
   },
   {
     "galarId": "349",
+    "nationalId": "872",
     "nameFr": "Frissonille",
-    "nameEn": "",
+    "nameEn": "Snom",
+    "types": [
+      "Ice",
+      "Bug"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -3830,15 +5403,24 @@
   },
   {
     "galarId": "350",
+    "nationalId": "873",
     "nameFr": "Beldeneige",
-    "nameEn": "",
+    "nameEn": "Frosmoth",
+    "types": [
+      "Ice",
+      "Bug"
+    ],
     "evo": "Évolution de Frissonille par montée de niveau de nuit avec amitié max",
     "localisation": []
   },
   {
     "galarId": "351",
+    "nationalId": "852",
     "nameFr": "Poulpaf",
-    "nameEn": "",
+    "nameEn": "Clobbopus",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Route 9"
@@ -3846,8 +5428,12 @@
   },
   {
     "galarId": "352",
+    "nationalId": "853",
     "nameFr": "Krakos",
-    "nameEn": "",
+    "nameEn": "Grapploct",
+    "types": [
+      "Fighting"
+    ],
     "evo": "Évolution de Poulpaf par montée de niveau en ayant appris Provoc",
     "localisation": [
       "Route 9",
@@ -3856,8 +5442,12 @@
   },
   {
     "galarId": "353",
+    "nationalId": "871",
     "nameFr": "Wattapik",
-    "nameEn": "",
+    "nameEn": "Pincurchin",
+    "types": [
+      "Electric"
+    ],
     "evo": "",
     "localisation": [
       "Route 9"
@@ -3865,8 +5455,13 @@
   },
   {
     "galarId": "354",
+    "nationalId": "458",
     "nameFr": "Babimanta",
-    "nameEn": "",
+    "nameEn": "Mantyke",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "evo": "Reproduction de Démanta avec Encens Vague",
     "localisation": [
       "Route 9",
@@ -3876,8 +5471,13 @@
   },
   {
     "galarId": "355",
+    "nationalId": "226",
     "nameFr": "Démanta",
-    "nameEn": "",
+    "nameEn": "Mantine",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "evo": "Évolution de Babimanta par montée de niveau avec Rémoraid dans l'équipe",
     "localisation": [
       "Route 9",
@@ -3886,8 +5486,12 @@
   },
   {
     "galarId": "356",
+    "nationalId": "320",
     "nameFr": "Wailmer",
-    "nameEn": "",
+    "nameEn": "Wailmer",
+    "types": [
+      "Water"
+    ],
     "evo": "",
     "localisation": [
       "Route 9",
@@ -3896,8 +5500,12 @@
   },
   {
     "galarId": "357",
+    "nationalId": "321",
     "nameFr": "Wailord",
-    "nameEn": "",
+    "nameEn": "Wailord",
+    "types": [
+      "Water"
+    ],
     "evo": "Évolution de Wailmer au niveau 40",
     "localisation": [
       "Route 9"
@@ -3905,8 +5513,12 @@
   },
   {
     "galarId": "358",
+    "nationalId": "712",
     "nameFr": "Grelaçon",
-    "nameEn": "",
+    "nameEn": "Bergmite",
+    "types": [
+      "Ice"
+    ],
     "evo": "",
     "localisation": [
       "Route 9",
@@ -3915,8 +5527,12 @@
   },
   {
     "galarId": "359",
+    "nationalId": "713",
     "nameFr": "Séracrawl",
-    "nameEn": "",
+    "nameEn": "Avalugg",
+    "types": [
+      "Ice"
+    ],
     "evo": "Évolution de Grelaçon au niveau 37",
     "localisation": [
       "Lac Ouragan"
@@ -3924,8 +5540,13 @@
   },
   {
     "galarId": "360",
+    "nationalId": "781",
     "nameFr": "Sinistrail",
-    "nameEn": "",
+    "nameEn": "Dhelmise",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "evo": "",
     "localisation": [
       "Route 9"
@@ -3933,8 +5554,13 @@
   },
   {
     "galarId": "361",
+    "nationalId": "131",
     "nameFr": "Lokhlass",
-    "nameEn": "",
+    "nameEn": "Lapras",
+    "types": [
+      "Water",
+      "Ice"
+    ],
     "evo": "",
     "localisation": [
       "Route 2",
@@ -3945,8 +5571,13 @@
   },
   {
     "galarId": "362",
+    "nationalId": "337",
     "nameFr": "Séléroc",
-    "nameEn": "",
+    "nameEn": "Lunatone",
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Route 8",
@@ -3955,15 +5586,25 @@
   },
   {
     "galarId": "363",
+    "nationalId": "338",
     "nameFr": "Solaroc",
-    "nameEn": "",
+    "nameEn": "Solrock",
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "364",
+    "nationalId": "439",
     "nameFr": "Mime Jr.",
-    "nameEn": "",
+    "nameEn": "Mime Jr.",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "evo": "Reproduction de M. Mime (Kanto ou Galar) avec Encens Bizarre",
     "localisation": [
       "Plaine Verdoyante"
@@ -3971,8 +5612,13 @@
   },
   {
     "galarId": "365",
+    "nationalId": "122",
     "nameFr": "M. Mime",
-    "nameEn": "",
+    "nameEn": "Mr. Mime",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
     "evo": "",
     "localisation": [
       "Route 10",
@@ -3981,36 +5627,57 @@
   },
   {
     "galarId": "366",
+    "nationalId": "866",
     "nameFr": "M. Glaquette",
-    "nameEn": "",
+    "nameEn": "Mr. Rime",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
     "evo": "Évolution de M. Mime (Galar) au niveau 42",
     "localisation": []
   },
   {
     "galarId": "367",
+    "nationalId": "554",
     "nameFr": "Darumarond",
-    "nameEn": "",
+    "nameEn": "Darumaka",
+    "types": [
+      "Ice"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "368",
+    "nationalId": "555",
     "nameFr": "Darumacho",
-    "nameEn": "",
+    "nameEn": "Darmanitan",
+    "types": [
+      "Ice"
+    ],
     "evo": "Évolution de Darumarond (Galar) avec Pierre Glace",
     "localisation": []
   },
   {
     "galarId": "369",
+    "nationalId": "874",
     "nameFr": "Dolman",
-    "nameEn": "",
+    "nameEn": "Stonjourner",
+    "types": [
+      "Rock"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "370",
+    "nationalId": "875",
     "nameFr": "Bekaglaçon",
-    "nameEn": "",
+    "nameEn": "Eiscue",
+    "types": [
+      "Ice"
+    ],
     "evo": "",
     "localisation": [
       "Route 10",
@@ -4019,8 +5686,13 @@
   },
   {
     "galarId": "371",
+    "nationalId": "884",
     "nameFr": "Duralugon",
-    "nameEn": "",
+    "nameEn": "Duraludon",
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
     "evo": "",
     "localisation": [
       "Route 10",
@@ -4031,8 +5703,13 @@
   },
   {
     "galarId": "372",
+    "nationalId": "479",
     "nameFr": "Motisma",
-    "nameEn": "",
+    "nameEn": "Rotom",
+    "types": [
+      "Electric",
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Lac Ouragan"
@@ -4040,8 +5717,12 @@
   },
   {
     "galarId": "373",
+    "nationalId": "132",
     "nameFr": "Métamorph",
-    "nameEn": "",
+    "nameEn": "Ditto",
+    "types": [
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Lac Ouragan"
@@ -4049,36 +5730,60 @@
   },
   {
     "galarId": "374",
+    "nationalId": "880",
     "nameFr": "Galvagon",
-    "nameEn": "",
+    "nameEn": "Dracozolt",
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
     "evo": "Réanimation de Fossiles Dragon + Oiseau sur la Route 6",
     "localisation": []
   },
   {
     "galarId": "375",
+    "nationalId": "881",
     "nameFr": "Galvagla",
-    "nameEn": "",
+    "nameEn": "Arctozolt",
+    "types": [
+      "Electric",
+      "Ice"
+    ],
     "evo": "Réanimation de Fossiles Aileron + Oiseau sur la Route 6",
     "localisation": []
   },
   {
     "galarId": "376",
+    "nationalId": "882",
     "nameFr": "Hydragon",
-    "nameEn": "",
+    "nameEn": "Dracovish",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
     "evo": "Réanimation de Fossiles Dragon + Poisson sur la Route 6",
     "localisation": []
   },
   {
     "galarId": "377",
+    "nationalId": "883",
     "nameFr": "Hydragla",
-    "nameEn": "",
+    "nameEn": "Arctovish",
+    "types": [
+      "Water",
+      "Ice"
+    ],
     "evo": "Réanimation de Fossiles Aileron + Poisson sur la Route 6",
     "localisation": []
   },
   {
     "galarId": "378",
+    "nationalId": "004",
     "nameFr": "Salamèche",
-    "nameEn": "",
+    "nameEn": "Charmander",
+    "types": [
+      "Fire"
+    ],
     "evo": "",
     "localisation": [
       "Paddoxton"
@@ -4086,22 +5791,35 @@
   },
   {
     "galarId": "379",
+    "nationalId": "005",
     "nameFr": "Reptincel",
-    "nameEn": "",
+    "nameEn": "Charmeleon",
+    "types": [
+      "Fire"
+    ],
     "evo": "Évolution de Salamèche au niveau 16",
     "localisation": []
   },
   {
     "galarId": "380",
+    "nationalId": "006",
     "nameFr": "Dracaufeu",
-    "nameEn": "",
+    "nameEn": "Charizard",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
     "evo": "Évolution de Reptincel au niveau 36",
     "localisation": []
   },
   {
     "galarId": "381",
+    "nationalId": "772",
     "nameFr": "Type:0",
-    "nameEn": "",
+    "nameEn": "Type: Null",
+    "types": [
+      "Normal"
+    ],
     "evo": "",
     "localisation": [
       "Winscor"
@@ -4109,15 +5827,24 @@
   },
   {
     "galarId": "382",
+    "nationalId": "773",
     "nameFr": "Silvallié",
-    "nameEn": "",
+    "nameEn": "Silvally",
+    "types": [
+      "Normal"
+    ],
     "evo": "Évolution de Type:0 par montée de niveau avec amitié max",
     "localisation": []
   },
   {
     "galarId": "383",
+    "nationalId": "246",
     "nameFr": "Embrylex",
-    "nameEn": "",
+    "nameEn": "Larvitar",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
     "evo": "",
     "localisation": [
       "Lac Ouragan"
@@ -4125,8 +5852,13 @@
   },
   {
     "galarId": "384",
+    "nationalId": "247",
     "nameFr": "Ymphect",
-    "nameEn": "",
+    "nameEn": "Pupitar",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
     "evo": "Évolution de Embrylex au niveau 30",
     "localisation": [
       "Lac Ouragan"
@@ -4134,8 +5866,13 @@
   },
   {
     "galarId": "385",
+    "nationalId": "248",
     "nameFr": "Tyranocif",
-    "nameEn": "",
+    "nameEn": "Tyranitar",
+    "types": [
+      "Rock",
+      "Dark"
+    ],
     "evo": "Évolution de Ymphect au niveau 55",
     "localisation": [
       "Fosse des Sables"
@@ -4143,29 +5880,48 @@
   },
   {
     "galarId": "386",
+    "nationalId": "633",
     "nameFr": "Solochi",
-    "nameEn": "",
+    "nameEn": "Deino",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "387",
+    "nationalId": "634",
     "nameFr": "Diamat",
-    "nameEn": "",
+    "nameEn": "Zweilous",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
     "evo": "Évolution de Solochi au niveau 50",
     "localisation": []
   },
   {
     "galarId": "388",
+    "nationalId": "635",
     "nameFr": "Trioxhydre",
-    "nameEn": "",
+    "nameEn": "Hydreigon",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
     "evo": "Évolution de Diamat au niveau 64",
     "localisation": []
   },
   {
     "galarId": "389",
+    "nationalId": "704",
     "nameFr": "Mucuscule",
-    "nameEn": "",
+    "nameEn": "Goomy",
+    "types": [
+      "Dragon"
+    ],
     "evo": "",
     "localisation": [
       "Lac Ouragan"
@@ -4173,8 +5929,12 @@
   },
   {
     "galarId": "390",
+    "nationalId": "705",
     "nameFr": "Colimucus",
-    "nameEn": "",
+    "nameEn": "Sliggoo",
+    "types": [
+      "Dragon"
+    ],
     "evo": "Évolution de Mucuscule au niveau 40",
     "localisation": [
       "Lac Ouragan"
@@ -4182,36 +5942,59 @@
   },
   {
     "galarId": "391",
+    "nationalId": "706",
     "nameFr": "Muplodocus",
-    "nameEn": "",
+    "nameEn": "Goodra",
+    "types": [
+      "Dragon"
+    ],
     "evo": "Évolution de Colimucus au niveau 50 sous un climat Pluie",
     "localisation": []
   },
   {
     "galarId": "392",
+    "nationalId": "782",
     "nameFr": "Bébécaille",
-    "nameEn": "",
+    "nameEn": "Jangmo-o",
+    "types": [
+      "Dragon"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "393",
+    "nationalId": "783",
     "nameFr": "Écaïd",
-    "nameEn": "",
+    "nameEn": "Hakamo-o",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
     "evo": "Évolution de Bébécaille au niveau 35",
     "localisation": []
   },
   {
     "galarId": "394",
+    "nationalId": "784",
     "nameFr": "Ékaïser",
-    "nameEn": "",
+    "nameEn": "Kommo-o",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
     "evo": "Évolution de Écaïd au niveau 45",
     "localisation": []
   },
   {
     "galarId": "395",
+    "nationalId": "885",
     "nameFr": "Fantyrm",
-    "nameEn": "",
+    "nameEn": "Dreepy",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
     "evo": "",
     "localisation": [
       "Lac Ouragan"
@@ -4219,8 +6002,13 @@
   },
   {
     "galarId": "396",
+    "nationalId": "886",
     "nameFr": "Dispareptil",
-    "nameEn": "",
+    "nameEn": "Drakloak",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
     "evo": "Évolution de Fantyrm au niveau 50",
     "localisation": [
       "Lac Ouragan"
@@ -4228,22 +6016,35 @@
   },
   {
     "galarId": "397",
+    "nationalId": "887",
     "nameFr": "Lanssorien",
-    "nameEn": "",
+    "nameEn": "Dragapult",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
     "evo": "Évolution de Dispareptil au niveau 60",
     "localisation": []
   },
   {
     "galarId": "398",
+    "nationalId": "888",
     "nameFr": "Zacian",
-    "nameEn": "",
+    "nameEn": "Zacian",
+    "types": [
+      "Fairy"
+    ],
     "evo": "",
     "localisation": []
   },
   {
     "galarId": "399",
+    "nationalId": "889",
     "nameFr": "Zamazenta",
-    "nameEn": "",
+    "nameEn": "Zamazenta",
+    "types": [
+      "Fighting"
+    ],
     "evo": "",
     "localisation": [
       "Kickenham"
@@ -4251,8 +6052,13 @@
   },
   {
     "galarId": "400",
+    "nationalId": "890",
     "nameFr": "Éthernatos",
-    "nameEn": "",
+    "nameEn": "Eternatus",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
     "evo": "",
     "localisation": [
       "Kickenham"
