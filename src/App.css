@@ -1,0 +1,81 @@
+#root {
+    margin: 0;
+    padding: 10;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.line {
+    display: flex;
+    align-items: center;
+    position: relative;
+
+    width: 33%;
+    min-width: 400px;
+    min-height: 50px;
+
+    margin-top: 20px;
+    padding: 3px;
+    border-radius: 5px;
+
+    background-color: #aaa;
+}
+
+.icon {
+    margin-right: 10px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.line-pokemon-name {
+    font-size: medium;
+    display: flex;
+}
+
+.line-pokemon-id {
+    font-size: x-large;
+    color: #eee;
+    font-style: italic;
+    margin-right: 10px;
+}
+
+.line-pokemon-english {
+    margin-left: 20px;
+    font-size: small;
+    font-style: italic;
+}
+
+.line-buttons {
+    position: absolute;
+    right: 20px;
+}
+
+.line-find-button {
+    outline: none;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+    font-size: medium;
+    border:1px solid #057fd0;
+    padding: 3px 12px;
+}
+.line-find-button:active {
+	position:relative;
+	top:1px;
+}
+.line-find-button:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}

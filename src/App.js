@@ -1,16 +1,16 @@
 import pokedex from './assets/pokedex.json';
-
-// https://www.serebii.net/pokedex-swsh/icon/${nationalID}.png
+import Line from './components/Line';
+import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <main>
       {
-        pokedex.map((pokemon) => <li key={pokemon.galarId}>
-          {pokemon.galarId} - {pokemon.nameFr} / {pokemon.nameEn} - <img alt="pkm_icn" src={`https://www.serebii.net/pokedex-swsh/icon/${pokemon.nationalId}.png`}/>
-          </li>)
+        pokedex.map((pok) => 
+          <Line key={pok.galarId} pokemon={pok}/>
+        )
       }
-    </div>
+    </main>
   );
 }
 
