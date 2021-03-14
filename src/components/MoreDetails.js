@@ -1,3 +1,6 @@
+import Localisation from './Localisation';
+import routes from '../assets/routes/routes.json';
+
 function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
 
     const handleClose = () => {
@@ -16,7 +19,7 @@ function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
                         { pokemon.evo !== "" ?
                             <div>
                                 <h3>Evolution</h3>
-                                {pokemon.evo}
+                                <p className="modal-content-evo">{pokemon.evo}</p>
                             </div>
                             :
                             null
@@ -25,14 +28,21 @@ function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
                             <div>
                                 <h3>Localisation</h3>
                                 {
-                                    pokemon.localisation.map((loc) => <li key={loc}>{loc}</li>)
+                                    pokemon.localisation.map((loc) => 
+                                        <Localisation 
+                                            key={loc} 
+                                            routeName={loc}
+                                            routeDetails={routes.filter((rte) => rte.route === loc)}
+                                            pokemonName={pokemon.nameFr}
+                                        />
+                                    )
                                 }
                             </div>
                             :
                             null
                         }
                     </div>
-                    <img class="image-full-size" alt="artwork" src={image} />
+                    <img className="image-full-size" alt="artwork" src={image} />
                 </div>
 
                 <button className="modal-close" onClick={handleClose}>Close</button>

@@ -138,13 +138,38 @@ main {
 
 .modal-content {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .modal-content-text {
     width: 50%;
+    min-width: 250px;
+}
+
+.modal-content-evo {
+    margin-left: 15px;
+    font-style: italic;
 }
 
 .image-full-size {
     max-height: 70%;
     max-width: 40%;
+}
+
+.loca-route {
+    margin: 10px 0px 10px 15px;
+    width: 80%;
+    color: grey;
+    border-bottom: 2px solid grey;
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+}
+
+.loca-route-plus {
+    outline: none;
+    width: 20px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
 }
