@@ -18,6 +18,8 @@ function Localisation({ routeName, routeDetails, pokemonName }) {
         }
     }
 
+    console.log(routeName, routeDetails);
+
     return (
         <>
             <div className="loca-route">
@@ -30,7 +32,12 @@ function Localisation({ routeName, routeDetails, pokemonName }) {
             {
                 openDetails && 
                     <div>{details.map((d) => 
-                        <li>{d.where} - {d.level} - {d.percentage}</li>)}
+                        <div className="loca-route-details">
+                            <span>{d.where + " / "}</span> 
+                            <span>{d.level + " / "}</span> 
+                            <span>{d.percentage}%</span>
+                        </div>
+                        )}
                     </div>
             }
         </>

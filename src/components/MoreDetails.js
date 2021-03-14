@@ -1,5 +1,8 @@
 import Localisation from './Localisation';
 import routes from '../assets/routes/routes.json';
+import cities from '../assets/routes/cities.json';
+import others from '../assets/routes/others.json';
+import wild from '../assets/routes/wild-land.json';
 
 function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
 
@@ -10,21 +13,21 @@ function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
 
     const image = `https://pokeres.bastionbot.org/images/pokemon/${pokemon.nationalId}.png`
 
+    const allRoutes = routes.concat(cities).concat(others).concat(wild);
+
     return (
         <>
             <div className="around-modal" onClick={handleClose}></div>
             <div className="modal">
                 <div className="modal-content">
                     <div className="modal-content-text">
-                        { pokemon.evo !== "" ?
+                        { pokemon.evo !== "" &&
                             <div>
                                 <h3>Evolution</h3>
                                 <p className="modal-content-evo">{pokemon.evo}</p>
                             </div>
-                            :
-                            null
                         }
-                        { pokemon.localisation.length > 0 ?
+                        { pokemon.localisation.length > 0 &&
                             <div>
                                 <h3>Localisation</h3>
                                 {
@@ -32,14 +35,12 @@ function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
                                         <Localisation 
                                             key={loc} 
                                             routeName={loc}
-                                            routeDetails={routes.filter((rte) => rte.route === loc)}
+                                            routeDetails={allRoutes.filter((rte) => rte.route === loc)}
                                             pokemonName={pokemon.nameFr}
                                         />
                                     )
                                 }
                             </div>
-                            :
-                            null
                         }
                     </div>
                     <img className="image-full-size" alt="artwork" src={image} />

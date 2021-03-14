@@ -173,3 +173,9 @@ main {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.loca-route-details {
+    font-size: small;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
