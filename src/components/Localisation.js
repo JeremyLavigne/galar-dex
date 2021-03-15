@@ -18,16 +18,16 @@ function Localisation({ routeName, routeDetails, pokemonName }) {
         }
     }
 
-    console.log(routeName, routeDetails);
-
     return (
         <>
             <div className="loca-route">
                 <span>{routeName}</span>
                 <button 
-                    className="loca-route-plus"
+                    className="btn btn-plus"
                     onClick={() => setOpenDetails(!openDetails)}
-                >+</button>
+                >
+                    { openDetails ? '-' : '+' }
+                </button>
             </div>
             {
                 openDetails && 

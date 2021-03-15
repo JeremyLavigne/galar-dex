@@ -43,10 +43,12 @@ function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
                             </div>
                         }
                     </div>
-                    <img className="image-full-size" alt="artwork" src={image} />
+                    <div className="artwork-container">
+                        <img className="artwork-pokemon" alt="artwork" src={image} />
+                    </div>
                 </div>
 
-                <button className="modal-close" onClick={handleClose}>Close</button>
+                <button className="btn btn-close" onClick={handleClose}>Close</button>
             </div>
         </>
     );

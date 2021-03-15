@@ -17,15 +17,9 @@ function Line({ pokemon, setModalIsOpen, setActivePokemon }) {
             </div>
             <div className="line-buttons">
                 <button 
-                    className="line-find-button"
+                    className="btn btn-find"
                     onClick={handleClickFind}
                 >Find</button>
-                {/* <div>
-                    // pokeball icon 
-                    // click check/uncheck 
-                    // counter how many pokemon caught, etc...
-                    <input type="checkbox"></input>
-                </div> */}
             </div>
         </div>
     );
