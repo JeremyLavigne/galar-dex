@@ -1,4 +1,3 @@
-import './App.css';
 import { useState } from 'react';
 
 import Line from './components/Line';
