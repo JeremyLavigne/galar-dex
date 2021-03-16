@@ -1,0 +1,3644 @@
+[
+  {
+    "antre": "Antre 1",
+    "stars": "1",
+    "pokemons": [
+      "Machoc",
+      "Debugant",
+      "Charpenti",
+      "Baggiguane",
+      "Cradopaud"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 1",
+    "stars": "2",
+    "pokemons": [
+      "Charpenti",
+      "Baggiguane",
+      "Cradopaud",
+      "Machopeur",
+      "Ouvrifier"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 1",
+    "stars": "3",
+    "pokemons": [
+      "Ouvrifier",
+      "Machopeur",
+      "Kicklee",
+      "Tygnon",
+      "Baggaïd",
+      "Coatox"
+    ],
+    "percentages": [
+      "30",
+      "10",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 1",
+    "stars": "4",
+    "pokemons": [
+      "Bétochef",
+      "Kapoera",
+      "Kicklee",
+      "Tygnon",
+      "Baggaïd",
+      "Coatox"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "25",
+      "25",
+      "25",
+      "25"
+    ]
+  },
+  {
+    "antre": "Antre 1",
+    "stars": "5",
+    "pokemons": [
+      "Tygnon",
+      "Kicklee",
+      "Baggaïd",
+      "Coatox",
+      "Bétochef",
+      "Kapoera",
+      "Mackogneur"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "30",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 2",
+    "stars": "1",
+    "pokemons": [
+      "Tarsal",
+      "Munna",
+      "Psystigri",
+      "Scrutella",
+      "Nucléos",
+      "Lewso"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "10",
+      "r5"
+    ]
+  },
+  {
+    "antre": "Antre 2",
+    "stars": "2",
+    "pokemons": [
+      "Scrutella",
+      "Nucléos",
+      "Psystigri",
+      "Kirlia",
+      "Lewsor"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 2",
+    "stars": "3",
+    "pokemons": [
+      "Kirlia",
+      "Mushana",
+      "Mesmérella",
+      "Méios",
+      "Mistigrix M",
+      "Mistigrix F"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 2",
+    "stars": "4",
+    "pokemons": [
+      "Mushana",
+      "Mesmérella",
+      "Méios",
+      "Mistigrix M",
+      "Mistigrix F",
+      "Sidérella",
+      "Symbios"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "30",
+      "30",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 2",
+    "stars": "5",
+    "pokemons": [
+      "Gardevoir",
+      "Mushana",
+      "Solaroc",
+      "Séléroc",
+      "Sidérella",
+      "Symbios"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "25",
+      "25",
+      "25",
+      "25"
+    ]
+  },
+  {
+    "antre": "Antre 3",
+    "stars": "1",
+    "pokemons": [
+      "Manzaï",
+      "Nodulithe",
+      "Opermine",
+      "Crabicoque"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 3",
+    "stars": "2",
+    "pokemons": [
+      "Opermine",
+      "Nodulithe",
+      "Crabicoque",
+      "Rhinocorne",
+      "Géolithe"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 3",
+    "stars": "3",
+    "pokemons": [
+      "Géolithe",
+      "Rhinoféros",
+      "Simularbre",
+      "Golgopathe",
+      "Rhinocorne"
+    ],
+    "percentages": [
+      "30",
+      "20",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 3",
+    "stars": "4",
+    "pokemons": [
+      "Gigalithe",
+      "Crabaraque",
+      "Rhinoféros",
+      "Simularbre",
+      "Golgopathe"
+    ],
+    "percentages": [
+      "50",
+      "50",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 3",
+    "stars": "5",
+    "pokemons": [
+      "Simularbre",
+      "Crabaraque",
+      "Caratroc",
+      "Gigalithe",
+      "Rhinoféros"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 4",
+    "stars": "1",
+    "pokemons": [
+      "Chenipan",
+      "Larvibule",
+      "Ningale",
+      "Statitik"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 4",
+    "stars": "2",
+    "pokemons": [
+      "Ningale",
+      "Statitik",
+      "Chrysacier",
+      "Fermite"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 4",
+    "stars": "3",
+    "pokemons": [
+      "Fermite",
+      "Chrysacier",
+      "Papilusion",
+      "Ninjask",
+      "Chrysapile"
+    ],
+    "percentages": [
+      "30",
+      "10",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 4",
+    "stars": "4",
+    "pokemons": [
+      "Mygavolt",
+      "Papilusion",
+      "Ninjask",
+      "Chrysapile"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 4",
+    "stars": "5",
+    "pokemons": [
+      "Papilusion",
+      "Mygavolt",
+      "Fermite",
+      "Lucanon",
+      "Ninjask"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 5",
+    "stars": "1",
+    "pokemons": [
+      "Chenipan",
+      "Apitrini",
+      "Bombydou",
+      "Larvadar"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 5",
+    "stars": "2",
+    "pokemons": [
+      "Bombydou",
+      "Larvadar",
+      "Chrysacier",
+      "Statitik"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 5",
+    "stars": "3",
+    "pokemons": [
+      "Chrysacier",
+      "Papilusion",
+      "Mygavolt",
+      "Coléodôme",
+      "Statitik"
+    ],
+    "percentages": [
+      "30",
+      "20",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 5",
+    "stars": "4",
+    "pokemons": [
+      "Rubombelle",
+      "Papilusion",
+      "Mygavolt",
+      "Coléodôme"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 5",
+    "stars": "5",
+    "pokemons": [
+      "Papilusion",
+      "Rubombelle",
+      "Apireine",
+      "Astronelle",
+      "Mygavolt"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 6",
+    "stars": "1",
+    "pokemons": [
+      "Fantominus",
+      "Skelénox",
+      "Baudrive",
+      "Brocélôme",
+      "Viskus"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "e5"
+    ]
+  },
+  {
+    "antre": "Antre 6",
+    "stars": "2",
+    "pokemons": [
+      "Baudrive",
+      "Brocélôme",
+      "Viskuse",
+      "Pitrouille"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 6",
+    "stars": "3",
+    "pokemons": [
+      "Pitrouille",
+      "Spectrum",
+      "Téraclope",
+      "Grodrive"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 6",
+    "stars": "4",
+    "pokemons": [
+      "Desséliande",
+      "Téraclope",
+      "Grodrive",
+      "Spectrum"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 6",
+    "stars": "5",
+    "pokemons": [
+      "Desséliande",
+      "Grodrive",
+      "Moyade",
+      "Banshitrouye",
+      "Téraclope"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 7",
+    "stars": "1",
+    "pokemons": [
+      "Magicarpe",
+      "Babimanta",
+      "Rémoraid",
+      "Loupio"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 7",
+    "stars": "2",
+    "pokemons": [
+      "Rémoraid",
+      "Loupio",
+      "Wailmer",
+      "Bargantua",
+      "Bargantua"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 7",
+    "stars": "3",
+    "pokemons": [
+      "Bargantua",
+      "Bargantua",
+      "Lanturn",
+      "Octillery",
+      "Démanta",
+      "Wailmer"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 7",
+    "stars": "4",
+    "pokemons": [
+      "Wailord",
+      "Lanturn",
+      "Démanta",
+      "Octillery"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 7",
+    "stars": "5",
+    "pokemons": [
+      "Lanturn",
+      "Wailord",
+      "Léviator",
+      "Froussardine",
+      "Démanta"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 8",
+    "stars": "1",
+    "pokemons": [
+      "Khélocrok",
+      "Embrochet",
+      "Sancoki",
+      "Araqua"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 8",
+    "stars": "2",
+    "pokemons": [
+      "Sancoki",
+      "Araqua",
+      "Wailmer",
+      "Bargantua",
+      "Bargantua"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 8",
+    "stars": "3",
+    "pokemons": [
+      "Bargantua",
+      "Bargantua",
+      "Froussardine",
+      "Torgamord",
+      "Hastacuda",
+      "Wailmer"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 8",
+    "stars": "4",
+    "pokemons": [
+      "Tarenbulle",
+      "Torgamord",
+      "Hastacuda",
+      "Froussardine"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 8",
+    "stars": "5",
+    "pokemons": [
+      "Tarenbulle",
+      "Hastacuda",
+      "Wailord",
+      "Tritosor",
+      "Torgamord"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 9",
+    "stars": "1",
+    "pokemons": [
+      "Axoloto",
+      "Khélocrok",
+      "Tritonde",
+      "Écrapince"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 9",
+    "stars": "2",
+    "pokemons": [
+      "Écrapince",
+      "Tritonde",
+      "Kokiyas",
+      "Batracné"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 9",
+    "stars": "3",
+    "pokemons": [
+      "Batracné",
+      "Maraiste",
+      "Concombaffe",
+      "Torgamord"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 9",
+    "stars": "4",
+    "pokemons": [
+      "Crustabri",
+      "Maraiste",
+      "Concombaffe",
+      "Torgamord"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 9",
+    "stars": "5",
+    "pokemons": [
+      "Crustabri",
+      "Concombaffe",
+      "Colhomard",
+      "Crapustule",
+      "Maraiste"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 10",
+    "stars": "1",
+    "pokemons": [
+      "Debugant",
+      "Nounourson",
+      "Poulpaf",
+      "Pandespiègle"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 10",
+    "stars": "2",
+    "pokemons": [
+      "Poulpaf",
+      "Pandespiègle",
+      "Canarticho",
+      "Nounourson",
+      "Karaclée",
+      "Judokrak"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 10",
+    "stars": "3",
+    "pokemons": [
+      "Judokrak",
+      "Karaclée",
+      "Pandarbare",
+      "Brutalibré",
+      "Chelours"
+    ],
+    "percentages": [
+      "40",
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 10",
+    "stars": "4",
+    "pokemons": [
+      "Pandarbare",
+      "Brutalibré",
+      "Chelours",
+      "Chelours",
+      "Palartich"
+    ],
+    "percentages": [
+      "33",
+      "33",
+      "20",
+      "33",
+      "o1"
+    ]
+  },
+  {
+    "antre": "Antre 10",
+    "stars": "5",
+    "pokemons": [
+      "Krakos",
+      "Pandarbare",
+      "Chelours",
+      "Chelours",
+      "Brutalibré",
+      "Hexadron",
+      "Palartich"
+    ],
+    "percentages": [
+      "25",
+      "22",
+      "25",
+      "22",
+      "20",
+      "10",
+      "o1"
+    ]
+  },
+  {
+    "antre": "Antre 11",
+    "stars": "1",
+    "pokemons": [
+      "Miaouss",
+      "Tic",
+      "Archéomire",
+      "Grindur"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 11",
+    "stars": "2",
+    "pokemons": [
+      "Archéomire",
+      "Grindur",
+      "Scalpion",
+      "Charibari"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 11",
+    "stars": "3",
+    "pokemons": [
+      "Charibari",
+      "Archéodong",
+      "Clic",
+      "Berserkatt"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 11",
+    "stars": "4",
+    "pokemons": [
+      "Archéodong",
+      "Clic",
+      "Scalproie",
+      "Berserkatt"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "25",
+      "25"
+    ]
+  },
+  {
+    "antre": "Antre 11",
+    "stars": "5",
+    "pokemons": [
+      "Archéodong",
+      "Scalproie",
+      "Clic",
+      "Cliticlic",
+      "Berserkatt",
+      "Pachyradjah"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "10",
+      "10",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 12",
+    "stars": "1",
+    "pokemons": [
+      "Archéomire",
+      "Tic",
+      "Grindur",
+      "Scalpion"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 12",
+    "stars": "2",
+    "pokemons": [
+      "Grindur",
+      "Scalpion",
+      "Archéomire",
+      "Tic"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 12",
+    "stars": "3",
+    "pokemons": [
+      "Archéomire",
+      "Steelix",
+      "Archéodong",
+      "Noacier"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 12",
+    "stars": "4",
+    "pokemons": [
+      "Steelix",
+      "Archéodong",
+      "Noacier",
+      "Scalproie"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "25",
+      "25"
+    ]
+  },
+  {
+    "antre": "Antre 12",
+    "stars": "5",
+    "pokemons": [
+      "Archéodong",
+      "Scalproie",
+      "Steelix",
+      "Steelix",
+      "Mysdibule",
+      "Noacier",
+      "Togedemaru"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "10",
+      "10",
+      "10",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 13",
+    "stars": "1",
+    "pokemons": [
+      "Mime Jr.",
+      "Larvadar",
+      "Natu",
+      "Bibichut"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 13",
+    "stars": "2",
+    "pokemons": [
+      "Natu",
+      "Bibichut",
+      "Ponyta",
+      "Coléodôme",
+      "Chapotus"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 13",
+    "stars": "3",
+    "pokemons": [
+      "Chapotus",
+      "Xatu",
+      "Cryptéro",
+      "Wimessir M",
+      "Wimessir F"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 13",
+    "stars": "4",
+    "pokemons": [
+      "Xatu",
+      "Wimessir M",
+      "Wimessir F",
+      "Cryptéro",
+      "Chapotus",
+      "Cryptéro",
+      "Gouroutan"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "25",
+      "20",
+      "15",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 13",
+    "stars": "5",
+    "pokemons": [
+      "Wimessir M",
+      "Wimessir F",
+      "Cryptéro",
+      "Galopa",
+      "Astronelle",
+      "Gouroutan",
+      "Sorcilence"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "25",
+      "25",
+      "25",
+      "25",
+      "25"
+    ]
+  },
+  {
+    "antre": "Antre 14",
+    "stars": "1",
+    "pokemons": [
+      "Mime Jr.",
+      "Okéoké",
+      "Natu",
+      "Balbuto"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 14",
+    "stars": "2",
+    "pokemons": [
+      "Natu",
+      "Balbuto",
+      "M. Mime",
+      "Archéomire"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 14",
+    "stars": "3",
+    "pokemons": [
+      "M. Mime",
+      "Xatu",
+      "Cryptéro",
+      "Wimessir M",
+      "Wimessir F"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 14",
+    "stars": "4",
+    "pokemons": [
+      "Xatu",
+      "Cryptéro",
+      "Wimessir M",
+      "Wimessir F",
+      "M. Mime",
+      "Kaorine"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "25",
+      "25",
+      "15",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 14",
+    "stars": "5",
+    "pokemons": [
+      "Qulbutoké",
+      "Kaorine",
+      "M. Glaquette",
+      "Wimessir M",
+      "Wimessir F"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "25",
+      "25",
+      "25"
+    ]
+  },
+  {
+    "antre": "Antre 15",
+    "stars": "1",
+    "pokemons": [
+      "Charbi",
+      "Nodulithe",
+      "Crabicoque",
+      "Opermine"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 15",
+    "stars": "2",
+    "pokemons": [
+      "Crabicoque",
+      "Nodulithe",
+      "Opermine",
+      "Géolithe",
+      "Wagonmine"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 15",
+    "stars": "3",
+    "pokemons": [
+      "Géolithe",
+      "Crabaraque",
+      "Golgopathe",
+      "Onix",
+      "Monthracite"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 15",
+    "stars": "4",
+    "pokemons": [
+      "Monthracite",
+      "Gigalithe",
+      "Onix",
+      "Monthracite",
+      "Golgopathe",
+      "Crabaraque"
+    ],
+    "percentages": [
+      "50",
+      "50",
+      "20",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 15",
+    "stars": "5",
+    "pokemons": [
+      "Gigalithe",
+      "Monthracite",
+      "Monthracite",
+      "Onix",
+      "Onix",
+      "Crabaraque",
+      "Rhinasto"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "25",
+      "25",
+      "30",
+      "15",
+      "c5"
+    ]
+  },
+  {
+    "antre": "Antre 16",
+    "stars": "1",
+    "pokemons": [
+      "Taupiqueur",
+      "Tiboudet",
+      "Ningale",
+      "Rototaupe"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 16",
+    "stars": "2",
+    "pokemons": [
+      "Ningale",
+      "Rototaupe",
+      "Onix",
+      "Barloche"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 16",
+    "stars": "3",
+    "pokemons": [
+      "Barloche",
+      "Steelix",
+      "Barbicha",
+      "Excavarenne"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 16",
+    "stars": "4",
+    "pokemons": [
+      "Triopikeur",
+      "Barbicha",
+      "Excavarenne",
+      "Steelix"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 16",
+    "stars": "5",
+    "pokemons": [
+      "Minotaupe",
+      "Triopikeur",
+      "Excavarenne",
+      "Barbicha",
+      "Bourrinos"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "25",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 17",
+    "stars": "1",
+    "pokemons": [
+      "Dunaja",
+      "Tutafeh",
+      "Hippopatas",
+      "Marcacrin",
+      "Kraknoix"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 17",
+    "stars": "2",
+    "pokemons": [
+      "Hippopatas",
+      "Marcacrin",
+      "Kraknoix",
+      "Cochignon"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 17",
+    "stars": "3",
+    "pokemons": [
+      "Cochignon",
+      "Vibraninf",
+      "Limonde"
+    ],
+    "percentages": [
+      "40",
+      "30",
+      "30"
+    ]
+  },
+  {
+    "antre": "Antre 17",
+    "stars": "4",
+    "pokemons": [
+      "Hippodocus",
+      "Libégon",
+      "Vibraninf",
+      "Limonde"
+    ],
+    "percentages": [
+      "50",
+      "50",
+      "20",
+      "30"
+    ]
+  },
+  {
+    "antre": "Antre 17",
+    "stars": "5",
+    "pokemons": [
+      "Libégon",
+      "Hippodocus",
+      "Limonde",
+      "Vibraninf",
+      "Dunaconda",
+      "Tutétékr"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "29",
+      "29",
+      "10",
+      "i1"
+    ]
+  },
+  {
+    "antre": "Antre 18",
+    "stars": "1",
+    "pokemons": [
+      "Goupix",
+      "Caninos",
+      "Grillepattes",
+      "Tritox",
+      "Funécire"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 18",
+    "stars": "2",
+    "pokemons": [
+      "Tritox",
+      "Funécire",
+      "Darumarond",
+      "Aflamanoir",
+      "Malamandre",
+      "Mélancolux"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 18",
+    "stars": "3",
+    "pokemons": [
+      "Malamandre",
+      "Mélancolux",
+      "Feunard",
+      "Arcanin",
+      "Chartor"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 18",
+    "stars": "4",
+    "pokemons": [
+      "Scolocendre",
+      "Aflamanoir",
+      "Feunard",
+      "Arcanin",
+      "Chartor",
+      "Mélancolux",
+      "Malamandre"
+    ],
+    "percentages": [
+      "50",
+      "50",
+      "20",
+      "20",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 18",
+    "stars": "5",
+    "pokemons": [
+      "Aflamanoir",
+      "Scolocendre",
+      "Chartor",
+      "Feunard",
+      "Arcanin",
+      "Darumacho",
+      "Arcanin"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "25",
+      "10",
+      "10",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 19",
+    "stars": "1",
+    "pokemons": [
+      "Goupix",
+      "Caninos",
+      "Tritox",
+      "Funécire"
+    ],
+    "percentages": [
+      "45",
+      "45",
+      "35",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 19",
+    "stars": "2",
+    "pokemons": [
+      "Goupix",
+      "Caninos",
+      "Funécire",
+      "Tritox",
+      "Malamandre",
+      "Mélancolux"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 19",
+    "stars": "3",
+    "pokemons": [
+      "Malamandre",
+      "Mélancolux",
+      "Feunard",
+      "Arcanin",
+      "Chartor"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 19",
+    "stars": "4",
+    "pokemons": [
+      "Mélancolux",
+      "Chartor",
+      "Feunard",
+      "Malamandre",
+      "Malamandre",
+      "Arcanin",
+      "Chartor"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15",
+      "60",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 19",
+    "stars": "5",
+    "pokemons": [
+      "Feunard",
+      "Chartor",
+      "Malamandre",
+      "Boumat",
+      "Lugulabre",
+      "Arcanin",
+      "Malamandre",
+      "Chartor",
+      "Arcani"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "a5",
+      "15",
+      "30",
+      "30",
+      "20",
+      "n5"
+    ]
+  },
+  {
+    "antre": "Antre 20",
+    "stars": "1",
+    "pokemons": [
+      "Goupix",
+      "Caninos",
+      "Grillepattes",
+      "Tritox",
+      "Funécire"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 20",
+    "stars": "2",
+    "pokemons": [
+      "Funécire",
+      "Tritox",
+      "Darumarond",
+      "Malamandre",
+      "Chartor",
+      "Wagomine"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 20",
+    "stars": "3",
+    "pokemons": [
+      "Malamandre",
+      "Wagomine",
+      "Feunard",
+      "Arcanin",
+      "Chartor"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 20",
+    "stars": "4",
+    "pokemons": [
+      "Scolocendre",
+      "Feunard",
+      "Arcanin",
+      "Chartor",
+      "Wagomine",
+      "Malamandre"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 20",
+    "stars": "5",
+    "pokemons": [
+      "Monthracite",
+      "Chartor",
+      "Scolocendre",
+      "Feunard",
+      "Darumacho",
+      "Arcanin",
+      "Arcanin"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "25",
+      "10",
+      "10",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 21",
+    "stars": "1",
+    "pokemons": [
+      "Sorbébé",
+      "Marcacrin",
+      "Blizzi",
+      "Grelaçon"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 21",
+    "stars": "2",
+    "pokemons": [
+      "Blizzi",
+      "Grelaçon",
+      "Sorboul",
+      "Cadoiz"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "25",
+      "o5"
+    ]
+  },
+  {
+    "antre": "Antre 21",
+    "stars": "3",
+    "pokemons": [
+      "Sorboul",
+      "Cochignon",
+      "Blizzaroi",
+      "Séracrawl"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 21",
+    "stars": "4",
+    "pokemons": [
+      "Crustabri",
+      "Blizzaroi",
+      "Séracrawl",
+      "Cochignon"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 21",
+    "stars": "5",
+    "pokemons": [
+      "Sorbouboul",
+      "Blizzaroi",
+      "Crustabri",
+      "Séracrawl",
+      "Lokhlass"
+    ],
+    "percentages": [
+      "30",
+      "25",
+      "25",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 22",
+    "stars": "1",
+    "pokemons": [
+      "Marcacrin",
+      "Polarhume",
+      "Frissonille",
+      "Farfuret"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 22",
+    "stars": "2",
+    "pokemons": [
+      "Frissonille",
+      "Farfuret",
+      "M. Mime",
+      "Cochignon"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 22",
+    "stars": "3",
+    "pokemons": [
+      "Cochignon",
+      "Polagriffe",
+      "Crustabri",
+      "M. Glaquette"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 22",
+    "stars": "4",
+    "pokemons": [
+      "Crustabri",
+      "Polagriffe",
+      "M. Glaquette",
+      "Mammochon"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 22",
+    "stars": "5",
+    "pokemons": [
+      "Mammochon",
+      "M. Glaquette",
+      "Beldeneige",
+      "Polagriffe",
+      "Dimoret"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 23",
+    "stars": "1",
+    "pokemons": [
+      "Stalgamin",
+      "Frissonille",
+      "Darumarond",
+      "Farfuret",
+      "Cadoiz"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10",
+      "o5"
+    ]
+  },
+  {
+    "antre": "Antre 23",
+    "stars": "2",
+    "pokemons": [
+      "Farfuret",
+      "Darumarond",
+      "M. Mime",
+      "Blizzi",
+      "Cadoiz"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "o5"
+    ]
+  },
+  {
+    "antre": "Antre 23",
+    "stars": "3",
+    "pokemons": [
+      "Blizzi",
+      "Oniglali",
+      "Blizzaroi",
+      "M. Glaquette"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 23",
+    "stars": "4",
+    "pokemons": [
+      "Blizzaroi",
+      "Oniglali",
+      "M. Glaquette",
+      "Beldeneige"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 23",
+    "stars": "5",
+    "pokemons": [
+      "M. Glaquette",
+      "Beldeneige",
+      "Oniglali",
+      "Momartik",
+      "Darumacho",
+      "Bekaglaço"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10",
+      "n5"
+    ]
+  },
+  {
+    "antre": "Antre 24",
+    "stars": "1",
+    "pokemons": [
+      "Pichu",
+      "Dynavolt",
+      "Statitik",
+      "Loupio"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 24",
+    "stars": "2",
+    "pokemons": [
+      "Statitik",
+      "Loupio",
+      "Chrysapile",
+      "Pikachu"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 24",
+    "stars": "3",
+    "pokemons": [
+      "Pikachu",
+      "Lanturn",
+      "Élecspint"
+    ],
+    "percentages": [
+      "60",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 24",
+    "stars": "4",
+    "pokemons": [
+      "Pikachu",
+      "Lanturn",
+      "Élecspint",
+      "Mygavolt"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 24",
+    "stars": "5",
+    "pokemons": [
+      "Lanturn",
+      "Mygavolt",
+      "Élecspint",
+      "Raichu",
+      "Lucanon"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 25",
+    "stars": "1",
+    "pokemons": [
+      "Voltoutou",
+      "Galvaran",
+      "Toxizap",
+      "Loupio"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 25",
+    "stars": "2",
+    "pokemons": [
+      "Toxizap",
+      "Loupio",
+      "Pikachu",
+      "Lanturn"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 25",
+    "stars": "3",
+    "pokemons": [
+      "Lanturn",
+      "Iguolta",
+      "Fulgudog",
+      "Salarsen"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 25",
+    "stars": "4",
+    "pokemons": [
+      "Fulgudog",
+      "Iguolta",
+      "Salarsen",
+      "Wattapik"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 25",
+    "stars": "5",
+    "pokemons": [
+      "Iguolta",
+      "Salarsen",
+      "Wattapik",
+      "Togedemaru",
+      "Morpek"
+    ],
+    "percentages": [
+      "35",
+      "30",
+      "20",
+      "10",
+      "o5"
+    ]
+  },
+  {
+    "antre": "Antre 26",
+    "stars": "1",
+    "pokemons": [
+      "Rozbouton",
+      "Grainipiot",
+      "Nénupiot",
+      "Croquine",
+      "Mystherbe"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 26",
+    "stars": "2",
+    "pokemons": [
+      "Mystherbe",
+      "Croquine",
+      "Pifeuil",
+      "Lombre",
+      "Rosélia"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 26",
+    "stars": "3",
+    "pokemons": [
+      "Rosélia",
+      "Ortide",
+      "Tengalice",
+      "Ludicolo",
+      "Candine"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 26",
+    "stars": "4",
+    "pokemons": [
+      "Ortide",
+      "Tengalice",
+      "Ludicolo",
+      "Candine",
+      "Sucreine"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 26",
+    "stars": "5",
+    "pokemons": [
+      "Tengalice",
+      "Ludicolo",
+      "Candine",
+      "Sucreine",
+      "Rafflesia",
+      "Joliflo"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "20",
+      "15",
+      "r5"
+    ]
+  },
+  {
+    "antre": "Antre 27",
+    "stars": "1",
+    "pokemons": [
+      "Rozbouton",
+      "Tournicoton",
+      "Doudouvet",
+      "Verpom"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 27",
+    "stars": "2",
+    "pokemons": [
+      "Doudouvet",
+      "Verpom",
+      "Ceribou",
+      "Rosélia"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 27",
+    "stars": "3",
+    "pokemons": [
+      "Rosélia",
+      "Grindur",
+      "Noacier",
+      "Ceriflor"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 27",
+    "stars": "4",
+    "pokemons": [
+      "Grindur",
+      "Noacier",
+      "Ceriflor",
+      "Blancoton"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 27",
+    "stars": "5",
+    "pokemons": [
+      "Ceriflor",
+      "Noacier",
+      "Blancoton",
+      "Farfaduvet",
+      "Dratati",
+      "Pomdrap"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "28",
+      "10",
+      "n5",
+      "i2"
+    ]
+  },
+  {
+    "antre": "Antre 28",
+    "stars": "1",
+    "pokemons": [
+      "Pitrouille",
+      "Brocélôme",
+      "Pitrouille taille Mini",
+      "Spododo"
+    ],
+    "percentages": [
+      "40",
+      "35",
+      "10",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 28",
+    "stars": "2",
+    "pokemons": [
+      "Pitrouille",
+      "Spododo",
+      "Rosélia",
+      "Pitrouille taille Max"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "25",
+      "i5"
+    ]
+  },
+  {
+    "antre": "Antre 28",
+    "stars": "3",
+    "pokemons": [
+      "Rosélia",
+      "Lampignon",
+      "Maracachi",
+      "Desséliande"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 28",
+    "stars": "4",
+    "pokemons": [
+      "Lampignon",
+      "Maracachi",
+      "Desséliande",
+      "Banshitrouye"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 28",
+    "stars": "5",
+    "pokemons": [
+      "Maracachi",
+      "Desséliande",
+      "Banshitrouye",
+      "Sinistrail",
+      "Pitrouille taille Ultr"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "29",
+      "10",
+      "a1"
+    ]
+  },
+  {
+    "antre": "Antre 29",
+    "stars": "1",
+    "pokemons": [
+      "Moufouette",
+      "Miamiasme",
+      "Rapion",
+      "Vorastérie",
+      "Mysterbe"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 29",
+    "stars": "2",
+    "pokemons": [
+      "Rapion",
+      "Vorastérie",
+      "Mysterbe",
+      "Rosélia"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 29",
+    "stars": "3",
+    "pokemons": [
+      "Rosélia",
+      "Qwilfish",
+      "Drascore",
+      "Rafflesia"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 29",
+    "stars": "4",
+    "pokemons": [
+      "Qwilfish",
+      "Drascore",
+      "Rafflesia",
+      "Prédastérie",
+      "Moufflair"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 29",
+    "stars": "5",
+    "pokemons": [
+      "Rafflesia",
+      "Drascore",
+      "Prédastérie",
+      "Moufflai",
+      "Miasmax"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "r5",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 30",
+    "stars": "1",
+    "pokemons": [
+      "Toxizap",
+      "Fantominus",
+      "Rapion",
+      "Mysterbe"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 30",
+    "stars": "2",
+    "pokemons": [
+      "Rapion",
+      "Mysterbe",
+      "Ortide",
+      "Spectrum"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 30",
+    "stars": "3",
+    "pokemons": [
+      "Spectrum",
+      "Smogo",
+      "Qwilfish",
+      "Rafflesia"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 30",
+    "stars": "4",
+    "pokemons": [
+      "Smogo",
+      "Qwilfish",
+      "Rafflesia",
+      "Rosélia"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 30",
+    "stars": "5",
+    "pokemons": [
+      "Qwilfish",
+      "Rafflesia",
+      "Rosélia",
+      "Salarsen",
+      "Smogog"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "15",
+      "o5"
+    ]
+  },
+  {
+    "antre": "Antre 31",
+    "stars": "1",
+    "pokemons": [
+      "Poichigeon",
+      "Hoothoot",
+      "Natu",
+      "Furaiglon",
+      "Vostourno"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 31",
+    "stars": "2",
+    "pokemons": [
+      "Natu",
+      "Furaiglon",
+      "Vostourno",
+      "Chovsourir",
+      "Colombeau"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 31",
+    "stars": "3",
+    "pokemons": [
+      "Colombeau",
+      "Déflaisan",
+      "Noarfang",
+      "Rhinolove"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 31",
+    "stars": "4",
+    "pokemons": [
+      "Déflaisan",
+      "Noarfang",
+      "Rhinolove",
+      "Xatu"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 31",
+    "stars": "5",
+    "pokemons": [
+      "Noarfang",
+      "Rhinolove",
+      "Xatu",
+      "Gueriaigle",
+      "Vaututrice",
+      "Cryptér"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "15",
+      "15",
+      "o5"
+    ]
+  },
+  {
+    "antre": "Antre 32",
+    "stars": "1",
+    "pokemons": [
+      "Minisange",
+      "Sonistrelle",
+      "Goélise",
+      "Natu"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 32",
+    "stars": "2",
+    "pokemons": [
+      "Goélise",
+      "Natu",
+      "Baudrive",
+      "Bleuseille"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 32",
+    "stars": "3",
+    "pokemons": [
+      "Bleuseille",
+      "Xatu",
+      "Bekipan",
+      "Grodrive"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 32",
+    "stars": "4",
+    "pokemons": [
+      "Grodrive",
+      "Xatu",
+      "Bekipan",
+      "Corvaillus"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 32",
+    "stars": "5",
+    "pokemons": [
+      "Xatu",
+      "Bekipan",
+      "Corvaillus",
+      "Brutalibré",
+      "Nigosie"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "15",
+      "r5"
+    ]
+  },
+  {
+    "antre": "Antre 33",
+    "stars": "1",
+    "pokemons": [
+      "Mélo",
+      "Togepi",
+      "Bombydou",
+      "Surcroquin ",
+      "Fluvetin"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 33",
+    "stars": "2",
+    "pokemons": [
+      "Bombydou",
+      "Surcroquin ",
+      "Fluvetin",
+      "Mélofée",
+      "Spododo"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 33",
+    "stars": "3",
+    "pokemons": [
+      "Spododo",
+      "Togetic",
+      "Mélodelfe",
+      "Rubombelle"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 33",
+    "stars": "4",
+    "pokemons": [
+      "Togetic",
+      "Mélodelfe",
+      "Rubombelle",
+      "Lampignon"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 33",
+    "stars": "5",
+    "pokemons": [
+      "Mélodelfe",
+      "Rubombelle",
+      "Lampignon",
+      "Cucanaille",
+      "Cocotine",
+      "Togekis"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "15",
+      "15",
+      "s5"
+    ]
+  },
+  {
+    "antre": "Antre 34",
+    "stars": "1",
+    "pokemons": [
+      "Mime Jr.",
+      "Crèmy",
+      "Grimalin",
+      "Tarsal"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 34",
+    "stars": "2",
+    "pokemons": [
+      "Grimalin",
+      "Tarsal",
+      "Mélofée",
+      "Kirlia"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 34",
+    "stars": "3",
+    "pokemons": [
+      "Kirlia",
+      "Fourbelin",
+      "Mélodelfe",
+      "Gardevoir"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 34",
+    "stars": "4",
+    "pokemons": [
+      "Fourbelin",
+      "Mélodelfe",
+      "Gardevoir",
+      "Charmilly"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 34",
+    "stars": "5",
+    "pokemons": [
+      "Mélodelfe",
+      "Gardevoir",
+      "Charmilly",
+      "Galopa",
+      "Mysdibule",
+      "Angoliat"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "15",
+      "15",
+      "h5"
+    ]
+  },
+  {
+    "antre": "Antre 35",
+    "stars": "1",
+    "pokemons": [
+      "Chacripan",
+      "Moufouette",
+      "Farfuret",
+      "Sepiatop"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 35",
+    "stars": "2",
+    "pokemons": [
+      "Farfuret",
+      "Sepiatop",
+      "Scalpion",
+      "Léopardus"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 35",
+    "stars": "3",
+    "pokemons": [
+      "Léopardus",
+      "Moufflair",
+      "Dimoret",
+      "Sepiatroce"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 35",
+    "stars": "4",
+    "pokemons": [
+      "Moufflair",
+      "Dimoret",
+      "Sepiatroce",
+      "Scalproie"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 35",
+    "stars": "5",
+    "pokemons": [
+      "Dimoret",
+      "Sepiatroce",
+      "Scalproie",
+      "Colhomard",
+      "Tengalic",
+      "Ténéfi"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "15",
+      "e5",
+      "x5"
+    ]
+  },
+  {
+    "antre": "Antre 36",
+    "stars": "1",
+    "pokemons": [
+      "Goupilou",
+      "Zigzaton",
+      "Chacripan",
+      "Grimalin"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 36",
+    "stars": "2",
+    "pokemons": [
+      "Chacripan",
+      "Grimalin",
+      "Vostourno",
+      "Solochi",
+      "Roublenard"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 36",
+    "stars": "3",
+    "pokemons": [
+      "Roublenard",
+      "Linéon",
+      "Fourbelin",
+      "Angoliath"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 36",
+    "stars": "4",
+    "pokemons": [
+      "Linéon",
+      "Fourbelin",
+      "Angoliath",
+      "Vaututrice",
+      "Diamat"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 36",
+    "stars": "5",
+    "pokemons": [
+      "Fourbelin",
+      "Angoliath",
+      "Vaututrice",
+      "Diamat",
+      "Ixon",
+      "Tyranoci",
+      "Trioxhydr"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20",
+      "15",
+      "f5",
+      "e5"
+    ]
+  },
+  {
+    "antre": "Antre 37",
+    "stars": "1",
+    "pokemons": [
+      "Sonistrelle",
+      "Kraknoix",
+      "Coupenotte"
+    ],
+    "percentages": [
+      "45",
+      "35",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 37",
+    "stars": "2",
+    "pokemons": [
+      "Coupenotte",
+      "Bébécaille",
+      "Sonistrelle",
+      "Vibraninf",
+      "Kraknoix",
+      "Mucuscule"
+    ],
+    "percentages": [
+      "30",
+      "20",
+      "30",
+      "20",
+      "30",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 37",
+    "stars": "3",
+    "pokemons": [
+      "Écaïd",
+      "Tranchodon",
+      "Vibraninf",
+      "Incisache",
+      "Colimucus",
+      "Libégon"
+    ],
+    "percentages": [
+      "20",
+      "20",
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 37",
+    "stars": "4",
+    "pokemons": [
+      "Écaïd",
+      "Libégon",
+      "Tranchodon",
+      "Incisache",
+      "Colimucus",
+      "Tranchodon",
+      "Libégon"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "15",
+      "25",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 37",
+    "stars": "5",
+    "pokemons": [
+      "Incisache",
+      "Tranchodon",
+      "Libégon",
+      "Boumata",
+      "Ékaïse",
+      "Colimucus",
+      "Libégon",
+      "Tranchodon",
+      "Draïeul",
+      "Muplodocu"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "15",
+      "r5",
+      "30",
+      "30",
+      "20",
+      "15",
+      "s5"
+    ]
+  },
+  {
+    "antre": "Antre 38",
+    "stars": "1",
+    "pokemons": [
+      "Sonistrelle",
+      "Verpom",
+      "Bébécaille",
+      "Mucuscule",
+      "Fantrym"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 38",
+    "stars": "2",
+    "pokemons": [
+      "Sonistrelle",
+      "Bébécaille",
+      "Mucuscule",
+      "Verpom",
+      "Fantrym"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "30",
+      "30",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 38",
+    "stars": "3",
+    "pokemons": [
+      "Verpom",
+      "Bruyverne",
+      "Écaïd",
+      "Colimucus",
+      "Dispareptil"
+    ],
+    "percentages": [
+      "40",
+      "25",
+      "25",
+      "25",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 38",
+    "stars": "4",
+    "pokemons": [
+      "Écaïd",
+      "Ékaïser",
+      "Bruyverne",
+      "Dispareptil",
+      "Muplodocus",
+      "Colimucus"
+    ],
+    "percentages": [
+      "35",
+      "20",
+      "35",
+      "10",
+      "20",
+      "35"
+    ]
+  },
+  {
+    "antre": "Antre 38",
+    "stars": "5",
+    "pokemons": [
+      "Écaïd",
+      "Ékaïser",
+      "Pomdrap",
+      "Bruyverne",
+      "Lanssorie",
+      "Colimucus",
+      "Muplodocus",
+      "Dratati"
+    ],
+    "percentages": [
+      "35",
+      "20",
+      "i5",
+      "35",
+      "n5",
+      "35",
+      "20",
+      "n5"
+    ]
+  },
+  {
+    "antre": "Antre 39",
+    "stars": "1",
+    "pokemons": [
+      "Hoohoot",
+      "Sapereau",
+      "Poichigeon",
+      "Chinchidou"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "35",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 39",
+    "stars": "2",
+    "pokemons": [
+      "Poichigeon",
+      "Chinchidou",
+      "Galvaran",
+      "Nounourson"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 39",
+    "stars": "3",
+    "pokemons": [
+      "Nounourson",
+      "Noarfang",
+      "Déflaisan",
+      "Excavarenne"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 39",
+    "stars": "4",
+    "pokemons": [
+      "Excavarenne",
+      "Noarfang",
+      "Déflaisan",
+      "Iguolta"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 39",
+    "stars": "5",
+    "pokemons": [
+      "Noarfang",
+      "Déflaisan",
+      "Iguolta",
+      "Pashmilla",
+      "Chelour"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "15",
+      "s5"
+    ]
+  },
+  {
+    "antre": "Antre 39",
+    "stars": "6",
+    "pokemons": [
+      "Récompenses AObjets1★2★3★4★5★DT19 Triplattaque1",
+      "Récompenses BObjets1★2★3★4★5★DT19 Triplattaque1"
+    ],
+    "percentages": [
+      "00",
+      "00"
+    ]
+  },
+  {
+    "antre": "Antre 40",
+    "stars": "1",
+    "pokemons": [
+      "Rongourmand",
+      "Moumouton",
+      "Zigzaton",
+      "Goinfrex"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 40",
+    "stars": "2",
+    "pokemons": [
+      "Zigzaton",
+      "Rongrigou",
+      "Goinfrex",
+      "Wimessir M",
+      "Wimessir F"
+    ],
+    "percentages": [
+      "40",
+      "40",
+      "10",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 40",
+    "stars": "3",
+    "pokemons": [
+      "Rongrigou",
+      "Linéon",
+      "Moumouflon"
+    ],
+    "percentages": [
+      "60",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 40",
+    "stars": "4",
+    "pokemons": [
+      "Linéon",
+      "Rongrigou",
+      "Moumouflon",
+      "Excavarenne"
+    ],
+    "percentages": [
+      "35",
+      "25",
+      "25",
+      "15"
+    ]
+  },
+  {
+    "antre": "Antre 40",
+    "stars": "5",
+    "pokemons": [
+      "Rongrigou",
+      "Moumouflon",
+      "Excavarenne",
+      "Gueriaigle",
+      "Gouroutan",
+      "Ronfle"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "15",
+      "15",
+      "x5"
+    ]
+  },
+  {
+    "antre": "Antre 40",
+    "stars": "6",
+    "pokemons": [
+      "Récompenses AObjets1★2★3★4★5★DT42 Mégaphone1",
+      "Récompenses BObjets1★2★3★4★5★DT27 Blabla Dodo1"
+    ],
+    "percentages": [
+      "00",
+      "00"
+    ]
+  },
+  {
+    "antre": "Antre 41",
+    "stars": "1",
+    "pokemons": [
+      "Tritonde",
+      "Kokiyas",
+      "Loupio",
+      "Vorastérie",
+      "Batracné"
+    ],
+    "percentages": [
+      "35",
+      "35",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 41",
+    "stars": "2",
+    "pokemons": [
+      "Loupio",
+      "Vorastérie",
+      "Batracné",
+      "Embrochet"
+    ],
+    "percentages": [
+      "30",
+      "30",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 41",
+    "stars": "3",
+    "pokemons": [
+      "Embrochet",
+      "Crustabri",
+      "Lanturn",
+      "Froussardine",
+      "Prédastérie"
+    ],
+    "percentages": [
+      "40",
+      "20",
+      "20",
+      "20",
+      "20"
+    ]
+  },
+  {
+    "antre": "Antre 41",
+    "stars": "4",
+    "pokemons": [
+      "Crapustule",
+      "Lanturn",
+      "Froussardine",
+      "Crustabri",
+      "Prédastérie"
+    ],
+    "percentages": [
+      "50",
+      "20",
+      "20",
+      "10",
+      "10"
+    ]
+  },
+  {
+    "antre": "Antre 41",
+    "stars": "5",
+    "pokemons": [
+      "Crapustule",
+      "Froussardine",
+      "Prédastérie",
+      "Hastacuda",
+      "Crustabri",
+      "Lanturn"
+    ],
+    "percentages": [
+      "25",
+      "25",
+      "20",
+      "20",
+      "10",
+      "10"
+    ]
+  }
+]
