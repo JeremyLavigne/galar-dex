@@ -3,6 +3,8 @@ import routes from '../assets/routes/routes.json';
 import cities from '../assets/routes/cities.json';
 import others from '../assets/routes/others.json';
 import wild from '../assets/routes/wild-land.json';
+import classicRaids from '../assets/antres/non-rares.json';
+import rareRaids from '../assets/antres/non-rares.json';
 
 function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
 
@@ -14,6 +16,9 @@ function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
     const image = `https://pokeres.bastionbot.org/images/pokemon/${pokemon.nationalId}.png`
 
     const allRoutes = routes.concat(cities).concat(others).concat(wild);
+
+    const raids = classicRaids.filter((r) => r.pokemons.includes(pokemon.nameFr));
+    const raidsRare = rareRaids.filter((r) => r.pokemons.includes(pokemon.nameFr));
 
     return (
         <>
@@ -38,6 +43,23 @@ function MoreDetails({ pokemon, setModalIsOpen, setActivePokemon }) {
                                             routeDetails={allRoutes.filter((rte) => rte.route === loc)}
                                             pokemonName={pokemon.nameFr}
                                         />
+                                    )
+                                }
+                            </div>
+                        }
+                        { (raids.length > 0 || raidsRare.length) > 0 &&
+                            <div>
+                                <h3>Raids Dynamax</h3>
+                                {
+                                    raids.map((r) => 
+                                        <li>{r.antre} - {r.stars} &#9733; {r.percentages[r.pokemons.findIndex((p) => p === pokemon.nameFr)]} %
+                                        </li>
+                                    )
+                                }
+                                {
+                                    raidsRare.map((r) => 
+                                        <li>{r.antre} - {r.stars} &#9733; {r.percentages[r.pokemons.findIndex((p) => p === pokemon.nameFr)]} %
+                                        </li>
                                     )
                                 }
                             </div>
