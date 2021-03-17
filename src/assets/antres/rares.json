@@ -1628,7 +1628,7 @@
       "Bekipan",
       "Corvaillus",
       "Noarfang",
-      "Cadoiz"
+      "Cadoizo"
     ],
     "percentages": [
       "25",
@@ -1636,7 +1636,7 @@
       "20",
       "15",
       "10",
-      "o5"
+      "5"
     ]
   },
   {
@@ -1677,12 +1677,10 @@
     "pokemons": [
       "Lampignon",
       "Togetic",
-      "Mysdibule",
       "Galopa",
       "Fourbelin"
     ],
     "percentages": [
-      "20",
       "20",
       "20",
       "20",
@@ -1694,14 +1692,12 @@
     "stars": "4",
     "pokemons": [
       "Togekiss",
-      "Mysdibule",
       "Galopa",
       "Fourbelin",
       "Gardevoir"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -1713,32 +1709,18 @@
     "pokemons": [
       "Gardevoir",
       "Togekiss",
-      "Mysdibule",
       "Galopa",
       "Angoliath",
       "Fourbelin",
-      "Mimiqu"
+      "Mimiqui"
     ],
     "percentages": [
       "25",
       "25",
-      "20",
       "20",
       "15",
       "10",
-      "i5"
-    ]
-  },
-  {
-    "antre": "Antre 62",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT92 Éclat Magique1",
-      "BouclierObjets1★2★3★4★5★DT90 Câlinerie1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -1747,14 +1729,12 @@
     "pokemons": [
       "Goupilou",
       "Zigzaton",
-      "Baggiguane",
       "Vostourno",
       "Farfuret"
     ],
     "percentages": [
       "35",
       "35",
-      "20",
       "20",
       "10"
     ]
@@ -1764,13 +1744,11 @@
     "stars": "2",
     "pokemons": [
       "Farfuret",
-      "Baggiguane",
       "Vostourno",
       "Léopardus",
       "Linéon"
     ],
     "percentages": [
-      "30",
       "30",
       "30",
       "20",
@@ -1797,14 +1775,12 @@
     "antre": "Antre 63",
     "stars": "4",
     "pokemons": [
-      "Baggaïd",
       "Vaututrice",
       "Dimoret",
       "Pandarbare",
       "Roublenard"
     ],
     "percentages": [
-      "40",
       "40",
       "20",
       "20",
@@ -1815,36 +1791,20 @@
     "antre": "Antre 63",
     "stars": "5",
     "pokemons": [
-      "Baggaïd",
       "Vaututrice",
       "Dimoret",
       "Pandarbare",
       "Ixon",
       "Roublenard",
-      "Trioxhydr",
-      "Tyranoci"
+      "Tyranocif"
     ],
     "percentages": [
-      "25",
       "25",
       "25",
       "20",
       "15",
       "10",
-      "e5",
-      "f5"
-    ]
-  },
-  {
-    "antre": "Antre 63",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT95 Exécu-Son1",
-      "BouclierObjets1★2★3★4★5★DT32 Mâchouille1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -1854,14 +1814,12 @@
       "Kraknoix",
       "Coupenotte",
       "Verpom",
-      "Bébécaille",
       "Mucuscule"
     ],
     "percentages": [
       "35",
       "20",
       "35",
-      "10",
       "10"
     ]
   },
@@ -1869,18 +1827,12 @@
     "antre": "Antre 64",
     "stars": "2",
     "pokemons": [
-      "Coupenotte",
-      "Bébécaille",
-      "Incisache",
       "Fantyrm",
       "Kraknoix",
       "Mucuscule",
       "Vibraninf"
     ],
     "percentages": [
-      "30",
-      "30",
-      "20",
       "20",
       "30",
       "30",
@@ -1891,18 +1843,12 @@
     "antre": "Antre 64",
     "stars": "3",
     "pokemons": [
-      "Incisache",
-      "Boumata",
-      "Écaïd",
       "Fantyrm",
       "Vibraninf",
       "Draïeul",
       "Colimucus"
     ],
     "percentages": [
-      "40",
-      "20",
-      "20",
       "20",
       "40",
       "20",
@@ -1913,18 +1859,12 @@
     "antre": "Antre 64",
     "stars": "4",
     "pokemons": [
-      "Boumata",
-      "Écaïd",
-      "Ékaïser",
       "Dispareptil",
       "Draïeul",
       "Colimucus",
       "Muplodocus"
     ],
     "percentages": [
-      "20",
-      "20",
-      "20",
       "40",
       "20",
       "20",
@@ -1935,40 +1875,20 @@
     "antre": "Antre 64",
     "stars": "5",
     "pokemons": [
-      "Boumata",
-      "Écaïd",
-      "Ékaïser",
-      "Tranchodon",
       "Dispareptil",
-      "Lanssorie",
+      "Lanssorien",
       "Draïeul",
       "Colimucus",
       "Muplodocus",
       "Libégon"
     ],
     "percentages": [
-      "20",
-      "10",
       "25",
-      "15",
-      "25",
-      "n5",
+      "5",
       "20",
       "10",
       "25",
       "15"
-    ]
-  },
-  {
-    "antre": "Antre 64",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT47 Draco-Griffe1",
-      "BouclierObjets1★2★3★4★5★DT62 Draco-Choc1"
-    ],
-    "percentages": [
-      "00",
-      "00"
     ]
   },
   {
@@ -2023,17 +1943,13 @@
     "antre": "Antre 65",
     "stars": "4",
     "pokemons": [
-      "Wimessir M",
-      "Wimessir F",
+      "Wimessir",
       "Déflaisan",
-      "Gueriaigle",
       "Gouroutan",
       "Moumouflon"
     ],
     "percentages": [
       "40",
-      "40",
-      "20",
       "20",
       "20",
       "20"
@@ -2043,96 +1959,70 @@
     "antre": "Antre 65",
     "stars": "5",
     "pokemons": [
-      "Gueriaigle",
       "Gouroutan",
-      "Wimessir M",
-      "Wimessir F"
-    ],
-    "percentages": [
-      "25",
-      "25",
-      "25",
-      "25"
-    ]
-  },
-  {
-    "antre": "Antre 65",
-    "stars": "6",
-    "pokemons": [
+      "Wimessir",
       "Moumouflon",
-      "Évoli",
+      "Evoli",
       "Déflaisan",
-      "Ronfle"
+      "Ronflex"
     ],
     "percentages": [
+      "25",
+      "25",
       "20",
       "15",
       "10",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 65",
-    "stars": "7",
-    "pokemons": [
-      "Récompenses AObjets1★2★3★4★5★DT42 Mégaphone1",
-      "Récompenses BObjets1★2★3★4★5★DT27 Blabla Dodo1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
     "antre": "Antre 66",
     "stars": "1",
     "pokemons": [
-      "Métamorph1"
+      "Métamorph"
     ],
     "percentages": [
-      "00"
+      "100"
     ]
   },
   {
     "antre": "Antre 66",
     "stars": "2",
     "pokemons": [
-      "Métamorph1"
+      "Métamorph"
     ],
     "percentages": [
-      "00"
+      "100"
     ]
   },
   {
     "antre": "Antre 66",
     "stars": "3",
     "pokemons": [
-      "Métamorph1"
+      "Métamorph"
     ],
     "percentages": [
-      "00"
+      "100"
     ]
   },
   {
     "antre": "Antre 66",
     "stars": "4",
     "pokemons": [
-      "Métamorph",
       "Métamorph"
     ],
     "percentages": [
-      "50",
-      "50"
+      "100"
     ]
   },
   {
     "antre": "Antre 66",
     "stars": "5",
     "pokemons": [
-      "Métamorph1"
+      "Métamorph"
     ],
     "percentages": [
-      "00"
+      "100"
     ]
   },
   {
@@ -2142,13 +2032,13 @@
       "Babimanta",
       "Embrochet",
       "Khélocrok",
-      "Écrapinc"
+      "Écrapince"
     ],
     "percentages": [
       "68",
       "20",
       "10",
-      "e2"
+      "2"
     ]
   },
   {
@@ -2158,13 +2048,11 @@
       "Khélocrok",
       "Embrochet",
       "Bargantua",
-      "Bargantua",
       "Vorastérie"
     ],
     "percentages": [
       "30",
       "30",
-      "20",
       "20",
       "20"
     ]
@@ -2174,13 +2062,11 @@
     "stars": "3",
     "pokemons": [
       "Bargantua",
-      "Bargantua",
       "Colhomard",
       "Vorastérie",
       "Prédastérie"
     ],
     "percentages": [
-      "40",
       "40",
       "20",
       "20",
@@ -2211,14 +2097,14 @@
       "Concombaffe",
       "Prédastérie",
       "Lokhlass",
-      "Aqual"
+      "Aquali"
     ],
     "percentages": [
       "35",
       "35",
       "15",
       "10",
-      "i5"
+      "5"
     ]
   },
   {
@@ -2293,14 +2179,14 @@
       "M. Glaquette",
       "Rhinolove",
       "Sorcilence",
-      "Mental"
+      "Mentali"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "15",
-      "i5"
+      "5"
     ]
   },
   {
@@ -2376,7 +2262,7 @@
       "Pandarbare",
       "Ixon",
       "Roublenard",
-      "Noctal"
+      "Noctali"
     ],
     "percentages": [
       "25",
@@ -2384,19 +2270,7 @@
       "20",
       "15",
       "10",
-      "i5"
-    ]
-  },
-  {
-    "antre": "Antre 69",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT32 Mâchouille1",
-      "BouclierObjets1★2★3★4★5★DT95 Exécu-Son1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -2472,7 +2346,7 @@
       "Noacier",
       "Farfaduvet",
       "Ceriflor",
-      "Phyllal"
+      "Phyllali"
     ],
     "percentages": [
       "25",
@@ -2480,20 +2354,18 @@
       "20",
       "15",
       "10",
-      "i5"
+      "5"
     ]
   },
   {
     "antre": "Antre 71",
     "stars": "1",
     "pokemons": [
-      "Goupix",
       "Caninos",
       "Grillepattes",
       "Funécire"
     ],
     "percentages": [
-      "45",
       "45",
       "35",
       "20"
@@ -2503,18 +2375,14 @@
     "antre": "Antre 71",
     "stars": "2",
     "pokemons": [
-      "Goupix",
       "Caninos",
       "Funécire",
       "Wagomine",
-      "Mélancolux",
       "Aflamanoir"
     ],
     "percentages": [
       "30",
       "30",
-      "30",
-      "20",
       "20",
       "20"
     ]
@@ -2542,13 +2410,11 @@
       "Feunard",
       "Arcanin",
       "Chartor",
-      "Aflamanoir",
       "Mélancolux"
     ],
     "percentages": [
       "50",
       "10",
-      "20",
       "20",
       "20"
     ]
@@ -2561,14 +2427,14 @@
       "Arcanin",
       "Chartor",
       "Lugulabre",
-      "Pyrol"
+      "Pyroli"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "15",
-      "i5"
+      "5"
     ]
   },
   {
@@ -2644,7 +2510,7 @@
       "Salarsen",
       "Pikachu",
       "Fulgudog",
-      "Voltal"
+      "Voltali"
     ],
     "percentages": [
       "25",
@@ -2652,19 +2518,7 @@
       "20",
       "15",
       "10",
-      "i5"
-    ]
-  },
-  {
-    "antre": "Antre 72",
-    "stars": "6",
-    "pokemons": [
-      "Récompenses AObjets1★2★3★4★5★DT86 Éclair Fou1",
-      "Récompenses BObjets1★2★3★4★5★DT86 Éclair Fou1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -2690,13 +2544,13 @@
       "Grelaçon",
       "M. Mime",
       "Stalgamin",
-      "Sorbou"
+      "Sorboul"
     ],
     "percentages": [
       "40",
       "30",
       "25",
-      "l5"
+      "5"
     ]
   },
   {
@@ -2706,13 +2560,13 @@
       "Séracrawl",
       "Stalgamin",
       "Beldeneige",
-      "Sorbou"
+      "Sorboul"
     ],
     "percentages": [
       "35",
       "30",
       "30",
-      "l5"
+      "5"
     ]
   },
   {
@@ -2739,14 +2593,14 @@
       "Sorbouboul",
       "M. Glaquette",
       "Momartik",
-      "Givral"
+      "Givrali"
     ],
     "percentages": [
       "35",
       "25",
       "25",
       "10",
-      "i5"
+      "5"
     ]
   },
   {
@@ -2754,13 +2608,11 @@
     "stars": "1",
     "pokemons": [
       "Togepi",
-      "Sucroquin",
       "Fluvetin",
       "Grimalin",
       "Tarsal"
     ],
     "percentages": [
-      "35",
       "35",
       "35",
       "20",
@@ -2789,13 +2641,11 @@
     "pokemons": [
       "Fourbelin",
       "Togetic",
-      "Cupcanaille",
       "Cocotine",
       "Crèmy"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -2806,14 +2656,12 @@
     "stars": "4",
     "pokemons": [
       "Angoliath",
-      "Cupcanaille",
       "Cocotine",
       "Crèmy",
       "Gardevoir"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -2827,9 +2675,8 @@
       "Angoliath",
       "Crèmy",
       "Togekiss",
-      "Cupcanaille",
       "Cocotine",
-      "Nymphal"
+      "Nymphali"
     ],
     "percentages": [
       "25",
@@ -2837,20 +2684,7 @@
       "20",
       "15",
       "10",
-      "10",
-      "i5"
-    ]
-  },
-  {
-    "antre": "Antre 74",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT90 Câlinerie1",
-      "BouclierObjets1★2★3★4★5★DT92 Éclat Magique1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -2860,13 +2694,13 @@
       "Magicarpe",
       "Axoloto",
       "Barloche",
-      "Araqu"
+      "Araqua"
     ],
     "percentages": [
       "68",
       "20",
       "10",
-      "a2"
+      "2"
     ]
   },
   {
@@ -2942,13 +2776,13 @@
       "Babimanta",
       "Wailmer",
       "Opermine",
-      "Rémorai"
+      "Rémoraid"
     ],
     "percentages": [
       "68",
       "20",
       "10",
-      "d2"
+      "2"
     ]
   },
   {
@@ -2974,12 +2808,10 @@
       "Concombaffe",
       "Krabby",
       "Krabboss",
-      "Bargantua",
       "Bargantua"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -2992,12 +2824,10 @@
       "Octillery",
       "Krabboss",
       "Qwilfish",
-      "Bargantua",
       "Bargantua"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -3011,13 +2841,11 @@
       "Qwilfish",
       "Démanta",
       "Wailord",
-      "Bargantua",
       "Bargantua"
     ],
     "percentages": [
       "35",
       "35",
-      "10",
       "10",
       "10",
       "10"
@@ -3027,14 +2855,12 @@
     "antre": "Antre 77",
     "stars": "1",
     "pokemons": [
-      "Goupix",
       "Caninos",
       "Grillepattes",
       "Funécire",
       "Salamèche"
     ],
     "percentages": [
-      "35",
       "35",
       "35",
       "20",
@@ -3048,13 +2874,11 @@
       "Funécire",
       "Salamèche",
       "Reptincel",
-      "Feunard",
       "Aflamanoir"
     ],
     "percentages": [
       "30",
       "30",
-      "20",
       "20",
       "20"
     ]
@@ -3063,14 +2887,12 @@
     "antre": "Antre 77",
     "stars": "3",
     "pokemons": [
-      "Feunard",
       "Aflamanoir",
       "Reptincel",
       "Chartor"
     ],
     "percentages": [
-      "40",
-      "20",
+      "60",
       "20",
       "20"
     ]
@@ -3081,14 +2903,12 @@
     "pokemons": [
       "Malamandre",
       "Arcanin",
-      "Feunard",
       "Chartor",
       "Aflamanoir"
     ],
     "percentages": [
       "40",
       "40",
-      "20",
       "20",
       "20"
     ]
@@ -3099,18 +2919,16 @@
     "pokemons": [
       "Malamandre",
       "Arcanin",
-      "Feunard",
       "Chartor",
       "Scolocendre",
-      "Dracaufeu G-ma"
+      "Dracaufeu"
     ],
     "percentages": [
       "30",
       "30",
-      "30",
       "20",
       "15",
-      "x5"
+      "5"
     ]
   },
   {
@@ -3136,13 +2954,11 @@
       "Krabby",
       "Khélocrok",
       "Bargantua",
-      "Bargantua",
       "Concombaffe"
     ],
     "percentages": [
       "30",
       "30",
-      "20",
       "20",
       "20"
     ]
@@ -3152,13 +2968,11 @@
     "stars": "3",
     "pokemons": [
       "Bargantua",
-      "Bargantua",
       "Concombaffe",
       "Krabboss",
       "Qwilfish"
     ],
     "percentages": [
-      "40",
       "40",
       "20",
       "20",
@@ -3189,14 +3003,14 @@
       "Froussardine",
       "Krabboss",
       "Tritosor",
-      "Torgamord G-ma"
+      "Torgamord"
     ],
     "percentages": [
       "30",
       "30",
       "20",
       "15",
-      "x5"
+      "5"
     ]
   },
   {
@@ -3204,13 +3018,11 @@
     "stars": "1",
     "pokemons": [
       "Rozbouton",
-      "Grainipiot",
       "Nénupiot",
       "Tournicoton",
       "Grindur"
     ],
     "percentages": [
-      "35",
       "35",
       "35",
       "20",
@@ -3223,12 +3035,10 @@
     "pokemons": [
       "Tournicoton",
       "Grindur",
-      "Pifeuil",
       "Lombre",
       "Verpom"
     ],
     "percentages": [
-      "30",
       "30",
       "20",
       "20",
@@ -3240,16 +3050,12 @@
     "stars": "3",
     "pokemons": [
       "Verpom",
-      "Pifeuil",
       "Lombre",
-      "Tengalice",
       "Ludicolo",
       "Rosélia"
     ],
     "percentages": [
       "40",
-      "20",
-      "20",
       "20",
       "20",
       "20"
@@ -3260,14 +3066,12 @@
     "stars": "4",
     "pokemons": [
       "Noacier",
-      "Tengalice",
       "Ludicolo",
       "Rosélia",
       "Blancoton"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -3279,48 +3083,30 @@
     "pokemons": [
       "Noacier",
       "Blancoton",
-      "Tengalice",
       "Ludicolo",
       "Roserade",
       "Rosélia",
-      "Pomdrapi G-ma",
-      "Dratatin G-ma"
+      "Dratatin"
     ],
     "percentages": [
       "25",
       "25",
-      "20",
       "20",
       "15",
       "10",
-      "x5",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 79",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT59 Canon Graine1",
-      "BouclierObjets1★2★3★4★5★DT65 Éco-Sphère1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
     "antre": "Antre 80",
     "stars": "1",
     "pokemons": [
-      "Goupix",
       "Caninos",
       "Grillepattes",
       "Funécire",
       "Tritox"
     ],
     "percentages": [
-      "35",
       "35",
       "35",
       "20",
@@ -3364,14 +3150,12 @@
     "stars": "4",
     "pokemons": [
       "Lugulabre",
-      "Feunard",
       "Arcanin",
       "Chartor",
       "Aflamanoir"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -3381,41 +3165,23 @@
     "antre": "Antre 80",
     "stars": "5",
     "pokemons": [
-      "Feunard",
       "Arcanin",
       "Lugulabre",
       "Monthracite",
       "Chartor",
-      "Scolocendre G-ma"
+      "Scolocendre"
     ],
     "percentages": [
       "35",
       "35",
-      "35",
       "15",
       "10",
-      "x5"
+      "5"
     ]
   },
   {
     "antre": "Antre 81",
     "stars": "1",
-    "pokemons": [
-      "Riolu",
-      "Machoc",
-      "Nounourson",
-      "Canarticho"
-    ],
-    "percentages": [
-      "35",
-      "35",
-      "20",
-      "10"
-    ]
-  },
-  {
-    "antre": "Antre 81",
-    "stars": "2",
     "pokemons": [
       "Monorpale",
       "Tutafeh",
@@ -3431,23 +3197,7 @@
   },
   {
     "antre": "Antre 81",
-    "stars": "3",
-    "pokemons": [
-      "Canarticho",
-      "Nounourson",
-      "Chelours",
-      "Machopeur"
-    ],
-    "percentages": [
-      "30",
-      "30",
-      "20",
-      "20"
-    ]
-  },
-  {
-    "antre": "Antre 81",
-    "stars": "4",
+    "stars": "2",
     "pokemons": [
       "Fantominus",
       "Théffroi",
@@ -3463,23 +3213,7 @@
   },
   {
     "antre": "Antre 81",
-    "stars": "5",
-    "pokemons": [
-      "Machopeur",
-      "Brutalibré",
-      "Chelours",
-      "Hexadron"
-    ],
-    "percentages": [
-      "40",
-      "20",
-      "20",
-      "20"
-    ]
-  },
-  {
-    "antre": "Antre 81",
-    "stars": "6",
+    "stars": "3",
     "pokemons": [
       "Corayon",
       "Spectrum",
@@ -3495,25 +3229,7 @@
   },
   {
     "antre": "Antre 81",
-    "stars": "7",
-    "pokemons": [
-      "Gallame",
-      "Brutalibré",
-      "Lucario",
-      "Machopeur",
-      "Hexadron"
-    ],
-    "percentages": [
-      "40",
-      "20",
-      "20",
-      "10",
-      "10"
-    ]
-  },
-  {
-    "antre": "Antre 81",
-    "stars": "8",
+    "stars": "4",
     "pokemons": [
       "Corayôme",
       "Ténéfix",
@@ -3531,50 +3247,20 @@
   },
   {
     "antre": "Antre 81",
-    "stars": "9",
-    "pokemons": [
-      "Lucario",
-      "Brutalibré",
-      "Gallame",
-      "Mackogneur G-ma",
-      "Canartich"
-    ],
-    "percentages": [
-      "39",
-      "30",
-      "25",
-      "x5",
-      "o1"
-    ]
-  },
-  {
-    "antre": "Antre 81",
-    "stars": "10",
+    "stars": "5",
     "pokemons": [
       "Polthégeist",
       "Ténéfix",
       "Corayôme",
-      "Ectoplasma G-ma",
-      "Tutétékr"
+      "Ectoplasma",
+      "Tutétékri"
     ],
     "percentages": [
       "39",
       "30",
       "25",
-      "x5",
-      "i1"
-    ]
-  },
-  {
-    "antre": "Antre 81",
-    "stars": "11",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT56 Aurasphère1",
-      "BouclierObjets1★2★3★4★5★DT33 Ball'Ombre1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5",
+      "1"
     ]
   },
   {
@@ -3582,13 +3268,11 @@
     "stars": "1",
     "pokemons": [
       "Togepi",
-      "Spododo",
       "Ponyta",
       "Grimalin",
       "Tarsal"
     ],
     "percentages": [
-      "35",
       "35",
       "35",
       "20",
@@ -3618,12 +3302,10 @@
       "Lampignon",
       "Togetic",
       "Fourbelin",
-      "Mysdibule",
       "Galopa"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -3635,13 +3317,11 @@
     "pokemons": [
       "Togekiss",
       "Fourbelin",
-      "Mysdibule",
       "Galopa",
       "Gardevoir"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -3654,50 +3334,20 @@
       "Gardevoir",
       "Togekiss",
       "Angoliath",
-      "Mysdibule",
       "Galopa",
-      "Charmilly G-ma"
+      "Charmilly"
     ],
     "percentages": [
       "35",
       "35",
       "15",
       "10",
-      "10",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 82",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT90 Câlinerie1",
-      "BouclierObjets1★2★3★4★5★DT92 Éclat Magique1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
     "antre": "Antre 83",
     "stars": "1",
-    "pokemons": [
-      "Crabicoque",
-      "Manzaï",
-      "Charbi",
-      "Opermine"
-    ],
-    "percentages": [
-      "35",
-      "35",
-      "20",
-      "10"
-    ]
-  },
-  {
-    "antre": "Antre 83",
-    "stars": "2",
     "pokemons": [
       "Sorbébé",
       "Polarhume",
@@ -3713,87 +3363,39 @@
   },
   {
     "antre": "Antre 83",
-    "stars": "3",
-    "pokemons": [
-      "Opermine",
-      "Charbi",
-      "Simularbre",
-      "Wagomine"
-    ],
-    "percentages": [
-      "30",
-      "30",
-      "20",
-      "20"
-    ]
-  },
-  {
-    "antre": "Antre 83",
-    "stars": "4",
+    "stars": "2",
     "pokemons": [
       "Grelaçon",
       "M. Mime",
       "Stalgamin",
-      "Cadoiz"
+      "Cadoizo"
     ],
     "percentages": [
       "40",
       "30",
       "25",
-      "o5"
+      "5"
     ]
   },
   {
     "antre": "Antre 83",
-    "stars": "5",
-    "pokemons": [
-      "Simularbre",
-      "Onix",
-      "Golgopathe",
-      "Wagomine"
-    ],
-    "percentages": [
-      "40",
-      "20",
-      "20",
-      "20"
-    ]
-  },
-  {
-    "antre": "Antre 83",
-    "stars": "6",
+    "stars": "3",
     "pokemons": [
       "Séracrawl",
       "Stalgamin",
       "Oniglali",
-      "Cadoiz"
+      "Cadoizo"
     ],
     "percentages": [
       "35",
       "30",
       "30",
-      "o5"
+      "5"
     ]
   },
   {
     "antre": "Antre 83",
-    "stars": "7",
-    "pokemons": [
-      "Steelix",
-      "Onix",
-      "Crabaraque",
-      "Golgopathe"
-    ],
-    "percentages": [
-      "40",
-      "20",
-      "20",
-      "20"
-    ]
-  },
-  {
-    "antre": "Antre 83",
-    "stars": "8",
+    "stars": "4",
     "pokemons": [
       "M. Glaquette",
       "Oniglali",
@@ -3809,50 +3411,20 @@
   },
   {
     "antre": "Antre 83",
-    "stars": "9",
-    "pokemons": [
-      "Steelix",
-      "Crabaraque",
-      "Dolman",
-      "Onix",
-      "Monthracite G-ma"
-    ],
-    "percentages": [
-      "35",
-      "35",
-      "15",
-      "10",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 83",
-    "stars": "10",
+    "stars": "5",
     "pokemons": [
       "Sorbouboul",
       "M. Glaquette",
       "Bekaglaçon",
       "Oniglali",
-      "Lokhlass G-ma"
+      "Lokhlass"
     ],
     "percentages": [
       "35",
       "35",
       "15",
       "10",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 83",
-    "stars": "11",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT87 Tunnelier1",
-      "BouclierObjets1★2★3★4★5★DT05 Laser Glace1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -3878,13 +3450,11 @@
       "Tic",
       "Scalpion",
       "Onix",
-      "Fermite",
       "Clic"
     ],
     "percentages": [
       "30",
       "30",
-      "20",
       "20",
       "20"
     ]
@@ -3911,13 +3481,11 @@
     "pokemons": [
       "Steelix",
       "Archéodong",
-      "Clic",
       "Fermite",
       "Scalproie"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -3931,26 +3499,14 @@
       "Scalproie",
       "Archéodong",
       "Cliticlic",
-      "Duralugon G-ma"
+      "Duralugon"
     ],
     "percentages": [
       "35",
       "35",
       "10",
       "15",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 84",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT79 Tacle Lourd1",
-      "BouclierObjets1★2★3★4★5★DT70 Luminocanon1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -4025,26 +3581,14 @@
       "Scalproie",
       "Duralugon",
       "Noacier",
-      "Pachyradjah G-ma"
+      "Pachyradjah"
     ],
     "percentages": [
       "35",
       "35",
       "15",
       "10",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 85",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT70 Luminocanon1",
-      "BouclierObjets1★2★3★4★5★DT79 Tacle Lourd1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -4069,14 +3613,12 @@
     "pokemons": [
       "Smogo",
       "Rapion",
-      "Vorastérie",
       "Tritox",
       "Toxizap"
     ],
     "percentages": [
       "30",
       "30",
-      "20",
       "20",
       "20"
     ]
@@ -4087,13 +3629,11 @@
     "pokemons": [
       "Toxizap",
       "Drascore",
-      "Vorastérie",
       "Tritox",
       "Salarsen"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -4121,30 +3661,16 @@
     "pokemons": [
       "Smogogo",
       "Moufflair",
-      "Prédastérie",
       "Malamandre",
       "Salarsen",
-      "Miasmax G-ma"
+      "Miasmax"
     ],
     "percentages": [
       "35",
       "35",
-      "15",
       "15",
       "10",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 86",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT57 Direct Toxik1",
-      "BouclierObjets1★2★3★4★5★DT54 Pics Toxik1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -4152,13 +3678,11 @@
     "stars": "1",
     "pokemons": [
       "Togepi",
-      "Sucroquin",
       "Fluvetin",
       "Grimalin",
       "Tarsal"
     ],
     "percentages": [
-      "35",
       "35",
       "35",
       "20",
@@ -4187,13 +3711,11 @@
     "pokemons": [
       "Fourbelin",
       "Togetic",
-      "Cupcanaille",
       "Cocotine",
       "Crèmy"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -4204,14 +3726,12 @@
     "stars": "4",
     "pokemons": [
       "Angoliath",
-      "Cupcanaille",
       "Cocotine",
       "Crèmy",
       "Gardevoir"
     ],
     "percentages": [
       "40",
-      "20",
       "20",
       "20",
       "20"
@@ -4225,26 +3745,14 @@
       "Angoliath",
       "Togekiss",
       "Crèmy",
-      "Sorcilence G-ma"
+      "Sorcilence"
     ],
     "percentages": [
       "35",
       "35",
       "15",
       "10",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 87",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT90 Câlinerie1",
-      "BouclierObjets1★2★3★4★5★DT92 Éclat Magique1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -4253,14 +3761,12 @@
     "pokemons": [
       "Goupilou",
       "Zigzaton",
-      "Baggiguane",
       "Vostourno",
       "Grimalin"
     ],
     "percentages": [
       "35",
       "35",
-      "20",
       "20",
       "10"
     ]
@@ -4269,14 +3775,12 @@
     "antre": "Antre 88",
     "stars": "2",
     "pokemons": [
-      "Baggiguane",
       "Vostourno",
       "Grimalin",
       "Léopardus",
       "Linéon"
     ],
     "percentages": [
-      "30",
       "30",
       "30",
       "20",
@@ -4303,14 +3807,12 @@
     "antre": "Antre 88",
     "stars": "4",
     "pokemons": [
-      "Baggaïd",
       "Vaututrice",
       "Fourbelin",
       "Roublenard",
       "Pandarbare"
     ],
     "percentages": [
-      "40",
       "40",
       "20",
       "20",
@@ -4322,33 +3824,17 @@
     "stars": "5",
     "pokemons": [
       "Pandarbare",
-      "Baggaïd",
       "Vaututrice",
-      "Trioxhydre",
       "Tyranocif",
       "Roublenard",
-      "Angoliath G-ma"
+      "Angoliath"
     ],
     "percentages": [
       "35",
       "35",
-      "35",
-      "15",
       "15",
       "10",
-      "x5"
-    ]
-  },
-  {
-    "antre": "Antre 88",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT95 Exécu-Son1",
-      "BouclierObjets1★2★3★4★5★DT32 Mâchouille1"
-    ],
-    "percentages": [
-      "00",
-      "00"
+      "5"
     ]
   },
   {
@@ -4423,14 +3909,14 @@
       "Brutalibré",
       "Cryptéro",
       "Bekipan",
-      "Corvaillus G-ma"
+      "Corvaillus"
     ],
     "percentages": [
       "35",
       "35",
       "15",
       "10",
-      "x5"
+      "5"
     ]
   },
   {
@@ -4439,14 +3925,12 @@
     "pokemons": [
       "Sovkipou",
       "Larvadar",
-      "Carabing",
       "Escargaume",
       "Araqua",
       "Papilusion G-max"
     ],
     "percentages": [
       "30",
-      "20",
       "20",
       "20",
       "20",
@@ -4461,12 +3945,12 @@
       "Carabing",
       "Escargaume",
       "Crabicoque",
-      "Papilusion G-max"
+      "Papilusion"
     ],
     "percentages": [
       "25",
-      "25",
       "20",
+      "25",
       "20",
       "10"
     ]
@@ -4476,15 +3960,13 @@
     "stars": "3",
     "pokemons": [
       "Crabicoque",
-      "Escargaume",
       "Carabing",
       "Coléodôme",
       "Astronelle",
-      "Papilusion G-max"
+      "Papilusion"
     ],
     "percentages": [
       "30",
-      "20",
       "20",
       "20",
       "20",
@@ -4499,7 +3981,7 @@
       "Coléodôme",
       "Astronelle",
       "Tarenbulle",
-      "Papilusion G-max"
+      "Papilusion"
     ],
     "percentages": [
       "30",
@@ -4516,29 +3998,15 @@
       "Sarmuraï",
       "Tarenbulle",
       "Astronelle",
-      "Lançargot",
       "Limaspeed",
-      "Papilusion G-max"
+      "Papilusion"
     ],
     "percentages": [
       "30",
       "25",
       "20",
       "15",
-      "15",
       "10"
-    ]
-  },
-  {
-    "antre": "Antre 90",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT18 Vampirisme1",
-      "BouclierObjets1★2★3★4★5★DT60 Plaie Croix1"
-    ],
-    "percentages": [
-      "00",
-      "00"
     ]
   },
   {
@@ -4565,13 +4033,11 @@
       "Khélocrok",
       "Vorastérie",
       "Bargantua",
-      "Bargantua",
-      "Krabboss G-max"
+      "Krabboss"
     ],
     "percentages": [
       "25",
       "25",
-      "20",
       "20",
       "20",
       "10"
@@ -4582,14 +4048,12 @@
     "stars": "3",
     "pokemons": [
       "Bargantua",
-      "Bargantua",
       "Colhomard",
       "Vorastérie",
       "Prédastérie",
-      "Krabboss G-max"
+      "Krabboss"
     ],
     "percentages": [
-      "30",
       "30",
       "20",
       "20",
@@ -4605,7 +4069,7 @@
       "Colhomard",
       "Prédastérie",
       "Concombaffe",
-      "Krabboss G-max"
+      "Krabboss"
     ],
     "percentages": [
       "30",
@@ -4639,14 +4103,12 @@
     "pokemons": [
       "Sovkipou",
       "Larvadar",
-      "Carabing",
       "Escargaume",
       "Araqua"
     ],
     "percentages": [
       "35",
       "35",
-      "20",
       "20",
       "10"
     ]
@@ -4672,7 +4134,6 @@
     "stars": "3",
     "pokemons": [
       "Crabicoque",
-      "Escargaume",
       "Carabing",
       "Coléodôme",
       "Astronelle",
@@ -4680,7 +4141,6 @@
     ],
     "percentages": [
       "30",
-      "20",
       "20",
       "20",
       "20",
@@ -4695,7 +4155,7 @@
       "Tarenbulle",
       "Coléodôme",
       "Astronelle",
-      "Astronelle G-max"
+      "Astronelle"
     ],
     "percentages": [
       "30",
@@ -4714,7 +4174,7 @@
       "Astronelle",
       "Lançargot",
       "Limaspeed",
-      "Astronelle G-max"
+      "Astronelle"
     ],
     "percentages": [
       "30",
@@ -4723,18 +4183,6 @@
       "15",
       "15",
       "10"
-    ]
-  },
-  {
-    "antre": "Antre 92",
-    "stars": "6",
-    "pokemons": [
-      "ÉpéeObjets1★2★3★4★5★DT60 Plaie Croix1",
-      "BouclierObjets1★2★3★4★5★DT18 Vampirisme1"
-    ],
-    "percentages": [
-      "00",
-      "00"
     ]
   },
   {
@@ -4793,7 +4241,7 @@
       "Limonde",
       "Golemastoc",
       "Tritosor",
-      "Dunaconda G-max"
+      "Dunaconda"
     ],
     "percentages": [
       "30",
@@ -4811,7 +4259,7 @@
       "Tritosor",
       "Golemastoc",
       "Rhinastoc",
-      "Dunaconda G-max"
+      "Dunaconda"
     ],
     "percentages": [
       "30",
